@@ -1,4 +1,4 @@
-# The Barch corpus of  bar chart summaries in English
+# The Barch corpus of  bar chart summaries in English :bar_chart:
 
 This repository contains the Barch corpus of human-written bar chart summaries. 
 
