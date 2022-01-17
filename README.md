@@ -14,21 +14,22 @@ We used the data to train several natural language generation models, namely a b
 ### Project structure
 
 .
-├── data                    			# Charts and summaries
-│   ├── chart_summaries.xml			# Annotated summaries arranged by topic and chart
-│   ├── charts		     			# Chart images and summaries by topic
+├── data                                      # Charts and summaries 
+│   ├── chart_summaries.xml                   # Annotated summaries arranged by topic and chart
+│   ├── charts                                # Chart images and summaries by topic
 │   │   ├── 01
 │   │   └── ...
-│   └── chartID2plotinto.json 		# Plotting information for each chart
-├── splits_nlg                		# Data splits for NLG experiments
-│   ├── c2t					# Data for the Chart2Text model
-│   ├── kgpt					# Data for the KGPT model
-│   ├── lstm					# Data for the LSTM model
-│   └── splits\_combinations\_ids.json	# Summary IDs by data splits
-├── Annotation\_Guidelines\_2.0.pdf		# Annotation guidelines for labeling summaries
+│   └── chartID2plotinto.json                 # Plotting information for each chart
+├── splits_nlg                                # Data splits for NLG experiments
+│   ├── c2t                                   # Data for the Chart2Text model
+│   ├── kgpt                                  # Data for the KGPT model
+│   ├── lstm                                  # Data for the LSTM model
+│   └── splits\_combinations\_ids.json        # Summary IDs by data splits
+├── Annotation\_Guidelines\_2.0.pdf           # Annotation guidelines for labeling summaries
 └── README.md
 
 
 ### Citing
 The dataset is described in a paper that was submitted to review for the LREC 2022 conference.
+
 
