@@ -25,8 +25,8 @@ We used the data to train several natural language generation models, namely a b
 │   ├── c2t                                   # Data for the Chart2Text model
 │   ├── kgpt                                  # Data for the KGPT model
 │   ├── lstm                                  # Data for the LSTM model
-│   └── splits\_combinations\_ids.json        # Summary IDs by data splits
-├── Annotation\_Guidelines\_2.0.pdf           # Annotation guidelines for labeling summaries
+│   └── splits_combinations_ids.json        # Summary IDs by data splits
+├── Annotation_Guidelines_2.0.pdf           # Annotation guidelines for labeling summaries
 └── README.md
 ```
 
