@@ -1,0 +1,1197 @@
+<start_of_description>
+This
+graph
+shows
+the
+median salary of women in Majaf per year	<topic>
+.
+In
+the
+year	<x_axis>
+2000	<x_axis_label_Scnd_highest_value>
+the
+median salary	<y_axis>
+was
+£	<y_axis_inferred_label>
+22.5	<y_axis_inferred_Scnd_highest_value_approx>
+,000	<y_magnitude>
+.
+This
+increased	<slope_up>
+to
+£	<y_axis_inferred_label>
+26.5	<y_axis_inferred_highest_value_approx>
+,000    <y_magnitude>
+in
+the
+year	<x_axis>
+2005	<x_axis_label_highest_value>
+.
+There
+was
+a
+decrease	<slope_down>
+by
+the
+year	<x_axis>
+2010	<x_axis_label_3rd_highest_value>
+to
+slightly under	<y_axis_approx>
+£	<y_axis_inferred_label>
+20	<y_axis_inferred_3rd_highest_value_approx>
+,000	<y_magnitude>
+and
+another
+decrease	<slope_down>
+by
+the
+year	<x_axis>
+2015	<x_axis_label_least_value>
+to
+around	<y_axis_approx>
+£	<y_axis_inferred_label>
+16	<y_axis_least_value_val>
+,000	<y_magnitude>
+.
+<end_of_description>
+
+<start_of_description>
+This
+chart
+shows
+the
+median salary for women in Najaf per year	<topic>
+.
+\\n	<separator>
+\\n	<separator>
+In
+2000	<x_axis_label_Scnd_highest_value>
+,
+£	<y_axis_inferred_label>
+22.5	<y_axis_inferred_Scnd_highest_value_approx>
+,000    <y_magnitude>
+was
+the
+median salary	<y_axis>
+,
+which
+increased	<slope_up>
+by
+2005	<x_axis_label_highest_value>
+to
+just under	<y_axis_approx>
+£	<y_axis_inferred_label>
+26	<y_axis_inferred_highest_value_approx>
+,000	<y_magnitude>
+.
+This
+had
+dropped	<slope_down>
+by
+2010	<x_axis_label_3rd_highest_value>
+however
+,
+at
+£	<y_axis_inferred_label>
+19.75	<y_axis_inferred_3rd_highest_value_approx>
+,000    <y_magnitude>
+-
+and
+dropped	<slope_down>
+again
+in
+2015	<x_axis_label_least_value>
+.
+The
+median salary	<y_axis>
+that year	<x_axis_label_least_value>
+dropped	<slope_down>
+to
+£	<y_axis_inferred_label>
+16	<y_axis_least_value_val>
+,000	<y_magnitude>
+.
+<end_of_description>
+
+<start_of_description>
+This
+chart
+shows
+the
+median salary of women in Najaf per year	<topic>
+,
+from	<x_axis_range_start>
+2000	<x_axis_label_Scnd_highest_value>
+to	<x_axis_range_end>
+2015	<x_axis_label_least_value>
+,
+in
+pounds sterling	<y_axis_inferred_label>
+.
+It
+shows
+that
+there
+was
+a
+slight	<y_axis_trend>
+initial	<y_axis_trend>
+increase	<slope_up>
+from 2000 to 2005	<group_highest_Scnd>
+,
+but
+since
+then
+,
+salaries	<y_axis>
+have
+been
+declining	<slope_down>
+and
+women	<t=1_a=b>
+were
+earning
+almost	<y_axis_approx>
+£	<y_axis_inferred_label>
+10	<y_axis_inferred_value_add_v1=least_v2=highest>	
+,000	<y_magnitude>
+less	<y_axis_trend_down>
+per
+year	<x_axis>
+in
+2015	<x_axis_label_least_value>
+than
+they
+were
+a
+decade earlier	<x_axis_label_highest_value>
+.
+<end_of_description>
+
+<start_of_description>
+This
+chart
+represents
+the
+Median Salary of Women in Najaf per year	<topic>
+ranging
+from	<x_axis_range_start>
+the
+years	<x_axis>
+2000	<x_axis_label_Scnd_highest_value>
+to	<x_axis_range_end>
+2015	<x_axis_label_least_value>
+.
+\\n	<separator>
+\\n	<separator>
+In
+the
+year	<x_axis>
+2000	<x_axis_label_Scnd_highest_value>
+it
+started
+off
+at
+£	<y_axis_inferred_label>
+23	<y_axis_inferred_Scnd_highest_value_approx>
+,000    <y_magnitude>
+.
+\\n	<separator>
+\\n	<separator>
+The
+highest	<y_axis_highest_value>
+salary	<y_axis>
+is
+£	<y_axis_inferred_label>
+26	<y_axis_inferred_highest_value_approx>
+,000	<y_magnitude>
+in
+the
+year
+2005	<x_axis_label_highest_value>
+.
+\\n	<separator>
+\\n	<separator>
+Then
+it
+drops	<slope_down>
+in
+the
+next
+10	<x_interval>	
+years	<x_axis>
+from
+£	<y_axis_inferred_label>
+19	<y_axis_inferred_3rd_highest_value_approx>
+,000	<y_magnitude>
+in
+year	<x_axis>
+2010	<x_axis_label_3rd_highest_value>
+to
+£	<y_axis_inferred_label>
+16	<y_axis_least_value_val>
+,000	<y_magnitude>
+in
+2015	<x_axis_label_least_value>
+.
+<end_of_description>
+
+<start_of_description>
+The
+chart
+shows
+median salary of women in Najaf per year	<topic>
+.
+\\n	<separator>
+\\n	<separator>
+Salary	<y_axis>
+earned	<t=0_a=y>
+in
+2000	<x_axis_label_Scnd_highest_value>
+was
+£	<y_axis_inferred_label>
+22	<y_axis_inferred_Scnd_highest_value_approx>
+000	<y_magnitude>
+,
+in
+2005	<x_axis_label_highest_value>
+£	<y_axis_inferred_label>
+26	<y_axis_inferred_highest_value_approx>
+000	<y_magnitude>
+,
+in
+2010	<x_axis_label_3rd_highest_value>
+£	<y_axis_inferred_label>
+19.5	<y_axis_inferred_3rd_highest_value_approx>
+000	<y_magnitude>
+and
+in
+2015	<x_axis_label_least_value>
+the
+salary	<y_axis>
+earned	<t=0_a=y>
+per
+year	<x_axis>
+dropped	<slope_down>
+to
+£	<y_axis_inferred_label>
+16	<y_axis_least_value_val>
+000	<y_magnitude>
+.
+\\n	<separator>
+The
+results
+show
+that
+salary	<y_axis>
+earned	<t=0_a=y>
+has
+been
+decreasing	<slope_down>
+over the years	<x_axis_trend>
+.
+<end_of_description>
+
+<start_of_description>
+This
+graph
+shows
+the
+median salary of women in Najaf	<topic>
+over
+four different	<x_axis_labels_count>
+years	<x_axis>
+,
+2000, 2005, 2010 and 2015	<x_axis_labels>
+.
+Salaries	<y_axis>
+increased	<slope_up>
+from
+£	<y_axis_inferred_label>
+23	<y_axis_inferred_Scnd_highest_value_approx>
+000	<y_magnitude>
+in
+2000	<x_axis_label_Scnd_highest_value>
+to
+£	<y_axis_inferred_label>
+25	<y_axis_inferred_highest_value_approx>
+000	<y_magnitude>
+in
+2005	<x_axis_label_highest_value>
+but
+have
+fallen	<slope_down>
+since
+to	<x_axis_range_end>
+just under	<y_axis_approx>
+£	<y_axis_inferred_label>
+20	<y_axis_inferred_3rd_highest_value_approx>
+000	<y_magnitude>	
+in
+2010	<x_axis_label_3rd_highest_value>
+falling	<slope_down>
+further
+in
+2015	<x_axis_label_least_value>
+to	<x_axis_range_end>
+£	<y_axis_inferred_label>
+16	<y_axis_least_value_val>
+000	<y_magnitude>	
+.
+<end_of_description>
+
+<start_of_description>
+This
+chart
+shows
+the
+median salary of women in Najaf
+in
+the
+years 2000, 2005, 2010 and 2015	<x_axis_labels>
+.
+The
+women	<t=1_a=b>
+in
+najaf	<t=1_a=b>
+earned
+around	<y_axis_approx>
+£	<y_axis_inferred_label>
+22	<y_axis_inferred_Scnd_highest_value_approx>
+,000	<y_magnitude>
+in
+2000	<x_axis_label_Scnd_highest_value>
+.
+In
+2005	<x_axis_label_highest_value>
+they
+earned
+just over	<y_axis_approx>
+£	<y_axis_inferred_label>
+25	<y_axis_inferred_highest_value_approx>
+,000	<y_magnitude>
+.
+In
+2010	<x_axis_label_3rd_highest_value>
+they
+earned
+under	<y_axis_approx>
+£	<y_axis_inferred_label>
+20	<y_axis_inferred_3rd_highest_value_approx>
+,000	<y_magnitude>
+.
+Lastly	<order_last>
+in
+2015	<x_axis_label_least_value>
+they
+earned
+the
+lowest	<y_axis_least_value>
+at
+£	<y_axis_inferred_label>
+16	<y_axis_least_value_val>
+,000	<y_magnitude>
+.
+<end_of_description>
+
+<start_of_description>
+This
+chart
+shows
+the
+median salary of women in najaf per year	<topic>
+.
+In
+2000	<x_axis_label_Scnd_highest_value>
+it
+was
+22.5	<y_axis_inferred_Scnd_highest_value_approx>
+000	<y_magnitude>
+pounds	<y_axis_inferred_label>
+,
+rising	<slope_up>
+to
+25	<y_axis_inferred_highest_value_approx>
+000	<y_magnitude>
+in
+2005	<x_axis_label_highest_value>
+then	<order_3rd>
+dropping	<slope_down>
+to
+20	<y_axis_inferred_3rd_highest_value_approx>
+000	<y_magnitude>
+in
+2010	<x_axis_label_3rd_highest_value>
+and
+lowering	<slope_down>
+again
+to	<x_axis_range_end>
+16	<y_axis_least_value_val>
+000	<y_magnitude>
+in
+2015	<x_axis_label_least_value>
+<end_of_description>
+
+<start_of_description>
+The
+salary of women in Najaf	<y_axis>
+fluctuated	<slope_mix>
+between
+£	<y_axis_inferred_label>
+16	<y_axis_least_value_val>
+,000	<y_magnitude>
+to
+£	<y_axis_inferred_label>
+26	<y_axis_inferred_highest_value_approx>
+,000	<y_magnitude>
+between	<x_axis_range_start>
+2000	<x_axis_label_Scnd_highest_value>
+and	<x_axis_range_end>
+2015	<x_axis_label_least_value>
+,
+with
+the
+highest	<y_axis_highest_value>
+point	<y_axis>
+being
+2005	<x_axis_label_highest_value>
+and
+the
+lowest	<y_axis_least_value>
+being
+2015	<x_axis_label_least_value>
+.
+<end_of_description>
+
+<start_of_description>
+The
+chart
+shows
+the
+Median salary of Women in Najaf	<topic>
+.
+In
+2000	<x_axis_label_Scnd_highest_value>
+the
+median salary	<y_axis>
+was
+approximately	<y_axis_approx>
+22	<y_axis_inferred_Scnd_highest_value_approx>
+k    <y_magnitude>
+.
+Over the next 5	years	<x_axis_label_highest_value>
+there
+was
+a
+healthy	<y_axis_trend>
+increase	<slope_up>
+to
+the
+median	salary	<y_axis>
+of
+18	<y_axis_inferred_value_mul_v1=highest_v2=Scnd> 
+%	<y_axis_inferred_label>
+however
+over the next ten years	<x_axis_label_least_value>
+(
+2005	<x_axis_label_highest_value>
+-	<x_axis_range_end>
+2015	<x_axis_label_least_value>
+)
+this
+decreased	<slope_down>
+.
+From	<x_axis_range_start>
+2005	<x_axis_label_highest_value>
+to	<x_axis_range_end>
+2010	<x_axis_label_3rd_highest_value>
+there
+was
+a
+27	<y_axis_inferred_value_mul_v1=3rd_v2=highest>
+%	<y_axis_inferred_label>
+decrease	<slope_down>
+in
+median salary	<y_axis>
+and
+a
+further
+16	<y_axis_inferred_value_mul_v1=least_v2=3rd> 
+%	<y_axis_inferred_label>
+decrease	<slope_down>
+to	<x_axis_range_end>
+2015	<x_axis_label_least_value>
+.
+<end_of_description>
+
+<start_of_description>
+The
+graph
+shows
+the
+median salary of woman in Najaf per year	<topic>
+from	<x_axis_range_start>
+2000	<x_axis_label_Scnd_highest_value>
+to	<x_axis_range_end>
+2015	<x_axis_label_least_value>
+.
+The
+median salary	<y_axis>
+was
+highest	<y_axis_highest_value>
+in
+2005	<x_axis_label_highest_value>
+with
+£	<y_axis_inferred_label>
+26	<y_axis_inferred_highest_value_approx>
+,000	<y_magnitude>
+.
+Since
+2005	<x_axis_label_highest_value>
+it
+has
+dropped	<slope_down>
+,
+staying
+at
+£	<y_axis_inferred_label>
+19	<y_axis_inferred_3rd_highest_value_approx>
+,000	<y_magnitude>
+in
+2010	<x_axis_label_3rd_highest_value>
+and
+then	<order_last>
+£	<y_axis_inferred_label>
+16	<y_axis_least_value_val>
+,000	<y_magnitude>
+in
+2015	<x_axis_label_least_value>
+.
+<end_of_description>
+
+<start_of_description>
+The
+Median salary	<y_axis>
+per
+year	<x_axis>
+of
+women	<t=1_a=b>
+in
+Najaf	<t=1_a=b>
+has
+been
+changing	<slope_mix> 
+with the years	<x_axis_trend>
+,
+the
+highest	<y_axis_highest_value>
+amount	<y_axis>
+was
+on
+2005	<x_axis_label_highest_value>
+,
+being
+this
+£	<y_axis_inferred_label>
+26	<y_axis_inferred_highest_value_approx>
+000	<y_magnitude>
+,
+which
+was good sign   <interpretation>
+of
+growing	<slope_up>
+since
+it
+was
+around	<y_axis_approx>
+£	<y_axis_inferred_label>
+22.5	<y_axis_inferred_Scnd_highest_value_approx>
+000	<y_magnitude>
+in
+the
+year	<x_axis>
+2000	<x_axis_label_Scnd_highest_value>
+.
+Unfortunately	<interpretation> 
+instead
+of
+growing	 
+after
+2005	<x_axis_label_highest_value>
+,
+it
+actually
+decreased	<slope_down>
+to
+nearly	<y_axis_approx>
+£	<y_axis_inferred_label>
+19.5	<y_axis_inferred_3rd_highest_value_approx>
+000	<y_magnitude>
+by
+the
+year	<x_axis>
+2010	<x_axis_label_3rd_highest_value>
+and
+it
+continued
+decreasing	<slope_down>
+to
+£	<y_axis_inferred_label>
+16	<y_axis_least_value_val>
+000	<y_magnitude>
+for
+the
+year
+2015	<x_axis_label_least_value>
+.
+If this trend is to continue there were be a decrease in the following years	<interpretation>
+.
+<end_of_description>
+
+<start_of_description>
+As
+you
+can
+see
+this
+is
+a
+graph
+of
+the
+median salary for women in Najaf yearly	<topic>
+.
+You
+can
+see
+that
+this
+graph
+fluctuates	<slope_mix>
+starting
+with
+around	<y_axis_approx>
+£	<y_axis_inferred_label>
+23	<y_axis_inferred_Scnd_highest_value_approx>
+,000	<y_magnitude>
+in
+2000	<x_axis_label_Scnd_highest_value>
+which
+rose	<slope_up>
+over 5 years	<x_axis_label_highest_value>
+to
+just over	<y_axis_approx>
+25	<y_axis_inferred_highest_value_approx>
+,000	<y_magnitude>
+in
+2005	<x_axis_label_highest_value>
+.
+After
+this
+you
+can
+see
+that
+the
+yearly	<t=1_a=x>
+wage	<y_axis>
+for
+women	<t=1_a=b>
+has
+dropped	<slope_down>
+to
+just under	<y_axis_approx>
+£	<y_axis_inferred_label>
+20	<y_axis_inferred_3rd_highest_value_approx>
+,000	<y_magnitude>
+in
+2010	<x_axis_label_3rd_highest_value>
+and
+dropped	<slope_down>
+again
+to
+approx.	<y_axis_approx>
+16	<y_axis_least_value_val>
+,000	<y_magnitude>
+in
+2015	<x_axis_label_least_value>
+.
+<end_of_description>
+
+<start_of_description>
+This
+chart
+shows
+the
+median annual salary for women in Najaf	<topic>
+.
+In
+the
+year	<x_axis>
+2000	<x_axis_label_Scnd_highest_value>
+,
+this
+was
+around	<y_axis_approx>
+£	<y_axis_inferred_label>
+22.5	<y_axis_inferred_Scnd_highest_value_approx>
+000	<y_magnitude>
+.
+This
+then	<order_Scnd>
+rose	<slope_up>
+to
+just over	<y_axis_approx>
+£	<y_axis_inferred_label>
+25	<y_axis_inferred_highest_value_approx>
+000	<y_magnitude>
+in
+2005	<x_axis_label_highest_value>
+,
+before
+dropping	<slope_down>
+to
+£	<y_axis_inferred_label>
+19	<y_axis_inferred_3rd_highest_value_approx>
+000	<y_magnitude>
+and
+£	<y_axis_inferred_label>
+16	<y_axis_least_value_val>
+000	<y_magnitude>
+in
+2010	<x_axis_label_3rd_highest_value>
+and
+2015	<x_axis_label_least_value>
+respectively
+.
+<end_of_description>
+
+<start_of_description>
+Here
+we
+see
+a
+bar
+chart
+of
+Median Salary of Women in Najaf Per Year	<topic>
+.
+\\n	<separator>
+In
+2000	<x_axis_label_Scnd_highest_value>
+it
+was
+just under	<y_axis_approx>
+£	<y_axis_inferred_label>
+23	<y_axis_inferred_Scnd_highest_value_approx>
+pounds	<y_axis_inferred_label>
+a
+year	<x_axis>
+.
+\\n	<separator>
+In
+2005	<x_axis_label_highest_value>
+it
+was
+just above	<y_axis_approx>
+£	<y_axis_inferred_label>
+25	<y_axis_inferred_highest_value_approx>
+pounds	<y_axis_inferred_label>
+a
+year	<x_axis>
+.
+\\n	<separator>
+In
+2010	<x_axis_label_3rd_highest_value>
+it
+was
+just under	<y_axis_approx>
+£	<y_axis_inferred_label>
+20	<y_axis_inferred_3rd_highest_value_approx>
+pounds	<y_axis_inferred_label>
+a
+year	<x_axis>
+.
+\\n	<separator>
+In
+2015	<x_axis_label_least_value>
+it
+was
+just above	<y_axis_approx>
+£	<y_axis_inferred_label>
+15	<y_axis_inferred_least_value_approx>
+pounds	<y_axis_inferred_label>
+a
+year	<x_axis>
+.
+\\n	<separator>
+It is unclear according to this chart why the median has n't been consistent	<interpretation>
+.
+<end_of_description>
+
+<start_of_description>
+The
+chart
+shows
+the
+median salary of women in Najaf per year	<topic>
+.
+\\n	<separator>
+In
+2000	<x_axis_label_Scnd_highest_value>
+the
+median salary	<y_axis>
+was
+£	<y_axis_inferred_label>
+22	<y_axis_inferred_Scnd_highest_value_approx>
+k    <y_magnitude>
+.
+In
+2005	<x_axis_label_highest_value>
+this
+increased	<slope_up>
+to
+£	<y_axis_inferred_label>
+26	<y_axis_inferred_highest_value_approx>
+k    <y_magnitude>
+.
+In
+2010	<x_axis_label_3rd_highest_value>
+the
+figure	<y_axis>
+fell	<slope_down>
+to
+£	<y_axis_inferred_label>
+19	<y_axis_inferred_3rd_highest_value_approx>
+k    <y_magnitude>
+and
+in
+2015	<x_axis_label_least_value>
+it
+was
+the
+lowest	<y_axis_least_value>
+at
+£	<y_axis_inferred_label>
+16	<y_axis_least_value_val>
+k    <y_magnitude>
+<end_of_description>
+
+<start_of_description>
+Here
+is
+a
+chart
+based
+on
+Median Salarys of Women in Najar Per Year	<topic>
+between	<x_axis_range_start>
+the
+years	<x_axis>
+of
+2000	<x_axis_label_Scnd_highest_value>
+-	<x_axis_range_end>
+2015	<x_axis_label_least_value>
+.
+\\n	<separator>
+In
+the
+year	<x_axis>
+2000	<x_axis_label_Scnd_highest_value>
+it
+was
+holding
+at
+25	<y_axis_inferred_Scnd_highest_value_approx>
+,000	<y_magnitude>
+,
+rising	<slope_up>
+to
+just over	<y_axis_approx>
+25	<y_axis_inferred_highest_value_approx>
+,000	<y_magnitude>
+in
+2005	<x_axis_label_highest_value>
+.
+From
+2010	<x_axis_label_3rd_highest_value>
+it
+dropped	<slope_down>
+dramatically	<y_axis_trend>
+to
+under	<y_axis_approx>
+20	<y_axis_inferred_3rd_highest_value_approx>
+,000	<y_magnitude>
+and
+again
+in
+2015	<x_axis_label_least_value>
+.
+<end_of_description>
+
+<start_of_description>
+This
+chart
+represents
+the
+median salary earned by women in Najaf per annum	<topic>
+.
+\\n	<separator>
+\\n	<separator>
+Whilst	<y_x_comparison>
+there
+was
+an
+increase	<slope_up>
+in
+2005	<x_axis_label_highest_value>
+,
+since
+then	
+the
+median salary	<y_axis>
+is
+showing
+a
+downward	<slope_down>
+trend 
+,
+with
+the
+median	<t=1_a=y>
+amount	<y_axis>
+earned	<t=0_a=y>
+in
+2015	<x_axis_label_least_value>
+being
+£	<y_axis_inferred_label>
+10	<y_axis_inferred_value_add_v1=least_v2=highest>	
+000	<y_magnitude>
+less	<y_axis_trend_down>
+than
+in
+2005	<x_axis_label_highest_value>
+.
+<end_of_description>
+
+<start_of_description> [type01]
+This
+chart
+shows
+the
+median salary of women in Najaf per year	<topic>
+in
+british pounds	<y_axis_inferred_label>
+.
+\\n	<separator>
+From
+the
+chart
+we
+can
+see
+that
+the
+median
+salary	<y_axis>
+of
+women	<t=1_a=b>
+in
+Najaf	<t=1_a=b>
+is
+the
+lowest	<y_axis_least_value>
+at
+approximately	<y_axis_approx>
+£	<y_axis_inferred_label>
+17	<y_axis_inferred_least_value_approx>
+,000	<y_magnitude>
+in
+2015	<x_axis_label_least_value>
+.
+The
+highest	<y_axis_highest_value>
+is
+2005	<x_axis_label_highest_value>
+at
+£	<y_axis_inferred_label>
+26	<y_axis_inferred_highest_value_approx>
+,000	<y_magnitude>
+<end_of_description>
+
+<start_of_description>
+this
+chart
+demonstrates
+the
+median salary of women in najaf per year	<topic>
+.
+on
+average	<t=0_a=y>
+this
+lies
+between	
+15	<y_axis_inferred_least_value_approx>
+-	
+26	<y_axis_inferred_highest_value_approx>
+thousand	<y_magnitude>
+pounds	<y_axis_inferred_label>
+over the last 15 years	<x_interval>
+.
+in
+2005	<x_axis_label_highest_value>
+it
+was
+at
+the
+highest	<y_axis_highest_value>
+,
+but
+the
+graph
+shows
+in
+2015	<x_axis_label_least_value>
+this
+has
+reduced	<slope_down>
+to
+16	<y_axis_least_value_val>
+thousand	<y_magnitude>
+.
+<end_of_description>
+
+<start_of_description>
+the
+chart
+shows
+the
+annual median female salary in Najaf	<topic>
+in
+thousands	<y_magnitude>
+of
+pounds	<y_axis_inferred_label>
+.
+\\n	<separator>
+In
+2000	<x_axis_label_Scnd_highest_value>
+it
+was
+22	<y_axis_inferred_Scnd_highest_value_approx>
+,
+in
+2005	<x_axis_label_highest_value>
+it
+was
+25	<y_axis_inferred_highest_value_approx>
+,
+in
+2010	<x_axis_label_3rd_highest_value>
+it
+was
+19	<y_axis_inferred_3rd_highest_value_approx>
+and
+in
+2015	<x_axis_label_least_value>
+it
+was
+16	<y_axis_least_value_val>
+<end_of_description>
+
+<start_of_description>
+The
+median salary of women in Najaf	<topic>
+per
+5	<x_interval>
+years	<x_axis>
+started
+fairly high	<y_axis_trend>
+in
+the
+table
+in
+the
+year	<x_axis>
+2000	<x_axis_label_Scnd_highest_value>
+and
+showed
+its
+highest	<y_axis_highest_value>
+in
+2005	<x_axis_label_highest_value>
+being
+£	<y_axis_inferred_label>
+26	<y_axis_inferred_highest_value_approx>
+,000	<y_magnitude>
+.
+Over the next 10 years	<x_axis_trend>
+the
+salary	<y_axis>
+soon
+dropped	<slope_down>
+to
+a
+shocking	<y_axis_trend>
+£	<y_axis_inferred_label>
+16	<y_axis_least_value_val>
+,000	<y_magnitude>
+by
+2015	<x_axis_label_least_value>
+.
+<end_of_description>
+
+<start_of_description>
+The
+bar
+chart
+shows
+the
+median salary of women in Najar per year	<topic>
+over
+a
+4	<x_interval>
+year	<x_axis>
+period
+.
+In
+2000	<x_axis_label_Scnd_highest_value>
+the
+median salary	<y_axis>
+was
+approximately	<y_axis_approx>
+£	<y_axis_inferred_label>
+22.5	<y_axis_inferred_Scnd_highest_value_approx>
+k    <y_magnitude>
+.
+In
+2005	<x_axis_label_highest_value>
+the
+median salary	<y_axis>
+was
+just under	<y_axis_approx>
+£	<y_axis_inferred_label>
+26	<y_axis_inferred_highest_value_approx>
+k    <y_magnitude>
+.
+In
+2010	<x_axis_label_3rd_highest_value>
+the
+median salary	<y_axis>
+was
+just under	<y_axis_approx>
+£	<y_axis_inferred_label>
+20	<y_axis_inferred_3rd_highest_value_approx>
+k    <y_magnitude>
+whilst	<y_x_comparison>
+in
+2015	<x_axis_label_least_value>
+the
+median salary	<y_axis>
+was
+roughly	<y_axis_approx>
+£	<y_axis_inferred_label>
+16	<y_axis_least_value_val>
+k    <y_magnitude>
+.
+<end_of_description>
+

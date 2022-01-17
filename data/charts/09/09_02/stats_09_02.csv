@@ -1,0 +1,26 @@
+Bar,Position,Count
+firstY lastX,1,13
+leastY fourthX,1,4
+secondY firstX,1,4
+secondY firstX,2,8
+firstY lastX,2,4
+fourthY secondX,2,4
+leastY fourthX,2,4
+thirdY thirdX,2,1
+thirdY thirdX,3,10
+firstY lastX,3,1
+leastY fourthX,3,2
+fourthY secondX,3,1
+secondY firstX,3,2
+fourthY secondX,4,8
+thirdY thirdX,4,2
+leastY fourthX,4,2
+secondY firstX,4,2
+leastY fourthX,5,6
+fourthY secondX,5,5
+firstY lastX,5,3
+leastY fourthX,6,2
+firstY lastX,6,1
+thirdY thirdX,6,2
+firstY lastX,7,1
+leastY fourthX,8,1

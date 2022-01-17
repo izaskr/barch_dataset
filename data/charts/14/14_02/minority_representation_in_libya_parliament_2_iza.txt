@@ -1,0 +1,1197 @@
+<start_of_description>
+This
+graph
+shows
+by
+percentage the minority representation in the Parliament of Lybia	<topic>
+.
+Between 1990 and 1994	<y_axis_inferred_5th_highest_value_approx>
+this
+figure	<y_axis>
+was
+just	over	<y_axis_approx>
+13.5	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+this
+dropped	<slope_down>
+to
+12	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+between 1995 and 1999	<x_axis_label_Scnd_highest_value>
+.
+This
+figure	<y_axis>
+dropped	<slope_down>
+again
+to
+around	<y_axis_approx>
+8.5	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+between 2000 and 2004	<x_axis_label_3rd_highest_value>
+and
+there
+was
+yet
+another
+decrease	<slope_down>
+between 2005 and 2009	<x_axis_label_4th_highest_value>
+to
+slightly under	<y_axis_approx>
+8	<y_axis_inferred_4th_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+The
+figure	<y_axis>
+between 2010 and 2014	<x_axis_label_least_value>
+was
+just over	<y_axis_approx>
+6	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+and
+there
+was
+then	<order_last>
+a
+small	<y_axis_trend>
+increase	<slope_up>
+to
+slightly under	<y_axis_approx>
+7	<y_axis_5th_highest_val>
+%	<y_axis_inferred_label>
+between 2015 and 2019	<x_axis_label_5th_highest_value>
+.
+<end_of_description>
+
+<start_of_description> [type01]
+This
+chart
+shows
+the
+Minority Representation percentage in the Lybian Parliament	<topic>
+.
+\\n	<separator>
+\\n	<separator>
+In
+the
+period	<x_axis>
+of
+1990-1994	<x_axis_label_highest_value>
+,
+the
+representation	<y_axis>
+was
+13	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+but
+has
+steadily	<y_axis_trend>
+decreased	<slope_down>
+over
+the
+last
+29	<x_interval>
+years	<x_axis>
+,
+before
+an
+upturn	<slope_up>
+in
+representation	<y_axis>
+in
+the
+2015-2019	<x_axis_label_5th_highest_value>
+period	<x_axis>
+.
+<end_of_description>
+
+<start_of_description> [type01]
+This
+chart
+represents
+percentages of minority representation in the parliament of Lybia	<topic>
+from	<x_axis_range_start>
+1990	<x_axis_label_highest_value>
+to	<x_axis_range_end>
+2019	<x_axis_label_5th_highest_value>
+,
+in
+periods
+of
+4	<x_interval>
+years	<x_axis>
+at
+a
+time
+.
+We
+can
+see
+that
+there
+has
+been
+a
+decrease	<slope_down>
+over time	<x_axis_trend>
+,
+from
+almost	<y_axis_approx>
+14	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+in
+1990-1994	<x_axis_label_highest_value>
+to
+almost	<y_axis_approx>
+7	<y_axis_5th_highest_val>
+%	<y_axis_inferred_label>
+in
+2015-2019	<x_axis_label_5th_highest_value>
+.
+<end_of_description>
+
+<start_of_description>
+This
+chart
+represents
+the
+percentage of the minority representation in the Parliament of Lybia	<topic>
+between	<x_axis_range_start>
+the
+years	<x_axis>
+1990	<x_axis_label_highest_value>
+and	<x_axis_range_end>
+2019	<x_axis_label_5th_highest_value>
+in
+four	<x_interval>
+year	<x_axis>
+increments
+.
+\\n	<separator>
+\\n	<separator>
+As
+the
+chart
+shows
+in
+the
+years	<x_axis>
+1990-1994	<x_axis_label_highest_value>
+the
+minority representation	<y_axis>
+was
+at
+a
+high	<y_axis_highest_value>
+of
+13	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+The
+minority representation	<y_axis>
+declined	<slope_down>
+greatly	<y_axis_trend>
+in
+years	<x_axis>
+1995	<x_axis_label_highest_value>
+-	<x_axis_range_end>
+2004	<x_axis_label_3rd_highest_value>
+.
+However
+,
+it
+slowed down	<y_axis_trend> 
+but
+still
+decreased	<slope_down>
+in
+the
+years	<x_axis>
+2005-2009	<x_axis_label_4th_highest_value>
+.
+There
+was
+a
+slightly larger	<y_axis_trend>
+decrease	<slope_down>	
+in
+the
+years	<x_axis>
+2010-2014	<x_axis_label_least_value>
+but
+then	<order_4th>
+as
+you
+will
+see
+from
+the
+chart
+,
+a
+slight	<y_axis_trend>
+increase	<slope_up>
+in
+the
+minority representation	<y_axis>
+from
+6.5	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+7	<y_axis_5th_highest_val>
+%	<y_axis_inferred_label>
+in
+the
+years	<x_axis>
+2015-2019	<x_axis_label_5th_highest_value>
+.
+<end_of_description>
+
+<start_of_description>
+The
+chart
+shows
+minority representation in the Parliament of Lybia	<topic>
+.
+\\n	<separator>
+\\n	<separator>
+Just over	<y_axis_approx>
+13.8	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+in
+year	<x_axis>
+1990-1994	<x_axis_label_highest_value>
+.
+1995-1999	<x_axis_label_Scnd_highest_value>
+12	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+.
+Then	<order_3rd>
+it
+dropped	<slope_down>
+to
+7.8	<y_axis_inferred_4th_highest_value_approx>
+%	<y_axis_inferred_label>
+in
+2005-2009	<x_axis_label_4th_highest_value>
+.
+2015-2019	<x_axis_label_5th_highest_value>
+6.5	<y_axis_inferred_5th_highest_value_approx>
+%	<y_axis_inferred_label>
+and
+the
+final	<order_last>
+year
+2010-2014	<x_axis_label_least_value>
+only	<y_axis_least_value>
+6.2	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+<start_of_description>
+This
+chart
+shows
+the
+minority representation in the Lybian parliament	<topic>
+across
+six	<x_axis_labels_count>
+5	<x_interval>
+year	<x_axis>
+spans
+from	<x_axis_range_start>
+1990	<x_axis_label_highest_value>
+to	<x_axis_range_end>
+2019	<x_axis_label_5th_highest_value>
+.
+From 1990 to 2014	<group_highest_Scnd_3rd_4th_least>
+it
+decreased	<slope_down>
+steadily	<y_axis_trend>
+from
+just under	<y_axis_approx>
+14	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+to
+just over	<y_axis_approx>
+6	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+and
+then	<order_last>
+increased	<slope_up>
+slightly	<y_axis_trend>
+to
+7	<y_axis_5th_highest_val>
+%	<y_axis_inferred_label>
+between 2015 and 2019	<x_axis_label_5th_highest_value>
+.
+<end_of_description>
+
+<start_of_description>
+This
+chart
+shows
+the
+percentage of the minority representation in the parliament of lybia	<topic>
+since	<x_axis_range_start>
+1990	<x_axis_label_highest_value>
+-	<x_axis_range_end>
+2019	<x_axis_label_5th_highest_value>
+.
+In
+1990-1994	<x_axis_label_highest_value>
+the
+minority representation	<y_axis>
+in
+the
+parliament	 <t=1_a=b>
+was
+just below	<y_axis_approx>
+14	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+From 1995-1999	<x_axis_label_Scnd_highest_value>
+is
+decreased	<slope_down>
+to
+12	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+.
+There
+was
+a
+big	<y_axis_trend>
+drop	<slope_down>
+from 2000-2004	<x_axis_label_3rd_highest_value>
+to
+over	<y_axis_approx>
+8	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+And
+a
+minor	<y_axis_trend>
+change
+of
+just below	<y_axis_approx>
+8	<y_axis_inferred_4th_highest_value_approx>
+%	<y_axis_inferred_label>
+in
+2005-2009	<x_axis_label_4th_highest_value>
+.
+It
+decreased	<slope_down>
+further
+in
+2010-2014	<x_axis_label_least_value>
+at
+just above	<y_axis_approx>
+6	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+but
+then	<order_last>
+rose	<slope_up>
+at
+almost	<y_axis_approx>
+7	<y_axis_5th_highest_val>
+%	<y_axis_inferred_label>
+in
+2015-2019	<x_axis_label_5th_highest_value>
+<end_of_description>
+
+<start_of_description>
+This
+chart
+shows
+the
+minority representation in lybian parliament	<topic>
+from	<x_axis_range_start>
+1990	<x_axis_label_highest_value>
+-	<x_axis_range_end>
+2019	<x_axis_label_5th_highest_value>
+.
+The
+highest	<y_axis_highest_value>
+is
+14	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+in
+1990-94	<x_axis_label_highest_value>
+,
+followed	<order_Scnd>
+by
+95-99	<x_axis_label_Scnd_highest_value>
+at
+12	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+then	<order_3rd>
+just over	<y_axis_approx>
+8	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+in
+2000-2004	<x_axis_label_3rd_highest_value>
+,
+8	<y_axis_inferred_4th_highest_value_approx>
+%	<y_axis_inferred_label>
+in
+2005-2009	<x_axis_label_4th_highest_value>
+,
+a
+drop	<slope_down>
+to
+6	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+in
+2010-2014	<x_axis_label_least_value>
+then	<order_last>
+up  <slope_up>
+again
+in
+2015-2019	<x_axis_label_5th_highest_value>
+to
+about	<y_axis_approx>
+7	<y_axis_5th_highest_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+<start_of_description>
+The
+minority representation	<y_axis>
+in
+the
+Parliament of Lybia	<t=1_a=b>
+was
+decreasing	<slope_down>
+between	<x_axis_range_start>
+1990	<x_axis_label_highest_value>
+to	<x_axis_range_end>
+2014	<x_axis_label_least_value>
+,
+but
+increased	<slope_up>
+slightly	<y_axis_trend>
+in
+the
+2015 to 2019	<x_axis_label_5th_highest_value>
+period	<x_axis>
+.
+There
+was
+a
+sharper	<y_axis_trend>
+drop	<slope_down>
+in
+the
+percentage of minority representatives	<y_axis>
+in
+the
+Parliament	<t=1_a=b>
+after
+the
+period	<x_axis>
+1995-1999	<x_axis_label_Scnd_highest_value>
+.
+<end_of_description>
+
+<start_of_description>
+The
+charts
+show
+the
+minority representation in Parliament of Lybia	<topic>
+.
+1990-1994	<x_axis_label_highest_value>
+had
+the
+highest	<y_axis_highest_value>
+proportion	<y_axis>
+at
+13	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+but
+there
+was
+a
+steady	<y_axis_trend>
+decrease	<slope_down>
+until
+2014	<x_axis_label_least_value>
+.
+From 2010-2014 to 2015-2019	<group_5th_least>
+there
+was
+an
+increase	<slope_up>
+in
+representation	<y_axis>
+by
+0.25	<y_axis_inferred_value_add_v1=5th_v2=least>
+%	<y_axis_inferred_label>
+<end_of_description>
+
+<start_of_description>
+The
+graph
+shows
+the
+percentage of minority representation in the parliament of Libya	<topic>
+from	<x_axis_range_start>
+1990	<x_axis_label_highest_value>
+to	<x_axis_range_end>
+2019	<x_axis_label_5th_highest_value>
+.
+Data
+has
+been
+recorded
+every
+four	<x_interval>
+years	<x_axis>
+.
+The
+percentage of minority	<y_axis>
+has
+reduced	<slope_down>
+significantly	<y_axis_trend>
+from
+13.5	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+in
+1990	<x_axis_label_highest_value>
+to
+6.5	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+in
+2014	<x_axis_label_least_value>
+.
+From 2015-2019	<x_axis_label_5th_highest_value>
+the
+minority representation	<y_axis>
+increased	<slope_up>
+slightly	<y_axis_trend>
+to
+7	<y_axis_inferred_5th_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+<start_of_description>
+The
+Minority representation	<y_axis>
+in
+the
+parliament of Lybia	<t=1_a=b>
+has
+reduced	<slope_down>
+a lot	<y_axis_trend>
+by
+the
+2000	<x_axis_label_3rd_highest_value>
+by
+more	<y_axis_approx>
+of
+5	<y_axis_inferred_value_add_v1=highest_v2=3rd>
+%	<y_axis_inferred_label>
+.
+It
+had
+a
+good	<y_axis_trend>
+representation	<y_axis>
+in
+the
+years	<x_axis>
+1990-1994	<x_axis_label_highest_value>
+of
+12.8	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+although
+this
+was
+reduced	<slope_down>
+by
+0.8	<y_axis_inferred_value_add_v1=Scnd_v2=highest>
+%	<y_axis_inferred_label>
+in
+the
+years	<x_axis>
+1995-1999	<x_axis_label_Scnd_highest_value>
+,
+it was still a good number	<interpretation>
+.
+\\n	<separator>
+In
+the
+years	<x_axis>
+2000-2004	<x_axis_label_3rd_highest_value>
+a
+big	<y_axis_trend>
+jump	<slope_down>
+can
+be
+seem
+where
+there
+Minority representation	<y_axis>
+was
+only	
+8.4	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+percentage	<y_axis>
+being
+reduced	<slope_down>
+in
+the
+following	<x_axis_labels_rest>
+years
+.
+In
+2005-2009	<x_axis_label_4th_highest_value>
+the
+percentage	<y_axis>
+was
+8	<y_axis_inferred_4th_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+going
+further
+down	<slope_down>
+to
+6.2	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+for
+2010-2014	<x_axis_label_least_value>
+.
+Since
+then
+we
+can
+see
+a
+little	<y_axis_trend>
+increase	<slope_up>
+for
+the
+2015-2019	<x_axis_label_5th_highest_value>
+years	<x_axis>
+of
+0.2	<y_axis_inferred_value_add_v1=5th_v2=least>
+%	<y_axis_inferred_label>
+,
+which could be very slow increase in the years to come	<interpretation>
+.
+<end_of_description>
+
+<start_of_description>
+This
+graph
+shows
+the
+minority representation in the parliament of Lybia	<topic>
+in
+percentages	<y_axis_inferred_label>
+from	<x_axis_range_start>
+the
+year	<x_axis>
+1994	<x_axis_label_highest_value>
+to	<x_axis_range_end>
+the
+year	<x_axis>
+2019	<x_axis_label_5th_highest_value>
+.
+This
+graph
+shows
+a
+steady	<y_axis_trend>
+drop	<slope_down>
+in
+minority representation	<y_axis>
+from
+nearly	<y_axis_approx>
+14	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+in
+1990-1994	<x_axis_label_highest_value>
+to
+just over	<y_axis_approx>
+6	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+in
+2010-2014	<x_axis_label_least_value>
+however
+you
+can
+see
+a
+slight	<y_axis_trend>
+rise	<slope_up>
+in
+2015-2019	<x_axis_label_5th_highest_value>
+to
+approx.	<y_axis_approx>
+7	<y_axis_inferred_5th_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+<start_of_description>
+This
+chart
+describes
+the
+representation of minoroties in the parliament of Lybia	<topic>
+.
+From 1990-1994	<x_axis_label_highest_value>
+,
+almost	<y_axis_approx>
+14	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+of
+the
+parliament	<t=1_a=b>
+were
+minorities	<t=1_a=y>
+.
+This
+dropped	<slope_down>
+to
+12	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+from 1995-1999	<x_axis_label_Scnd_highest_value>
+;
+9	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+from 2000-2004	<x_axis_label_3rd_highest_value>
+;
+8	<y_axis_inferred_4th_highest_value_approx>
+%	<y_axis_inferred_label>
+2005-2009	<x_axis_label_4th_highest_value>
+;
+6	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+2010-2014	<x_axis_label_least_value>
+;
+but
+rose	<slope_up>
+to
+7	<y_axis_inferred_5th_highest_value_approx>
+%	<y_axis_inferred_label>
+from 2015-2019	<x_axis_label_5th_highest_value>
+.
+<end_of_description>
+
+<start_of_description>
+Here
+we
+have
+a
+bar
+chart
+showing
+the
+minority representation in the parliament of Lybia	<topic>
+across
+years	<x_axis>
+starting
+from	<x_axis_range_start>
+1990	<x_axis_label_highest_value>
+-	<x_axis_range_end>
+2019	<x_axis_label_5th_highest_value>
+.
+The
+representation	<y_axis>
+seems
+to
+have
+steadily	<y_axis_trend>
+decreased	<slope_down>
+over the years	<x_axis_trend>
+hitting
+it
+'s
+lowest	<y_axis_least_value>
+in
+2010	<x_axis_label_least_value>
+and
+increasing	<slope_up>
+slightly	<y_axis_trend>
+by
+the
+end
+of
+2019	<x_axis_label_5th_highest_value>
+.
+\\n	<separator>
+Between 1990-94 <x_axis_label_highest_value>
+there
+was
+just under	<y_axis_approx>
+14	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+representation	<y_axis>
+.
+1995-99	<x_axis_label_Scnd_highest_value>
+-
+a
+12	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+representation	<y_axis>
+,
+2000-04	<x_axis_label_3rd_highest_value>
+8.5	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+2005-09	<x_axis_label_4th_highest_value>
+just under	<y_axis_approx>
+8	<y_axis_inferred_4th_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+2010-13	<x_axis_label_least_value>
+just over	<y_axis_approx>
+6	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+and
+2015-19	<x_axis_label_5th_highest_value>
+around	<y_axis_approx>
+7	<y_axis_inferred_5th_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+<start_of_description>
+The
+graph
+shows
+the
+minority representation in the Parliament of Lybia	<topic>
+.
+\\n	<separator>
+The
+highest	<y_axis_highest_value>
+representation	<y_axis>
+was
+between 1990-1994	<x_axis_label_highest_value>
+at
+13.8	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+The
+minority	<y_axis>
+between 1995 and 1999	<x_axis_label_Scnd_highest_value>
+was
+12	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+.
+Between 2000-2004	<x_axis_label_3rd_highest_value>
+it
+was
+8.2	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+between	2005-2009	<x_axis_label_4th_highest_value>
+it
+was
+8	<y_axis_inferred_4th_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+2010-2014	<x_axis_label_least_value>
+saw
+a
+6.2	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+minority	<y_axis>
+and
+this
+increased	<slope_up>
+to
+7	<y_axis_inferred_5th_highest_value_approx>
+%	<y_axis_inferred_label>
+between 2015-2019	<x_axis_label_5th_highest_value>
+<end_of_description>
+
+<start_of_description>
+This
+bar
+chart
+is
+a
+minority representation of parliament of Lybia	<topic>
+between	<x_axis_range_start>
+1990	<x_axis_label_highest_value>
+-	<x_axis_range_end>
+2019	<x_axis_label_5th_highest_value>
+.
+\\n	<separator>
+In
+1990	<x_axis_label_highest_value>
+it
+was
+at
+its
+highest peak <y_axis_highest_value>
+,
+which
+every
+5	<x_interval>
+year block  <x_axis>
+it
+deteriorated	<slope_down>
+until
+2015	<x_axis_label_5th_highest_value>
+.
+From 2015-2019	<x_axis_label_5th_highest_value>
+for
+the
+first
+time
+it
+rose	<slope_up>
+again
+gaining
+a
+higher	<y_axis_trend_up>
+percentage of minority representation	<y_axis>
+.
+<end_of_description>
+
+<start_of_description> [type01]
+This
+Chart
+represents
+the
+representation of minorities in the Parliament of Lybia	<topic>
+over
+two decades	<x_interval>
+from	<x_axis_range_start>
+1990	<x_axis_label_highest_value>
+to	<x_axis_range_end>
+2019	<x_axis_label_5th_highest_value>	
+.
+\\n	<separator>
+\\n	<separator>
+There
+is
+a
+downward	<slope_down>
+trend
+in
+representation	<y_axis>
+from
+nearly	<y_axis_approx>
+14	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+in
+1990-1994	<x_axis_label_highest_value>
+to
+around	<y_axis_approx>
+7	<y_axis_inferred_5th_highest_value_approx>
+%	<y_axis_inferred_label>
+in
+2015-2019	<x_axis_label_5th_highest_value>
+.
+<end_of_description>
+
+<start_of_description>
+This
+chart
+shows
+the
+minority representation in parliament of Lybia	<topic>
+in
+percentage	<y_axis_inferred_label>
+per
+year	<x_axis>
+.
+\\n	<separator>
+From
+the
+chart
+we
+can
+see
+that
+the
+minority representation	<y_axis>
+in
+parliament of Lybia	<t=1_a=b>
+is
+the
+lowest	<y_axis_least_value>
+at
+approximately	<y_axis_approx>
+6.2	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+in
+2010-2014	<x_axis_label_least_value>
+.
+The
+highest	<y_axis_highest_value>
+is
+1990-1994	<x_axis_label_highest_value>
+at
+13.8	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+<start_of_description>
+minority representation	<y_axis>
+in
+the
+parliament of lybia	<t=1_a=b>
+has
+decreased	<slope_down>
+over
+the
+last	
+20	<x_interval> 
+years	<x_axis>
+,
+as
+demonstrated
+in
+this
+graph
+.
+it
+peaked	<y_axis_highest_value>
+at
+13.5	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+between	1990-1994	<x_axis_label_highest_value>
+,
+was
+at
+between	2010-2014	<x_axis_label_least_value>
+at
+just over	<y_axis_approx>
+6	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+,
+this
+number	<y_axis>
+slightly	<y_axis_trend>
+improving	<slope_up>
+between 2015-2019	<x_axis_label_5th_highest_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+percentage of Minority Representation	<y_axis>
+in
+the
+Parliament of Lybia	<t=1_a=b>
+has
+seen
+a
+decrease	<slope_down>
+over time	<x_axis_trend>
+.
+It
+started
+up
+high	<y_axis_highest_value>
+between	1990 and 1994	<x_axis_label_highest_value>
+at
+13.6	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+and
+casually	<y_axis_trend>
+dropped	<slope_down>
+to
+its
+lowest	<y_axis_least_value>
+point
+between	2010 and 2014	<x_axis_label_least_value>
+at
+6.4	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+where
+it
+began
+to
+rise	<slope_up>
+again
+between	2015 and 2019	<x_axis_label_5th_highest_value>
+.
+<end_of_description>
+
+<start_of_description>
+The
+bar
+chart
+shows
+minority representation in the parliament of Lybia	<topic>
+.
+Between 1990 and 1994	<x_axis_label_highest_value>
+there
+was
+a
+minority representation	<y_axis>
+of
+roughly	<y_axis_approx>
+13.7	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+,
+between 1995 and 1999	<x_axis_label_Scnd_highest_value>
+there
+was
+a
+minority representation	<y_axis>
+of
+12	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+,
+between 2000 and 2004	<x_axis_label_3rd_highest_value>
+there
+was
+a
+minority representation	<y_axis>
+of
+roughly	<y_axis_approx>
+8.5	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+Between 2005 and 2009	<x_axis_label_4th_highest_value>
+there
+was
+a
+minority representation	<y_axis>
+of
+just under	<y_axis_approx>
+8	<y_axis_inferred_4th_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+between 2010 and 2014	<x_axis_label_least_value>
+there
+was
+a
+minority representation	<y_axis>
+of
+roughly	<y_axis_approx>
+6.2	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+Finally	<order_last>
+,
+between 2015 and 2019	<x_axis_label_5th_highest_value>
+there
+was
+a
+minority representation	<y_axis>
+of
+just under	<y_axis_approx>
+7	<y_axis_5th_highest_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+

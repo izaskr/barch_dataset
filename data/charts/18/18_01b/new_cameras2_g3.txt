@@ -1,0 +1,1241 @@
+<start_of_description>
+The
+chart
+shows
+average	 prices	<y_axis>
+for
+the
+digital	cameras	 <x_axis>
+sold
+under	<y_axis_approx>
+five	<x_axis_labels_count>
+different brands	<x_axis>
+.
+ 
+Those
+by
+Cambo	<x_axis_label_highest_value>
+are
+the
+most expensive   <y_axis_highest_value>
+on average	<t=1_a=y>
+,
+at
+£	<y_axis_inferred_label>
+72	<y_axis_inferred_highest_value_approx>
+.
+ 
+Slightly	<y_axis_trend>
+less	<y_axis_trend_down>
+expensive   <t=1_a=b>
+on average	<t=1_a=y>
+are
+those
+by
+Memoto	<x_axis_label_Scnd_highest_value>
+at
+£	<y_axis_inferred_label>
+70	<y_axis_inferred_Scnd_highest_value_approx>
+,
+followed by   <order_Scnd>
+Sigma	<x_axis_label_3rd_highest_value>
+at
+£	<y_axis_inferred_label>
+61	<y_axis_inferred_3rd_highest_value_approx>
+,
+then	<order_3rd>
+Hunten	<x_axis_label_4th_highest_value>
+at
+£	<y_axis_inferred_label>
+59	<y_axis_inferred_4th_highest_value_approx>
+,
+with
+the
+least expensive   <y_axis_least_value>
+on average	<t=1_a=y>
+being
+those
+by
+Konica	<x_axis_label_least_value>
+at
+£	<y_axis_inferred_label>
+52	<y_axis_inferred_least_value_approx>
+<end_of_description>
+
+
+<start_of_description>
+This
+chart
+shows
+the average price of the most affordable digital cameras <topic>
+.
+Konica	<x_axis_label_least_value>
+was
+the
+cheapest   <y_axis_least_value>
+at
+£	<y_axis_inferred_label>
+52	<y_axis_inferred_least_value_approx>
+,
+followed by   <order_Scnd>
+Hunten	<x_axis_label_4th_highest_value>
+at
+£	<y_axis_inferred_label>
+58	<y_axis_inferred_4th_highest_value_approx>
+,
+then	<order_3rd>
+Sigma	<x_axis_label_3rd_highest_value>
+at
+£	<y_axis_inferred_label>
+62	<y_axis_inferred_3rd_highest_value_approx>
+,
+Memoto	<x_axis_label_Scnd_highest_value>
+at
+£	<y_axis_inferred_label>
+70	<y_axis_inferred_Scnd_highest_value_approx>
+and	 
+the
+most expensive   <y_axis_highest_value>
+is
+Cambo	<x_axis_label_highest_value>
+at
+£	<y_axis_inferred_label>
+76	<y_axis_inferred_highest_value_approx>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+shows
+that
+Memoto	<x_axis_label_Scnd_highest_value>
+has
+an
+average	price	<y_axis>
+of
+£	<y_axis_inferred_label>
+70	<y_axis_inferred_Scnd_highest_value_approx>
+.
+The
+Sigma	<x_axis_label_3rd_highest_value>
+is
+priced	<y_axis>
+slightly	<y_axis_trend>
+lower	<y_axis_trend_down>
+at
+around	<y_axis_approx>
+£	<y_axis_inferred_label>
+62	<y_axis_inferred_3rd_highest_value_approx>
+but	<y_x_comparison>
+the
+Cambo	<x_axis_label_highest_value>
+is
+more	<y_axis_trend_up>
+expensive  <t=1_a=b>
+at
+around	<y_axis_approx>
+£	<y_axis_inferred_label>
+76	<y_axis_inferred_highest_value_approx>
+.
+The
+Hunten	<x_axis_label_4th_highest_value>
+is
+a
+cheaper  <y_axis_trend_down>
+camera	<x_axis>
+at
+around	<y_axis_approx>
+£	<y_axis_inferred_label>
+58	<y_axis_inferred_4th_highest_value_approx>
+and
+the
+Konica	<x_axis_label_least_value>
+is
+the
+cheapest   <y_axis_least_value>
+at
+£	<y_axis_inferred_label>
+54	<y_axis_inferred_least_value_approx>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+most affordable digital camera by the average	price	<topic>
+in
+pound sterling	<y_axis_inferred_label>
+.
+\n	<separator>
+It
+shows
+that
+Konica	<x_axis_label_least_value>
+is
+the
+cheapest   <y_axis_least_value>
+at
+£	<y_axis_inferred_label>
+53	<y_axis_inferred_least_value_approx>
+,
+Hunten	<x_axis_label_4th_highest_value>
+is
+the
+next	<order_Scnd>
+cheapest
+at
+£	<y_axis_inferred_label>
+58	<y_axis_inferred_4th_highest_value_approx>
+.
+ 
+This
+is
+followed by   <order_Scnd>
+Sigma	<x_axis_label_3rd_highest_value>
+at
+£	<y_axis_inferred_label>
+62	<y_axis_inferred_3rd_highest_value_approx>
+,
+Memoto	<x_axis_label_Scnd_highest_value>
+at
+£	<y_axis_inferred_label>
+70	<y_axis_inferred_Scnd_highest_value_approx>
+and
+the
+most expensive   <y_axis_highest_value>
+is
+Cambo	<x_axis_label_highest_value>
+at
+£	<y_axis_inferred_label>
+76	<y_axis_inferred_highest_value_approx>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+compares
+the
+prices	<y_axis>
+of
+5	<x_axis_labels_count>
+camera brands	<x_axis>
+in
+£ sterling	<y_axis_inferred_label>
+.
+The
+most expensive   <y_axis_highest_value>
+at
+£	<y_axis_inferred_label>
+76	<y_axis_inferred_highest_value_approx>
+is
+Cambo	<x_axis_label_highest_value>
+followed by   <order_Scnd>
+Memento
+at
+£	<y_axis_inferred_label>
+70	<y_axis_inferred_Scnd_highest_value_approx>
+then	<order_3rd>
+Sigma	<x_axis_label_3rd_highest_value>
+at
+£	<y_axis_inferred_label>
+52	<y_axis_inferred_least_value_approx>
+,
+Hunten	<x_axis_label_4th_highest_value>
+at
+£	<y_axis_inferred_label>
+58	<y_axis_inferred_4th_highest_value_approx>
+and	 
+Konica	<x_axis_label_least_value>
+at
+£	<y_axis_inferred_label>
+55	<y_axis_inferred_least_value_approx>
+.
+\n	<separator>
+There is no range of cameras in the brand family given nor any data about segments   <interpretation>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+which
+digital	 camera brands	<x_axis>
+are
+most	 
+affordable	<t=1_a=b>
+based
+on
+the
+average	price	<y_axis>
+of
+their
+cameras	<x_axis>
+.
+The
+most expensive   <y_axis_highest_value>
+brand	<x_axis>
+is
+Cambo	<x_axis_label_highest_value>
+at
+around	<y_axis_approx>
+£	<y_axis_inferred_label>
+75	<y_axis_inferred_highest_value_approx>
+on average	<t=1_a=y>
+,
+followed	<order_Scnd>
+closely	<y_axis_trend>
+by
+Memoto	<x_axis_label_Scnd_highest_value>
+which
+cost
+an
+average	<y_axis_approx>
+of
+£	<y_axis_inferred_label>
+70	<y_axis_inferred_Scnd_highest_value_approx>
+.
+Stigma
+and
+Hunten	<x_axis_label_4th_highest_value>
+are
+more	<y_axis_trend_up>
+affordable	<t=1_a=b>
+at
+an
+average	price	<y_axis>
+of
+£	<y_axis_inferred_label>
+62	<y_axis_inferred_3rd_highest_value_approx>
+and	 
+£	<y_axis_inferred_label>
+58	<y_axis_inferred_4th_highest_value_approx>
+respectively
+.
+Konica	<x_axis_label_least_value>
+is
+the
+cheapest   <y_axis_least_value>
+brand	<x_axis>
+at
+an
+average	<y_axis_approx>
+of
+around	<y_axis_approx>
+£	<y_axis_inferred_label>
+54	<y_axis_inferred_least_value_approx>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Konica	<x_axis_label_least_value>
+is
+the
+cheapest   <y_axis_least_value>
+average	price	<y_axis>
+and
+Cambo	<x_axis_label_highest_value>
+are
+the
+most expensive   <y_axis_highest_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+bar
+chart
+represents
+the most affordable digital cameras by average	price	<topic>
+in
+pounds sterling	<y_axis_inferred_label>
+by
+camera brand	<x_axis>
+.
+\n	<separator>
+The
+most expensive   <y_axis_highest_value>
+was
+the
+Cambo	<x_axis_label_highest_value>
+at
+75	<y_axis_inferred_highest_value_approx>
+pounds sterling	<y_axis_inferred_label>
+,
+followed by   <order_Scnd>
+the
+Memoto	<x_axis_label_Scnd_highest_value>
+at
+70	<y_axis_inferred_Scnd_highest_value_approx>
+pounds sterling	<y_axis_inferred_label>
+.
+Sigma	<x_axis_label_3rd_highest_value>
+was
+third	<order_3rd>
+highest	<y_axis_highest_value>
+at
+62	<y_axis_inferred_3rd_highest_value_approx>
+pounds sterling	<y_axis_inferred_label>
+.
+Hunten	<x_axis_label_4th_highest_value>
+then	<order_3rd>
+followed	<order_Scnd>
+at
+58	<y_axis_inferred_4th_highest_value_approx>
+pounds sterling	<y_axis_inferred_label>
+,
+and
+the
+cheapest  <y_axis_least_value>
+was
+the
+Konica	<x_axis_label_least_value>
+at
+54	<y_axis_inferred_least_value_approx>
+pounds sterling	<y_axis_inferred_label>
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+shows
+the
+most affordable digital camera brands by price	<topic>
+.
+Konica	<x_axis_label_least_value>
+is
+the
+cheapest   <y_axis_least_value>
+with
+an
+average	price	<y_axis>
+of
+£	<y_axis_inferred_label>
+54	<y_axis_inferred_least_value_approx>
+,
+followed by   <order_Scnd>
+Hunten	<x_axis_label_4th_highest_value>
+at
+£	<y_axis_inferred_label>
+58	<y_axis_inferred_4th_highest_value_approx>
+,
+then	<order_3rd>
+Sigma	<x_axis_label_3rd_highest_value>
+at
+£	<y_axis_inferred_label>
+62	<y_axis_inferred_3rd_highest_value_approx>
+.
+The
+most expensive   <y_axis_highest_value>
+brand	<x_axis>
+is
+Cambo	<x_axis_label_highest_value>
+at
+£	<y_axis_inferred_label>
+76	<y_axis_inferred_highest_value_approx>
+,
+closely	<y_axis_trend>
+followed by   <order_Scnd>
+Memota
+at
+£	<y_axis_inferred_label>
+70	<y_axis_inferred_Scnd_highest_value_approx>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Apart
+from	<y_x_comparison>
+maybe
+Konica	<x_axis_label_least_value>
+at
+£	<y_axis_inferred_label>
+54	<y_axis_inferred_least_value_approx>
+and
+Cambo	<x_axis_label_highest_value>
+at
+a
+price	<y_axis>
+£	<y_axis_inferred_label>
+76	<y_axis_inferred_highest_value_approx>
+it is a closely run race in the highly competitive most affordable digital camera market  <interpretation>
+.
+\n	<separator>
+Hunten	<x_axis_label_4th_highest_value>
+the
+lowest	<y_axis_least_value>
+price	<y_axis>
+in
+the
+mid
+range
+at
+£	<y_axis_inferred_label>
+58	<y_axis_inferred_4th_highest_value_approx>
+is
+closely	<y_axis_trend>
+followed by   <order_Scnd>
+Sigma	<x_axis_label_3rd_highest_value>
+at
+£	<y_axis_inferred_label>
+62	<y_axis_inferred_3rd_highest_value_approx>
+with
+Memoto	<x_axis_label_Scnd_highest_value>
+at
+£	<y_axis_inferred_label>
+70	<y_axis_inferred_Scnd_highest_value_approx>
+making it a difficult choice    <interpretation>
+<end_of_description>
+
+
+
+<start_of_description>
+Konica	<x_axis_label_least_value>
+is
+the
+most afforable   <y_axis_highest_value>
+camera	<x_axis>
+by
+average	price	<y_axis>
+-
+£	<y_axis_inferred_label>
+52	<y_axis_inferred_least_value_approx>
+-
+but	<y_x_comparison>
+Hunten	<x_axis_label_4th_highest_value>
+and	 
+Sigma	<x_axis_label_3rd_highest_value>
+are
+close	<y_axis_trend>
+behind	<y_axis_trend_down>
+at
+£	<y_axis_inferred_label>
+56	<y_axis_inferred_least_value_approx>
+&
+£	<y_axis_inferred_label>
+62	<y_axis_inferred_3rd_highest_value_approx>
+.
+By
+comparison	<y_x_comparison>
+,
+Cambo	<x_axis_label_highest_value>
+digital	 cameras	<x_axis>
+are
+£	<y_axis_inferred_label>
+74	<y_axis_inferred_highest_value_approx>
+on average	<t=1_a=y>
+<end_of_description>
+
+
+
+<start_of_description>
+Konica	<x_axis_label_least_value>
+was
+the
+most affordable	<y_axis_least_value>
+camera	<x_axis>
+price	<y_axis>
+averaging
+just over	<y_axis_approx>
+£	<y_axis_inferred_label>
+50	<y_axis_inferred_least_value_approx>
+whilst	<y_x_comparison>
+the
+least affordable	<y_axis_least_value>
+was
+the
+Cambo	<x_axis_label_highest_value>
+brand	<x_axis>
+.
+The
+second	<order_Scnd>
+most 
+affordable
+was
+Hunten	<x_axis_label_4th_highest_value>
+and
+the
+second	<order_Scnd>
+least affordable	<y_axis_least_value>
+was
+Memoto	<x_axis_label_Scnd_highest_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+shows
+the
+average	price	<y_axis>
+of
+digital	 cameras	<x_axis>
+by
+brand	<x_axis>
+.
+You
+can
+see
+that
+Konica	<x_axis_label_least_value>
+has
+the
+lowest	<y_axis_least_value>
+average	price	<y_axis>
+,
+averaging  <y_axis>
+at
+£	<y_axis_inferred_label>
+54	<y_axis_inferred_least_value_approx>
+,
+Hunten	<x_axis_label_4th_highest_value>
+is
+a
+little	bit  <y_axis_trend>
+higher	<y_axis_trend_up>
+coming
+in
+at
+£	<y_axis_inferred_label>
+58	<y_axis_inferred_4th_highest_value_approx>
+.
+Sigma	<x_axis_label_3rd_highest_value>
+is
+a
+little	<y_axis_trend>
+higher	<y_axis_trend_up>
+again
+,
+coming
+in
+at
+£	<y_axis_inferred_label>
+62	<y_axis_inferred_3rd_highest_value_approx>
+;
+Then	<order_3rd>
+a
+bit   <y_axis_trend>
+more	<y_axis_trend_up>
+of
+a
+jump	<slope_up>
+to
+£	<y_axis_inferred_label>
+70	<y_axis_inferred_Scnd_highest_value_approx>
+for
+Memoto	<x_axis_label_Scnd_highest_value>
+and
+the
+most expensive   <y_axis_highest_value>
+,
+£	<y_axis_inferred_label>
+76	<y_axis_inferred_highest_value_approx>
+average	<y_axis_approx>
+for
+Cambo	<x_axis_label_highest_value>
+cameras	<x_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+showing
+the most affordable digital camera brand by average	price	<topic>
+shows
+that
+Konica	<x_axis_label_least_value>
+is
+the
+most affordable	<y_axis_least_value>
+camera brand	<x_axis>
+at
+£	<y_axis_inferred_label>
+52	<y_axis_inferred_least_value_approx>
+.
+Cambo	<x_axis_label_highest_value>
+,
+being
+the
+most expensive   <y_axis_highest_value>
+at
+£	<y_axis_inferred_label>
+75	<y_axis_inferred_highest_value_approx>
+.
+In
+the
+middle
+,
+Sigma	<x_axis_label_3rd_highest_value>
+costed
+£	<y_axis_inferred_label>
+61	<y_axis_inferred_3rd_highest_value_approx>
+on average	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Cambo	<x_axis_label_highest_value>
+cameras	<x_axis>
+are
+marginally  <y_axis_trend>
+the
+most expensive   <y_axis_highest_value>
+at
+£	<y_axis_inferred_label>
+76	<y_axis_inferred_highest_value_approx>
+,
+followed by   <order_Scnd>
+Memoto	<x_axis_label_Scnd_highest_value>
+at
+£	<y_axis_inferred_label>
+70	<y_axis_inferred_Scnd_highest_value_approx>
+.
+There
+'s
+a
+drop	<y_axis_trend_down>
+to
+the
+mid
+priced	<y_axis>
+cameras	<x_axis>
+Sigma	<x_axis_label_3rd_highest_value>
+at
+£	<y_axis_inferred_label>
+62	<y_axis_inferred_3rd_highest_value_approx>
+and	
+Hunten	<x_axis_label_4th_highest_value>
+at
+£	<y_axis_inferred_label>
+58	<y_axis_inferred_4th_highest_value_approx>
+,
+and 
+then	 
+another
+drop	<y_axis_trend_down>
+to
+the
+Konica	<x_axis_label_least_value>
+at
+£	<y_axis_inferred_label>
+54	<y_axis_inferred_least_value_approx>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+average	price	<y_axis>
+for
+digital	 cameras	<x_axis>
+.
+The
+most affordable	<y_axis_least_value>
+is
+the
+Konica	<x_axis_label_least_value>
+with
+an
+average	price	<y_axis>
+of
+£	<y_axis_inferred_label>
+54	<y_axis_inferred_least_value_approx>
+.
+Slightly	<y_axis_trend>
+more	<y_axis_trend_up>
+expensive  <t=1_a=b>
+is
+the
+Hunten   <x_axis_label_4th_highest_value>
+at
+£	<y_axis_inferred_label>
+58	<y_axis_inferred_4th_highest_value_approx>
+.
+The
+middle
+priced	<y_axis>
+camera	<x_axis>
+is
+the
+Sigma	<x_axis_label_3rd_highest_value>
+at
+£	<y_axis_inferred_label>
+62	<y_axis_inferred_3rd_highest_value_approx>
+.
+There
+is
+then	<order_3rd>
+a
+jump	<slope_up>
+of
+£	<y_axis_inferred_label>
+8	<y_axis_inferred_value_add_v1=Scnd_v2=3rd>
+to
+the
+Memoto	<x_axis_label_Scnd_highest_value>
+at
+£	<y_axis_inferred_label>
+70	<y_axis_inferred_Scnd_highest_value_approx>
+.
+The
+highest	<y_axis_highest_value>
+average	price	<y_axis>
+is
+the
+Cambo	<x_axis_label_highest_value>
+at
+£	<y_axis_inferred_label>
+74	<y_axis_inferred_highest_value_approx>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+details
+the
+most affordable digital cameras in terms of price	<topic>
+.
+Cambo	<x_axis_label_highest_value>
+presents
+us
+with
+the
+highest	<y_axis_highest_value>
+average	price	<y_axis>
+of
+£	<y_axis_inferred_label>
+75	<y_axis_inferred_highest_value_approx>
+.
+Next	<order_Scnd>
+is
+Memoto	<x_axis_label_Scnd_highest_value>
+at
+£	<y_axis_inferred_label>
+70	<y_axis_inferred_Scnd_highest_value_approx>
+,
+followed by   <order_Scnd>
+Sigma	<x_axis_label_3rd_highest_value>
+at
+£	<y_axis_inferred_label>
+62	<y_axis_inferred_3rd_highest_value_approx>
+.
+Hunten	<x_axis_label_4th_highest_value>
+is
+the
+penultimate
+selection
+at
+£	<y_axis_inferred_label>
+58	<y_axis_inferred_4th_highest_value_approx>
+,
+and
+finally	<order_last>
+Konica	<x_axis_label_least_value>
+is
+the
+cheapest   <y_axis_least_value>
+,
+with
+an
+average	<y_axis_approx>
+of
+just	<y_axis_least_value>
+£	<y_axis_inferred_label>
+53	<y_axis_inferred_least_value_approx>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the average	price (£) of most affordable digital cameras	<topic>
+by
+average	price	<y_axis>
+.
+The
+cheapest   <y_axis_least_value>
+camera	<x_axis>
+is
+the
+Konica	<x_axis_label_least_value>
+at
+£	<y_axis_inferred_label>
+53	<y_axis_inferred_least_value_approx>
+followed by   <order_Scnd>
+Hunten	<x_axis_label_4th_highest_value>
+at
+£	<y_axis_inferred_label>
+58	<y_axis_inferred_4th_highest_value_approx>
+,
+Sigma	<x_axis_label_3rd_highest_value>
+at
+£	<y_axis_inferred_label>
+62	<y_axis_inferred_3rd_highest_value_approx>
+,
+Memoto	<x_axis_label_Scnd_highest_value>
+at
+£	<y_axis_inferred_label>
+70	<y_axis_inferred_Scnd_highest_value_approx>
+and	 
+the
+most expensive   <y_axis_highest_value>
+is
+the
+Cambo	<x_axis_label_highest_value>
+at
+£	<y_axis_inferred_label>
+86	<y_axis_inferred_highest_value_approx>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Here
+we
+can
+see
+the most affordable digital camera brands by price	<topic>
+in
+pound sterling	<y_axis_inferred_label>
+.
+At
+around	<y_axis_approx>
+£	<y_axis_inferred_label>
+53	<y_axis_inferred_least_value_approx>
+the
+Konica	<x_axis_label_least_value>
+comes
+in
+at
+most affordable	<y_axis_least_value>
+,
+followed by   <order_Scnd>
+the
+Husten
+at
+just under	<y_axis_approx>
+£	<y_axis_inferred_label>
+60	<y_axis_inferred_4th_highest_value_approx>
+,
+and
+the
+Sigma	<x_axis_label_3rd_highest_value>
+at
+just over	<y_axis_approx>
+the
+£	<y_axis_inferred_label>
+60	<y_axis_inferred_4th_highest_value_approx>
+price	<y_axis>
+mark
+.
+The
+Memoto	<x_axis_label_Scnd_highest_value>
+camera brand	<x_axis>
+averages	<y_axis>
+at
+£	<y_axis_inferred_label>
+70	<y_axis_inferred_Scnd_highest_value_approx>
+,
+and
+lastly	<order_last>
+the
+Cambo	<x_axis_label_highest_value>
+,
+averaging
+around	<y_axis_approx>
+£	<y_axis_inferred_label>
+75	<y_axis_inferred_highest_value_approx>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+illustrates
+the
+five most affordable digital camera brands, represented by their average	price	<topic>
+in
+pounds sterling	<y_axis_inferred_label>
+.
+The
+most affordable	<y_axis_least_value>
+of
+these
+camera	<x_axis>
+is
+Konica	<x_axis_label_least_value>
+with
+an
+average	price	<y_axis>
+of
+54	<y_axis_inferred_least_value_approx>
+pounds	<y_axis_inferred_label>
+.
+This
+is
+followed by   <order_Scnd>
+Hunten	<x_axis_label_4th_highest_value>
+(
+58	<y_axis_inferred_4th_highest_value_approx>
+pounds	<y_axis_inferred_label>
+)
+Sigma  <x_axis_label_3rd_highest_value>
+(
+62  <y_axis_inferred_3rd_highest_value_approx>
+pounds	<y_axis_inferred_label>
+)
+and
+Memoto	<x_axis_label_Scnd_highest_value>
+at
+70	<y_axis_inferred_Scnd_highest_value_approx>
+pounds	<y_axis_inferred_label>
+.
+The
+most expensive   <y_axis_highest_value>
+of
+the
+affordable	<t=1_a=b>
+cameras	<x_axis>
+is
+Cambo	<x_axis_label_highest_value>
+with
+the
+average	<t=1_a=y>
+camera	<x_axis>
+costing
+75	<y_axis_inferred_highest_value_approx>
+pounds	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+From	<y_x_comparison>
+the
+chart
+we
+can
+see
+that
+the
+most affordable  <y_axis_highest_value>
+digital	camera	<x_axis>
+by
+average	price	<y_axis>
+was
+the
+Cambo	<x_axis_label_highest_value>
+at
+74	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+The
+least affordabe	 <y_axis_least_value>
+is
+the
+Konica	<x_axis_label_least_value>
+at
+54	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+The
+3	<y_axis_inferred_value_add_v1=4th_v2=3rd>
+middle
+most 
+affordable   <t=1_a=b>	
+cameras	<x_axis>
+were
+Memoto	<x_axis_label_Scnd_highest_value>
+with
+70	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+Sigma	<x_axis_label_3rd_highest_value>
+with
+62	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+and 
+Hunten	<x_axis_label_4th_highest_value>
+with
+58	<y_axis_inferred_4th_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+As can be seen the bars are fairly even	<interpretation>
+.
+Cambo	<x_axis_label_highest_value>
+however	<y_x_comparison>
+has
+the
+highest	<y_axis_highest_value>
+average	price	<y_axis>
+at
+£	<y_axis_inferred_label>
+75	<y_axis_inferred_highest_value_approx>
+.
+Memoto	<x_axis_label_Scnd_highest_value>
+follow
+next	<order_Scnd>
+with
+£	<y_axis_inferred_label>
+70	<y_axis_inferred_Scnd_highest_value_approx>
+.
+Sigma	<x_axis_label_3rd_highest_value>
+,
+Hunten	<x_axis_label_4th_highest_value>
+come
+in
+at
+a
+similar	<y_axis_trend>
+price	<y_axis>
+between  <y_axis_approx>
+£	<y_axis_inferred_label>
+58-£62  <y_axis_inferred_4th_highest_value_approx>
+.
+The
+most affordable	<y_axis_least_value>
+however	<y_x_comparison>
+is
+Konica	<x_axis_label_least_value>
+at
+an
+average	price	<y_axis>
+of
+£	<y_axis_inferred_label>
+52	<y_axis_inferred_least_value_approx>
+<end_of_description>
+
+
+
+<start_of_description>
+This
+is
+a
+graph
+to
+show
+the most affordable digital cameras by average	price	<topic>
+,
+with
+the
+y
+axis
+representing
+average	price	<y_axis>
+in
+£	<y_axis_inferred_label>
+and	
+the
+x
+axis
+representing
+camera brand	<x_axis>
+.
+Cambo	<x_axis_label_highest_value>
+is
+the
+least affordable   <y_axis_least_value>
+digital camera	<x_axis>
+,
+with
+an
+average	price	<y_axis>
+of
+£	<y_axis_inferred_label>
+76	<y_axis_inferred_highest_value_approx>
+.
+Memoto	<x_axis_label_Scnd_highest_value>
+is
+the
+second	<order_Scnd>
+least 
+affordable  <t=0_a=y>	
+,
+costing
+on average	<t=1_a=y>
+£	<y_axis_inferred_label>
+70	<y_axis_inferred_Scnd_highest_value_approx>
+.
+Sigma	<x_axis_label_3rd_highest_value>
+is
+third	<order_3rd>
+least	
+(
+£	<y_axis_inferred_label>
+62	<y_axis_inferred_3rd_highest_value_approx>
+)
+,
+and
+Hunten	<x_axis_label_4th_highest_value>
+fourth
+least	<y_axis_least_value>
+(
+£	<y_axis_inferred_label>
+58	<y_axis_inferred_4th_highest_value_approx>
+)
+.
+Konica	<x_axis_label_least_value>
+is
+the
+most affordable	<y_axis_least_value>
+brand	<x_axis>
+of
+digital	 camera	<x_axis>
+,
+costing
+an
+average	price	<y_axis>
+of
+£	<y_axis_inferred_label>
+54	<y_axis_inferred_least_value_approx>
+.
+<end_of_description>
+
+
+

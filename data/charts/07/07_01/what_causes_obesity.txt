@@ -1,0 +1,739 @@
+<start_of_description>
+The
+chart
+shows
+what causes obesity    <topic>
+.
+We
+can
+see
+that
+fast food    <x_axis_label_highest_value>
+accounts
+for
+a
+high    <y_axis_highest_value>
+percentage    <y_axis>
+of
+this
+at
+60    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+whilst    <y_x_comparison>
+genetic    <x_axis_label_Scnd_highest_value>
+follows    <order_Scnd>
+at
+30    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+and
+lack of exercise    <x_axis_label_least_value>
+at
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Fast food    <x_axis_label_highest_value>
+is
+the
+major    <y_axis_highest_value>
+cause of obesity    <x_axis>
+at
+60    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+with
+lack of exercise    <x_axis_label_least_value>
+at
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+but
+genetics     <x_axis_label_Scnd_highest_value>
+is
+30    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+of
+leading
+causes      <x_axis>
+.
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+Fast food    <x_axis_label_highest_value>
+is
+the
+major   <y_axis_highest_value>
+cause of obesity   <x_axis>
+at
+60    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+.
+Genetics    <x_axis_label_Scnd_highest_value>
+plays
+a
+significant     <y_axis_trend>
+role
+at
+30    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+.
+Lack of exercise    <x_axis_label_least_value>
+is
+only    <y_axis_least_value>
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+The
+chart
+represents
+what
+the main causes of obesity     <topic>
+are
+and
+the
+bar
+chart
+shows
+the
+following
+3       <x_axis_labels_count>
+areas	<x_axis>
+.
+The
+largest     <y_axis_highest_value>
+cause       <x_axis>
+is
+due
+to
+the
+intake of fast food   <x_axis_label_highest_value>
+.
+This
+contributes
+to
+60    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+of
+the
+cause    <x_axis>
+.
+This
+is
+followed    <order_Scnd>
+by
+genetics    <x_axis_label_Scnd_highest_value>
+at
+30    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+and
+finally     <order_last>
+a
+lack of exercise   <x_axis_label_least_value>
+at
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chat
+shows
+that
+Fast Food   <x_axis_label_highest_value>
+is
+twice   <y_axis_inferred_value_mul_v1=highest_v2=Scnd>
+as
+likely
+as
+Genetics    <x_axis_label_Scnd_highest_value>
+to
+cause	<t=1_a=x>
+obesity	<t=1_a=y>
+.
+It
+also
+shows
+that
+lack of exercise    <x_axis_label_least_value>
+is
+only    <y_axis_least_value>
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+likely
+to
+cause	<t=1_a=x>
+obesity	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+The
+table
+shows
+that
+the
+leading    <y_axis_highest_value>
+cause of obesity	<x_axis>
+is
+Fast food    <x_axis_label_highest_value>
+(
+60    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+)
+,
+followed    <order_Scnd>
+by
+Genetics    <x_axis_label_Scnd_highest_value>
+(
+30    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+)
+and
+finally    <order_last>
+lack of exercise    <x_axis_label_least_value>
+(
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+)
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+causes of obesity    <topic>
+by
+percentage    <y_axis>
+.
+60    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+of
+obesity cases    <y_axis>
+are
+caused	<t=1_a=x>
+by
+fast food    <x_axis_label_highest_value>
+;
+30    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+are
+genetic    <x_axis_label_Scnd_highest_value>
+and
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+are
+due
+to
+lack of exercise    <x_axis_label_least_value>
+.
+Unfortunately the chart doesn't show the cases where more than one of these causes may have played an influence on why someone is obese    <interpretation>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Fast food    <x_axis_label_highest_value>
+is
+the
+highest    <y_axis_highest_value>
+cause of obesity   <x_axis>
+with
+60    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+of
+cases	<y_axis>
+.
+It
+is
+double    <y_axis_inferred_value_mul_v1=highest_v2=Scnd>
+the
+next    <order_Scnd>
+highest
+cause    <x_axis>
+-
+genetic    <x_axis_label_Scnd_highest_value>
+on
+30    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+and
+6 times   <y_axis_inferred_value_mul_v1=highest_v2=least>
+lack of exercise    <x_axis_label_least_value>
+which
+only    <y_axis_least_value>
+causes
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+of
+cases	<y_axis>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+This
+graph
+highlights
+the
+causes of obesity    <topic>
+.
+It
+indicates
+that
+fast food    <x_axis_label_highest_value>
+is
+a
+60    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+cause of obesity  <x_axis>
+whilst    <y_x_comparison>
+a
+lack of exercise    <x_axis_label_least_value>
+is
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+of
+the
+cause   <x_axis>
+.
+Genetic causes    <x_axis_label_Scnd_highest_value>
+amount
+for
+30    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+that
+fast food    <x_axis_label_highest_value>
+is
+the
+most    <y_axis_highest_value>
+likely
+cause of obesity    <x_axis>
+on average	<interpretation>
+,
+followed    <order_Scnd>
+by
+genetic factors    <x_axis_label_Scnd_highest_value>
+,
+and
+is
+least    <y_axis_least_value>
+likely
+to
+be
+caused
+by
+lack of exercise    <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Graph
+shows
+the
+causes of Obesity    <topic>
+by
+percentage    <y_axis>
+.
+60    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+is
+caused
+by
+fast food    <x_axis_label_highest_value>
+,
+followed    <order_Scnd>
+by
+genetics    <x_axis_label_Scnd_highest_value>
+at
+30    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+and
+the
+smallest    <y_axis_least_value>
+at
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+is
+lack of exercise    <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+The
+primary    <y_axis_highest_value>
+cause    <x_axis>
+is
+over-consumption of fast food   <x_axis_label_highest_value>
+with
+60    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+of
+obesity cases    <y_axis>
+being
+related
+to
+this
+type
+of
+diet
+.
+Genetics    <x_axis_label_Scnd_highest_value>
+also
+contributes
+to
+significant    <y_axis_trend>
+amount
+of
+cases	<y_axis>
+by
+30    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+.
+Lack of exercise    <x_axis_label_least_value>
+contributes
+to
+just    <y_axis_least_value>
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+of
+cases <y_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+is
+a
+graph
+showing
+different causes of obesity   <topic>
+.
+It
+shows
+60    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+of
+it
+'
+s
+caused
+by
+fast food    <x_axis_label_highest_value>
+,
+a
+third    <y_axis_Scnd_highest_val>
+of
+it
+is
+due
+to
+genetic factors    <x_axis_label_Scnd_highest_value>
+,
+and
+just under    <y_axis_approx>
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+of
+obesity	<y_axis>
+is
+due
+to
+lack of exercise    <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+that
+60    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+of
+obesity	<y_axis>
+is
+caused
+by
+fast food    <x_axis_label_highest_value>
+.
+Only    <y_axis_least_value>
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+is
+caused
+by
+lack of exercise   <x_axis_label_least_value>
+whilst    <y_x_comparison>
+30    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+is
+genetic    <x_axis_label_Scnd_highest_value>
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graphs
+illustrates
+the
+causes of obesity    <topic>
+.
+60    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+of
+obesity	<t=1_a=y>
+is
+caused
+by
+fast food    <x_axis_label_highest_value>
+,
+30    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+by
+genetics    <x_axis_label_Scnd_highest_value>
+and
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+by
+lack of exercise    <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+<start_of_description>
+this
+graph
+shows
+the
+causes of obesity    <topic>
+,
+the
+greatest    <y_axis_highest_value>
+contributer   <x_axis>
+is
+fast food    <x_axis_label_highest_value>
+with
+60    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+follows    <order_Scnd>
+by
+genetic factors    <x_axis_label_Scnd_highest_value>
+with
+30    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+and
+lack of exercise    <x_axis_label_least_value>
+making
+up
+the
+remaining
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+<end_of_description>
+
+
+
+<start_of_description> [type01]
+Fast food    <x_axis_label_highest_value>
+is
+the
+highest    <y_axis_highest_value>
+factors
+in
+causing    <t=1_a=x>
+obesity    <t=1_a=y>
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+displays
+causes of obesity    <topic>
+.
+The
+highest    <y_axis_highest_value>
+percentage of obesity cases	<y_axis>
+cases
+would
+be
+because
+of
+fast food    <x_axis_label_highest_value>
+at
+60    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+,
+followed    <order_Scnd>
+by
+genetic reasons    <x_axis_label_Scnd_highest_value>
+at
+30    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+and
+then   <order_last>
+lack of exercise    <x_axis_label_least_value>
+at
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+This
+graph
+shows
+three    <x_axis_labels_count>
+potential
+causes of obesity   <x_axis>
+,
+and
+breaks
+down
+their
+relative
+contribution   <y_axis>
+.
+Fast food    <x_axis_label_highest_value>
+emerges
+as
+the
+most important    <y_axis_highest_value>
+,
+followed    <order_Scnd>
+by
+genetic factors    <x_axis_label_Scnd_highest_value>
+.
+Lack of exercise    <x_axis_label_least_value>
+is
+comparatively   
+unimportant    <y_axis_least_value>
+to
+these
+other two factors	<group_highest_Scnd>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+Fast food    <x_axis_label_highest_value>
+is
+the
+leading    <y_axis_highest_value>
+cause of obesity    <x_axis>
+at
+60    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+,
+followed    <order_Scnd>
+by
+genetics    <x_axis_label_Scnd_highest_value>
+at
+30    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+and 
+a
+lack of exercise    <x_axis_label_least_value>
+at
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+what causes obesity    <topic>
+or
+is
+a
+factor	<x_axis>
+in
+someone becoming obese	<t=1_a=x>
+.
+60    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+Fast food    <x_axis_label_highest_value>
+\\n    <separator>
+30    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+Genetic    <x_axis_label_Scnd_highest_value>
+\\n    <separator>
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+Lack of Exercises    <x_axis_label_least_value>
+<end_of_description>
+
+
+
+<start_of_description>
+Fast food    <x_axis_label_highest_value>
+causes
+60    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+of
+obesity	<t=1_a=y>
+,
+genetic predisposition   <x_axis_label_Scnd_highest_value>
+some    <y_axis_approx>
+30    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+whilst    <y_x_comparison>
+lack of exercise    <x_axis_label_least_value>
+contributes
+the
+other
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+<end_of_description>
+

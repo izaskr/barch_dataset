@@ -1,0 +1,927 @@
+<start_of_description>
+This
+chart
+shows
+the
+average annual salary for software engineers relative to their degree    <topic>
+.
+We
+can
+see
+that
+those
+who
+have    
+no degree    <x_axis_label_least_value>
+have
+a
+lower    <y_axis_trend_down>
+salary    <y_axis>
+than
+those 
+who
+have
+a
+bachelors    <x_axis_label_3rd_highest_value>
+degree    <x_axis>
+.
+Those
+with
+a
+Masters    <x_axis_label_Scnd_highest_value>
+or
+a
+PHD    <x_axis_label_highest_value>
+on average	<t=0_a=y>
+earn
+much
+more    <y_axis_trend_up>
+.
+<end_of_description>
+
+
+<start_of_description>
+The
+chart
+shows
+that
+with
+a
+PhD    <x_axis_label_highest_value>
+degree    <x_axis>
+Software engineers    <t=1_a=b>
+earn
+the
+highest     <y_axis_highest_value>
+with
+over    <y_axis_approx>
+20    <y_axis_inferred_value_add_v1=highest_v2=3rd>
+000    <y_magnitude>
+more    <y_axis_trend_up>
+than
+no degrees    <x_axis_label_least_value>
+and
+bachelor    <x_axis_label_3rd_highest_value>
+.
+Masters    <x_axis_label_Scnd_highest_value>
+is
+only
+15    <y_axis_inferred_value_add_v1=Scnd_v2=highest>
+000    <y_magnitude>
+behind    <y_axis_trend_down>
+Phd    <x_axis_label_highest_value>
+but
+shows
+more    <x_axis_up>
+studies    <x_axis>
+are
+needed
+for
+higher    <slope_up>
+salaries    <y_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description> [type01]
+Those
+who
+have
+a
+PHD    <x_axis_label_highest_value>
+do
+better    <y_axis_trend_up>
+in
+terms
+of
+salary    <y_axis>
+than
+those who do not    <x_axis_labels_rest>
+<end_of_description>
+
+
+<start_of_description>
+There
+is
+an
+equal
+increase    <slope_up>
+between
+engineers' salaries    <y_axis>
+from
+Bachelor    <x_axis_label_3rd_highest_value>
+through
+Master    <x_axis_label_Scnd_highest_value>
+to
+PhD    <x_axis_label_least_value>
+.
+Engineers    <t=1_a=b>
+with
+no degree    <x_axis_label_least_value> 
+were
+worse  off  <y_axis_trend_down>
+than
+Bachelor    <x_axis_label_3rd_highest_value>
+'
+s
+salaries    <y_axis>
+by
+approximately    <y_axis_approx>
+10    <y_axis_inferred_value_add_v1=least_v2=3rd>
+,000    <y_magnitude>
+.
+<end_of_description>
+
+
+<start_of_description>
+The
+median salary of software engineers with respect to their degrees    <topic>
+is
+shown
+as
+follows
+.
+Those
+with
+no degree     <x_axis_label_least_value>
+are
+the
+lowest    <y_axis_least_value>
+at
+30    <y_axis_least_value_val>
+%    <y_magnitude>
+,
+those
+with
+a
+Bachelors    <x_axis_label_3rd_highest_value>
+degree    <x_axis>
+come
+in
+at
+45    <y_axis_3rd_highest_val>
+%    <y_magnitude>
+.
+With
+a
+masters    <x_axis_label_Scnd_highest_value>
+degree    <x_axis>
+,
+the
+engineers	<t=1_a=b>
+median	<t=1_a=y>
+salary    <y_axis>
+is
+at
+55    <y_axis_Scnd_highest_val>
+%    <y_magnitude>
+and
+finally    <order_last>
+,
+those
+with
+a
+PHD    <x_axis_label_highest_value>
+are
+at
+the
+highest    <y_axis_highest_value>
+level
+of
+65    <y_axis_highest_value_val>
+%    <y_magnitude>
+.
+<end_of_description>
+
+
+<start_of_description>
+This
+shows
+that
+Software Engineers    <t=1_a=b>
+with
+PhDs    <x_axis_label_highest_value>
+earn
+more    <y_axis_trend_up>
+than
+their
+counterparts    <x_axis_labels_rest>
+.
+The
+lowest    <y_axis_least_value>
+salaries    <y_axis>
+are
+to
+those
+who
+have
+no degree    <x_axis_label_least_value>
+,
+followed    <order_Scnd>
+by
+a
+bachelors    <x_axis_label_3rd_highest_value>
+degree    <x_axis>
+then    <order_3rd>
+a
+masters    <x_axis_label_Scnd_highest_value>
+degree    <x_axis>
+-
+therefore 
+we
+can
+take
+from
+this
+graph
+that
+the      
+higher the level of education    <x_axis_trend>
+,
+the
+higher    <slope_up>
+the
+salary    <y_axis>
+Software Engineers	<t=1_a=b>
+earn
+per year	<t=1_a=y>
+<end_of_description>
+
+
+
+<start_of_description>
+The
+table
+shows
+that
+Software engineers	<t=1_a=b>
+with
+PhDs    <x_axis_label_highest_value>
+earn
+the
+most    <y_axis_highest_value>
+,
+earning
+a
+median	<t=1_a=y>
+salary    <y_axis>
+of
+over    <y_axis_approx>
+$    <y_axis_inferred_label>
+60    <y_axis_inferred_highest_value_approx>
+,000    <y_magnitude>
+.
+Masters    <x_axis_label_Scnd_highest_value>
+degree    <x_axis>
+graduates	<t=0_a=b>
+come
+2nd    <order_Scnd>
+earning
+on average	<t=0_a=y>
+$    <y_axis_inferred_label>
+55    <y_axis_Scnd_highest_val>
+,000    <y_magnitude>
+.
+Then  <order_3rd>
+comes
+Bachelors    <x_axis_label_3rd_highest_value>
+Degree    <x_axis>
+graduates	<t=0_a=b>
+,
+earning
+$    <y_axis_inferred_label>
+45    <y_axis_3rd_highest_val>
+,000    <y_magnitude>
+on average	<t=0_a=y>
+.
+Finally    <order_last>  
+those
+with
+no degree    <x_axis_label_least_value>
+earn
+the
+least    <y_axis_least_value>
+, 
+earning
+just over    <y_axis_approx>
+$    <y_axis_inferred_label>
+30    <y_axis_inferred_least_value_approx>
+,000    <y_magnitude>
+on average	<t=0_a=y>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+charts
+shows
+the
+average median salary per year for software engineers with respect to their degree type    <topic>
+.
+Not surprisingly   <interpretation> 
+,
+those  
+with
+no degree    <x_axis_label_least_value>
+earn  
+the
+least    <y_axis_least_value>
+;
+and
+those
+with
+a
+PhD    <x_axis_label_highest_value>
+earn
+the
+most    <y_axis_highest_value>
+.
+There
+is
+a
+difference
+of
+about    <y_axis_approx>
+$    <y_axis_inferred_label>
+30    <y_axis_inferred_value_add_v1=highest_v2=least>
+,000    <y_magnitude>
+between
+these
+average	<t=0_a=y>
+earnings
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+a
+trend
+that
+the
+higher the qualifications    <x_axis_trend>
+held
+by
+software engineer	<t=1_a=b>
+,
+the
+greater    <slope_up>
+the
+salary    <y_axis>
+they
+receive
+.
+Those
+with
+no degree    <x_axis_label_least_value>
+receive
+almost    <y_axis_approx>
+half    <y_axis_inferred_value_mul_v1=least_v2=highest>
+of
+the
+salary    <y_axis>
+received
+by
+those
+with
+a
+PHd    <x_axis_label_highest_value>
+.
+Education increases earning potential    <interpretation>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graphs
+shows
+the
+median salary of software engineers with respect to their degree    <topic>
+.
+We
+can
+see
+that
+there
+is
+an
+approximately    <y_axis_approx>
+$    <y_axis_inferred_label>
+20    <y_axis_inferred_value_add_v1=highest_v2=3rd>
+,000    <y_magnitude>
+salary    <y_axis>
+difference
+between
+those
+with
+a
+bachelor    <x_axis_label_3rd_highest_value>
+degree    <x_axis>
+and
+those
+with
+a
+Phd    <x_axis_label_highest_value>
+but	<y_x_comparison>
+only
+an
+approximate    <y_axis_approx>
+$    <y_axis_inferred_label>
+10    <y_axis_inferred_value_add_v1=3rd_v2=least>
+,000    <y_magnitude>
+difference
+between
+those
+with
+a
+degree    <x_axis_label_3rd_highest_value>
+and
+those
+without    <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+that
+software engineers	<t=1_a=b>
+who
+have
+a
+PhD    <x_axis_label_highest_value>
+degree    <x_axis>
+earn
+more    <y_axis_trend_up>
+money    <y_axis>
+than
+software engineers	<t=1_a=b>
+with
+lesser degrees    <x_axis_labels_rest> 
+.
+The
+chart
+demonstrates
+that
+the
+higher the degree    <x_axis_trend>
+,
+the
+more    <slope_up>
+money    <y_axis>
+earned
+on average	<t=0_a=y>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+Median Salary of Software Engineers by degree level    <topic>
+.
+The
+largest    <y_axis_highest_value>
+salary    <y_axis>
+of
+62    <y_axis_inferred_highest_value_approx>
+k    <y_magnitude>
+are
+those
+with
+a
+PhD    <x_axis_label_highest_value>
+,
+followed    <order_Scnd>
+by
+52    <y_axis_inferred_Scnd_highest_value_approx>
+k    <y_magnitude>
+for
+those
+with
+a
+Masters    <x_axis_label_Scnd_highest_value>
+,
+42    <y_axis_inferred_3rd_highest_value_approx>
+k    <y_magnitude>
+for
+those
+with
+a
+Bachelor    <x_axis_label_3rd_highest_value>
+degree    <x_axis>
+and
+the
+smallest    <y_axis_least_value>
+32    <y_axis_inferred_least_value_approx>
+k    <y_magnitude>
+for
+those
+with
+no degree    <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+<start_of_description> [type01]
+Students
+who
+have
+completed
+Bachelor    <x_axis_label_3rd_highest_value>
+,
+Masters    <x_axis_label_Scnd_highest_value>
+and
+PhD    <x_axis_label_highest_value>
+courses    <x_axis>
+earn
+significantly    <y_axis_trend>
+more    <y_axis_trend_up>
+than
+those
+with
+no degree    <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the
+median annual salary in $1000s for software engineers with respect to their original degree	<topic>
+.
+Those
+with
+a
+PhD    <x_axis_label_highest_value>
+earn
+the
+most    <y_axis_highest_value>
+at
+$    <y_axis_inferred_label>
+62    <y_axis_inferred_highest_value_approx>
+,000    <y_magnitude>
+.
+A
+master's    <x_axis_label_Scnd_highest_value>
+degree    <x_axis>
+gets
+average	<t=0_a=y>
+earnings    <y_axis>
+of
+$    <y_axis_inferred_label>
+52    <y_axis_inferred_Scnd_highest_value_approx>
+,000    <y_magnitude>
+,
+whilst    <y_x_comparison>
+a
+BSc    <x_axis_label_3rd_highest_value>
+gets
+$    <y_axis_inferred_label>
+42    <y_axis_inferred_3rd_highest_value_approx>
+,000    <y_magnitude>
+on average <t=0_a=y>
+.
+Those
+with
+no degree    <x_axis_label_least_value>
+average	<t=0_a=y>
+a
+salary    <y_axis>
+of
+$    <y_axis_inferred_label>
+30    <y_axis_inferred_least_value_approx>
+,000    <y_magnitude>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+that
+the
+median	<t=1_a=y>
+salary    <y_axis>
+a
+software engineer	<t=1_a=b>
+increases    <slope_up>
+as
+the
+level
+of
+their
+degree    <x_axis>
+rises    <x_axis_trend>
+.
+Those
+with
+a
+PhD    <x_axis_label_highest_value>
+earn
+over    <y_axis_approx>
+$    <y_axis_inferred_label>
+60    <y_axis_inferred_highest_value_approx>
+,000    <y_magnitude>
+,
+about    <y_axis_approx>
+$    <y_axis_inferred_label>
+10    <y_axis_inferred_value_add_v1=highest_v2=Scnd>
+,000    <y_magnitude>
+per year	<t=1_a=y>
+more    <y_axis_trend_up>
+than
+those
+with
+a
+masters    <x_axis_label_Scnd_highest_value>
+degree    <x_axis>
+,
+who
+in
+turn
+earn
+about    <y_axis_approx>
+$    <y_axis_inferred_label>
+10    <y_axis_inferred_value_add_v1=Scnd_v2=3rd>
+,000    <y_magnitude>
+per year	<t=1_a=y>
+more    <y_axis_trend_up>
+than
+those
+with
+a
+bachelor    <x_axis_label_3rd_highest_value>
+degree    <x_axis>
+.
+Those
+with
+no degree    <x_axis_label_least_value>
+earn
+the
+least    <y_axis_least_value>
+at
+about    <y_axis_approx>
+$    <y_axis_inferred_label>
+35    <y_axis_least_value_val>
+,000    <y_magnitude>
+per year	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the
+median salary for Software Engineers dependant on degree level    <topic>
+.
+Persons	<t=0_a=b>
+holding
+PhD    <x_axis_label_highest_value>
+level  <x_axis>
+earn
+the
+highest    <y_axis_highest_value>
+,
+followed    <order_Scnd>
+by
+Masters    <x_axis_label_Scnd_highest_value>
+,
+then    <order_3rd>
+Bachelors    <x_axis_label_3rd_highest_value>
+and
+finally    <order_last>
+no degree    <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+<start_of_description>
+this
+chart
+shows
+median salary per year for software engineers with respect in their degree    <topic>
+,
+those
+with
+a
+Phd    <x_axis_label_highest_value>
+look
+to
+earn
+over    <y_axis_approx>
+60    <y_axis_inferred_highest_value_approx>
+,000    <y_magnitude>
+,
+followed    <order_Scnd>
+by
+masters    <x_axis_label_Scnd_highest_value>
+with
+50    <y_axis_inferred_Scnd_highest_value_approx>
+,000    <y_magnitude>
+\\n    <separator>
+bachelors    <x_axis_label_3rd_highest_value>
+with
+over    <y_axis_approx>
+40    <y_axis_inferred_3rd_highest_value_approx>
+,000    <y_magnitude>
+and
+no degree    <x_axis_label_least_value>
+30    <y_axis_inferred_least_value_approx>
+,000    <y_magnitude>
+.
+showing
+that
+evidence
+indicates
+that
+the
+higher education you have completed    <x_axis_trend>
+the
+higher    <slope_up>
+your
+wage salary    <y_axis>
+will
+be
+<end_of_description>
+
+
+
+<start_of_description> [type01]
+The
+higher    <x_axis_up>
+level
+of
+education    <x_axis>
+the
+higher    <slope_up>
+the
+salary    <y_axis>
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+displays
+the
+median salary per year of software engineers depending on their degree    <topic>
+.
+Those
+with
+a
+PhD    <x_axis_label_highest_value>
+earn
+the
+most    <y_axis_highest_value>
+with
+64    <y_axis_inferred_highest_value_approx>
+,000    <y_magnitude>
+,
+then   <order_Scnd>
+Masters    <x_axis_label_Scnd_highest_value>
+at
+54    <y_axis_inferred_Scnd_highest_value_approx>
+,000    <y_magnitude>
+,
+then   <order_3rd>
+Bachelor    <x_axis_label_3rd_highest_value>
+at
+44    <y_axis_inferred_3rd_highest_value_approx>
+,000    <y_magnitude>
+and
+those
+in
+the
+field
+with
+no degree    <x_axis_label_least_value>
+earn
+34    <y_axis_inferred_least_value_approx>
+,000    <y_magnitude>
+.
+This corresponds with what you would expect that those with a better education and more knowledge earn more   <interpretation>
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+plots
+the
+median salary for software engineers split by their level of qualifications    <topic>
+.
+PhD    <x_axis_label_highest_value>
+holders	<t=0_a=b>
+earn
+the
+highest    <y_axis_highest_value>
+median	<t=1_a=y>
+salary    <y_axis>
+,
+followed    <order_Scnd>
+by
+Masters    <x_axis_label_Scnd_highest_value>
+holders	<t=0_a=b>
+,
+then    <order_3rd>
+bachelors    <x_axis_label_3rd_highest_value>
+.
+Non-degree    <x_axis_label_least_value>
+holders	<t=0_a=b>
+earn
+about    <y_axis_approx>
+half    <y_axis_inferred_value_mul_v1=least_v2=highest>
+what
+PhD    <x_axis_label_highest_value>
+holders	<t=0_a=b>
+do
+.
+<end_of_description>
+
+
+
+
+<start_of_description> [type01]
+Software engineers    <t=1_a=b>
+who
+achieved
+a
+higher    <x_axis_up>
+degree    <x_axis>
+of
+further
+education
+and
+higher
+degree    <x_axis>
+qualification
+earn
+a
+higher    <slope_up>
+salary    <y_axis>
+.
+<end_of_description>
+
+
+
+
+
+
+<start_of_description>
+63    <y_axis_inferred_highest_value_approx>
+k    <y_magnitude>
+is
+median	<t=1_a=y>
+salary    <y_axis>
+for
+software engineers	<t=1_a=b>
+who
+have
+a
+PhD    <x_axis_label_highest_value>
+,
+56    <y_axis_inferred_Scnd_highest_value_approx>
+k    <y_magnitude>
+for
+a
+masters    <x_axis_label_Scnd_highest_value>
+,
+44    <y_axis_inferred_3rd_highest_value_approx>
+k    <y_magnitude>
+for
+a
+bachelor    <x_axis_label_3rd_highest_value>
+degree    <x_axis>
+,
+but
+only    <y_axis_least_value>
+35    <y_axis_least_value_val>
+k    <y_magnitude>
+with
+no degree    <x_axis_label_least_value>
+<end_of_description>

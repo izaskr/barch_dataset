@@ -1,0 +1,894 @@
+<start_of_description>
+This
+graph
+shows
+what students at Lagos State University chose to study	<topic>
+.
+It
+shows
+that
+15	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+choose	<t=1_a=x>
+to	<x_axis_range_end>
+study
+STEM	<x_axis_label_least_value>
+,
+24	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+decide
+on
+Literature	<x_axis_label_3rd_highest_value>
+,
+30	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+go
+for
+Philosophy	<x_axis_label_Scnd_highest_value>
+and
+32	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+Medicine	<x_axis_label_highest_value>
+.
+<end_of_description>
+
+<start_of_description>
+This
+chart
+shows
+the
+study choices of Lagos State University students	<topic>
+.
+\\n	<separator>
+\\n	<separator>
+31	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+of
+students	<t=1_a=y>
+study
+Medicine	<x_axis_label_highest_value>
+,
+closely	<y_axis_trend>
+followed	<order_Scnd>
+by
+Philosophy	<x_axis_label_Scnd_highest_value>
+students	<t=1_a=y>
+at
+30	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+.
+\\n	<separator>
+24	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+of
+students	<t=1_a=y>
+study
+Literature	<x_axis_label_3rd_highest_value>
+,
+and
+15	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+are
+STEM	<x_axis_label_least_value>
+students	<t=1_a=y>
+.
+<end_of_description>
+
+<start_of_description> [type01]
+This
+chart
+represents
+the
+percentage of students	<y_axis>
+choosing	<t=1_a=x>
+to
+study	<t=1_a=y>
+certain
+subjects	<x_axis>
+at
+Lagos state University	<t=1_a=b>
+.
+No time frame is given	<interpretation>
+,
+but
+it
+indicates
+that
+philosophy	<x_axis_label_Scnd_highest_value>
+and
+medicine	<x_axis_label_highest_value>
+are
+the
+top	<y_axis_highest_value>
+subjects	<x_axis>
+.
+<end_of_description>
+
+<start_of_description>
+This
+chart
+represents
+the
+percentage	<y_axis>
+of
+what students at Lagos State University choose to study	<topic>
+.
+\\n	<separator>
+\\n	<separator>
+As
+you
+will
+see
+medicine	<x_axis_label_highest_value>
+(
+31	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+)
+and
+philosophy	<x_axis_label_Scnd_highest_value>
+(
+30	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+)
+are
+the
+highest	<y_axis_highest_value>
+and
+almost	<y_axis_approx>
+the
+same
+percentage	<y_axis>
+.
+\\n	<separator>
+\\n	<separator>
+STEM	<x_axis_label_least_value>
+is
+the
+lowest	<y_axis_least_value>
+chosen study	<x_axis>
+with
+15	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+course take up	<y_axis>
+.
+Literature	<x_axis_label_3rd_highest_value>
+is
+the
+3rd	<order_3rd>
+at
+24	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+<start_of_description>
+The
+chart
+shows
+what students at Lagos State University choose to study	<topic>
+.
+\\n	<separator>
+\\n	<separator>
+STEM	<x_axis_label_least_value>
+subject	<x_axis>
+is
+the
+least popular  <y_axis_least_value>
+choice   <x_axis>
+with
+15	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+.
+\\n	<separator>
+Literature	<x_axis_label_3rd_highest_value>
+24	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+.
+\\n	<separator>
+30	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+of
+students	<t=1_a=y>
+opted
+Philosophy	<x_axis_label_Scnd_highest_value>
+and
+medicine	<x_axis_label_highest_value>
+is
+the
+popular	<y_axis_highest_value>
+choice <x_axis>
+at
+31	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+<start_of_description>
+This
+chart
+shows
+what students at Lagos State University choose to study	<topic>
+.
+The
+most popular   <y_axis_highest_value>
+is
+medicine	<x_axis_label_highest_value>
+at
+31	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+closely	<y_axis_trend>
+followed	<order_Scnd>
+by
+philosophy	<x_axis_label_Scnd_highest_value>
+at
+30	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+.
+24	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+choose	<t=1_a=x>
+literature	<x_axis_label_3rd_highest_value>
+and
+15	<y_axis_inferred_value_add_v1=Scnd_v2=least>
+%	<y_axis_inferred_label>
+choose	<t=1_a=x>
+STEM	<x_axis_label_least_value>
+.
+<end_of_description>
+
+<start_of_description>
+The
+chart
+shows
+the
+percentage of students	<y_axis>
+that
+chose	<t=1_a=x>
+to
+study
+STEM , literature , philosophy and medicine	<x_axis_labels>
+.
+15	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+of
+people	<t=0_a=y>
+chose	<t=1_a=x>
+STEM	<x_axis_label_least_value>
+.
+Literature	<x_axis_label_3rd_highest_value>
+was
+chosen	<t=1_a=x>
+by
+24	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+of
+students	<t=1_a=y>
+.
+30	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+of
+students	<t=1_a=y>
+chose	<t=1_a=x>
+philosophy	<x_axis_label_Scnd_highest_value>
+.
+Finally	<order_last>
+,
+31	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+of
+them
+chose	<t=1_a=x>
+to
+study	<t=1_a=y>
+medicine	<x_axis_label_highest_value>
+.
+<end_of_description>
+
+<start_of_description>
+This
+chart
+shows
+what subjects students choose to study at Lagos State University	<topic>
+.
+15	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+choose	<t=1_a=x>
+a
+stem	<x_axis_label_least_value>
+subject	<x_axis>
+,
+rising	<y_axis_trend_up>
+to
+almost	<y_axis_approx>
+25	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+studying	
+literature	<x_axis_label_3rd_highest_value>
+,
+then	<order_3rd>
+around	<y_axis_approx>
+30	<group_y_highest_Scnd>
+%	<y_axis_inferred_label>
+for
+both
+philosophy and medicine	<group_highest_Scnd>
+with
+slightly	<y_axis_approx>
+more	<y_axis_trend_up>
+choosing	<t=1_a=x>
+medicine	<x_axis_label_highest_value>
+.
+<end_of_description>
+
+<start_of_description>
+Students	<t=1_a=y>
+at
+Lagos State University	<t=1_a=b>
+were
+less	<y_axis_trend_down>
+likely
+to
+be
+enrolled	<t=0_a=y>
+in
+STEM	<x_axis_label_least_value>
+courses	<x_axis>
+than
+in
+Literature	<x_axis_label_3rd_highest_value>
+,
+Philosophy	<x_axis_label_Scnd_highest_value>
+and
+Medicine	<x_axis_label_highest_value>
+.
+The
+latter  <x_axis_labels_rest>
+subjects	<x_axis>
+were
+studied
+by
+at
+least	<y_axis_least_value>
+half	<other_operation>
+as
+many
+students	<t=1_a=y>
+than
+STEM	<x_axis_label_least_value>
+was
+.
+<end_of_description>
+
+<start_of_description>
+The
+chart
+shows
+the
+percentage of students studying various courses at Lagos State University	<topic>
+.
+Medicine	<x_axis_label_highest_value>
+is
+the
+most popular   <y_axis_highest_value>
+course	<x_axis>
+with
+31	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+of
+the
+cohort	<t=0_a=y>
+opting
+for
+this
+and
+Philosophy	<x_axis_label_Scnd_highest_value>
+is
+not far
+from
+behind	<y_axis_trend_down>
+with
+30	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+.
+STEM	<x_axis_label_least_value>
+subjects	<x_axis>
+are
+half	<y_axis_inferred_value_mul_v1=least_v2=Scnd>
+as
+popular
+as
+Philosophy	<x_axis_label_Scnd_highest_value>
+with
+15	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+opting
+for
+this
+and
+literature	<x_axis_label_3rd_highest_value>
+is
+24	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+<start_of_description> [type01]
+The
+graph
+shows
+the
+percentage number of students	<y_axis>
+at
+Lagos state university	<t=1_a=b>
+.
+Most	<y_axis_highest_value>
+students	<t=1_a=y>
+chose	<t=1_a=x>
+to
+study	<t=1_a=y>
+medicine	<x_axis_label_highest_value>
+with
+30.5	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+and
+only	<y_axis_least_value>
+15	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+of
+students	<t=1_a=y>
+chose	<t=1_a=x>
+to	<x_axis_range_end>
+study	<t=1_a=y>
+STEM	<x_axis_label_least_value>
+.
+<end_of_description>
+
+<start_of_description>
+The
+topics	<x_axis>
+chosen
+by
+students	<t=1_a=y>
+at
+Lagos State University	<t=1_a=b>
+vary
+within
+4	<x_axis_labels_count>
+main topics	<x_axis>
+,
+STEM , Literature , Philosophy and Medicine	<x_axis_labels>
+.
+\\n	<separator>
+Medicine	<x_axis_label_highest_value>
+is
+the
+favorite one   <y_axis_highest_value>
+with
+more than	<y_axis_approx>
+30	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+of
+students	<t=1_a=y>
+selecting
+this
+.
+Medicine	<x_axis_label_highest_value>
+is
+followed	<order_Scnd>
+by
+Philosophy	<x_axis_label_Scnd_highest_value>
+with
+around	<y_axis_approx>
+30	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+students	<t=1_a=y>
+selecting	
+this
+topic	<x_axis>
+.
+The
+two
+less	<y_axis_approx>
+selected
+topics
+are
+Literature	<x_axis_label_3rd_highest_value>
+with
+around	<y_axis_approx>
+24	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+students	<t=1_a=y>
+and
+STEM	<x_axis_label_least_value>
+with
+just	<y_axis_least_value>
+15	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+students	<t=1_a=y>
+.
+<end_of_description>
+
+<start_of_description>
+As
+you
+can
+see
+this
+graph
+shows
+the
+percentage of students who chose to study	<topic>
+4	<x_axis_labels_count>
+different
+subjects	<x_axis>
+these
+being
+,
+STEM , Literature , Philosophy and Medicine	<x_axis_labels>
+.
+Medicine	<x_axis_label_highest_value>
+was
+the
+most popular   <y_axis_highest_value>
+with
+just over	<y_axis_approx>
+30	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+of
+student	<t=1_a=y>
+choosing	<t=1_a=x>
+it
+although
+philosophy	<x_axis_label_Scnd_highest_value>
+was
+close	<y_axis_trend>
+with
+30	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+choosing	<t=1_a=b>
+it
+.
+The
+least popular   <y_axis_least_value>
+was
+STEM	<x_axis_label_least_value>
+with
+only	<y_axis_least_value>
+15	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+choosing <t=1_a=b>
+it
+.
+<end_of_description>
+
+<start_of_description>
+This
+chart
+shows
+the
+spread of students at Lagos State University and what they chose to study	<topic>
+.
+15	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+chose	<t=1_a=x>
+to
+study	<t=1_a=y>
+STEM	<x_axis_label_least_value>
+;
+24	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+literature	<x_axis_label_3rd_highest_value>
+;
+30	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+philosophy	<x_axis_label_Scnd_highest_value>
+,
+and
+32	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+medicine		<x_axis_label_highest_value>
+.
+<end_of_description>
+
+<start_of_description>
+Here
+we
+see
+a
+bar
+chart
+showing
+what students in lagos state university choose to study	<topic>
+.
+\\n	<separator>
+15	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+choose	<t=1_a=x>
+to
+study	<t=1_a=y>
+STEM subjects	<x_axis_label_least_value>
+,
+Just under	<y_axis_approx>
+25	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+choose	<t=1_a=x>
+to
+study	<t=1_a=y>
+Literature	<x_axis_label_3rd_highest_value>
+,
+30	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+Philosophy	<x_axis_label_Scnd_highest_value>
+and
+just over	<y_axis_approx>
+30	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+choose	<t=1_a=x>
+medicine	<x_axis_label_highest_value>
+.
+<end_of_description>
+
+<start_of_description>
+The
+chart
+shows
+what students at Lagos State University choose to study	<topic>
+.
+\\n	<separator>
+15	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+study
+STEM	<x_axis_label_least_value>
+,
+24	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+study
+literature	<x_axis_label_3rd_highest_value>
+,
+30	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+study
+philosophy	<x_axis_label_Scnd_highest_value>
+and
+31	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+study
+medicine	<x_axis_label_highest_value>
+<end_of_description>
+
+<start_of_description>
+Here
+is
+a
+chart
+about
+the
+subject that Lagos State University choose to study	<topic>
+.
+The
+most common   <y_axis_highest_value>
+subject	<x_axis>
+is
+Medicine	<x_axis_label_highest_value>
+,
+followed	<order_Scnd>
+by
+philosophy	<x_axis_label_Scnd_highest_value>
+.
+The
+third	<order_3rd>
+most popular   <y_axis_highest_value>
+is
+literature	<x_axis_label_3rd_highest_value>
+followed	<order_Scnd>
+by
+STEM	<x_axis_label_least_value>
+.
+<end_of_description>
+
+<start_of_description>
+This
+chart
+represents
+the
+popularity of courses at Lagos State University	<topic>
+.
+\\n	<separator>
+\\n	<separator>
+Medicine and Philosophy	<group_highest_Scnd>
+are
+the
+most popular   <y_axis_highest_value>
+subjects	<x_axis>
+,
+with
+just	over	<y_axis_approx>
+60	<group_y_highest_Scnd>
+%	<y_axis_inferred_label>
+of
+the
+students	<t=1_a=y>
+choosing	<t=1_a=x>
+to
+study	<t=1_a=y>
+in
+one
+of
+these areas	<group_highest_Scnd>
+.
+\\n	<separator>
+\\n	<separator>
+Only	<y_axis_least_value>
+15	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+of
+students	<t=1_a=y>
+chose	<t=1_a=x>
+to
+study
+STEM subjects <x_axis_label_least_value>
+.
+<end_of_description>
+
+<start_of_description>
+This
+chart
+shows
+what
+students at Lagos state university choose to study	<topic>
+in
+percentage	<y_axis_inferred_label>
+.
+\\n	<separator>
+From
+the
+chart
+we
+can
+see
+that
+STEM	<x_axis_label_least_value>
+is
+the
+lowest	<y_axis_least_value>
+at
+approximately	<y_axis_approx>
+15	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+.
+The
+highest	<y_axis_highest_value>
+percentage	<y_axis>
+is
+medicine	<x_axis_label_highest_value>
+at
+32	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+<start_of_description>
+this
+chart
+shows
+what students at lagos state university choose to study	<topic>
+.
+medicine and philosophy	<group_highest_Scnd>
+are
+the
+most popular   <y_axis_highest_value>
+choice	<x_axis>
+at
+around	<y_axis_approx>
+30	<group_y_highest_Scnd>
+%	<y_axis_inferred_label>
+,
+STEM	<x_axis_label_least_value>
+the
+least popular   <y_axis_least_value>
+at
+15	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+<start_of_description>
+The
+chart
+shows
+what students at lagos university choose to study	<topic>
+.
+\\n	<separator>
+15	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+do
+stem	<x_axis_label_least_value>
+,
+24	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+do
+literature	<x_axis_label_3rd_highest_value>
+,
+30	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+do
+philosophy	<x_axis_label_Scnd_highest_value>
+and
+31	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+do
+medicine	<x_axis_label_highest_value>
+<end_of_description>
+
+<start_of_description>
+What the students at Lagos State University choose to study	<topic>
+have
+been
+fairly
+equal
+with
+STEM	<x_axis_label_least_value>
+being
+the
+lowest	<y_axis_least_value>
+at
+15	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+and
+medicine	<x_axis_label_highest_value>
+being
+the
+highest	<y_axis_highest_value>
+at
+31	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+with
+the
+other
+course of studies	<x_axis_labels_rest>
+being
+in
+between	<other_operation>
+them
+.
+<end_of_description>
+
+<start_of_description>
+The
+bar
+chart
+shows
+the
+percentage of students showing particular subjects at Lagos State University	<topic>
+.
+There
+were
+15	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+choosing	<t=1_a=x>
+STEM	<x_axis_label_least_value>
+subjects	<x_axis>
+,
+approximately	<y_axis_approx>
+24	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+choosing	<t=1_a=x>
+Literature	<x_axis_label_3rd_highest_value>
+and
+30	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+choosing	<t=1_a=x>
+Philosophy	<x_axis_label_Scnd_highest_value>
+.
+Roughly	<y_axis_approx>
+31	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+of
+students	<t=1_a=y>
+chose	<t=1_a=x>
+to	<x_axis_range_end>
+study
+medicine	<x_axis_label_highest_value>
+.
+<end_of_description>
+

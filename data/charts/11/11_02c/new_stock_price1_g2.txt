@@ -1,0 +1,1105 @@
+<start_of_description>
+The
+chart
+is
+titled
+closing	stock prices in £ sterling for Akef Inc on Wednesday	<topic>
+but
+includes
+data
+for
+five	<x_axis_labels_count>
+days	<x_axis>
+,
+Monday	<x_axis_label_3rd_highest_value>
+to
+Friday	<x_axis_label_least_value>
+.
+Whilst	<y_x_comparison>
+Wednesday	<x_axis_label_highest_value>
+showed
+the
+highest	<y_axis_highest_value>
+closing	price	<y_axis>
+of
+£	<y_axis_inferred_label>
+74	<y_axis_inferred_highest_value_approx>
+,
+and
+Friday	<x_axis_label_least_value>
+the
+lowest	<y_axis_least_value>
+at
+around	<y_axis_approx>
+£	<y_axis_inferred_label>
+9	<y_axis_inferred_least_value_approx>
+it is difficult to say with any certainty that the data can be relied on given the confusion caused by the title of the chart	<interpretation>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+closing	stock prices for Akef Inc. on Wednesday	<topic>
+in
+comparison	<y_x_comparison>
+to
+the
+rest
+of
+the
+week	<x_axis>
+from
+Monday	<x_axis_label_3rd_highest_value>
+to
+Friday	<x_axis_label_least_value>
+.
+Stock prices	<y_axis>
+rose	<slope_up>
+from
+Monday	<x_axis_label_3rd_highest_value>
+at
+50	<y_axis_inferred_3rd_highest_value_approx>
+GBP	<y_axis_inferred_label>
+to
+around	<y_axis_approx>
+75	<y_axis_inferred_highest_value_approx>
+GBP	<y_axis_inferred_label>
+on
+Wednesday	<x_axis_label_highest_value>
+.
+However	<y_x_comparison>
+,
+prices	<y_axis>
+then	<order_3rd>
+decreased	<slope_down>
+to
+20	<y_axis_inferred_4th_highest_value_approx>
+GBP	<y_axis_inferred_label>
+,
+then	<order_3rd>
+10	<y_axis_inferred_least_value_approx>
+GBP	<y_axis_inferred_label>
+on
+Thursday	<x_axis_label_4th_highest_value>
+and
+Friday	<x_axis_label_least_value>
+respectively
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Akef Inc.	<t=1_a=b>
+had
+the
+highest	<y_axis_highest_value>
+closing stock price	<y_axis>
+on
+wednesday	<x_axis_label_highest_value>
+at
+£	<y_axis_inferred_label>
+76	<y_axis_inferred_highest_value_approx>
+,
+it
+was
+closely	<y_axis_trend>
+followed	<order_Scnd>
+by
+£	<y_axis_inferred_label>
+62	<y_axis_Scnd_highest_val>
+on
+tuesday	<x_axis_label_Scnd_highest_value>
+.
+the
+start
+of
+the
+week	<x_axis>
+saw
+an
+average
+rate	<y_axis>
+of
+£	<y_axis_inferred_label>
+51	<y_axis_inferred_3rd_highest_value_approx>
+.
+the
+lowest	<y_axis_least_value>
+closing	price	<y_axis>
+was
+recorded
+at
+the
+end
+of
+the
+week	<x_axis>
+on
+friday	<x_axis_label_least_value>
+with
+£	<y_axis_inferred_label>
+9	<y_axis_inferred_least_value_approx>
+<end_of_description>
+
+
+
+<start_of_description>
+The
+closing stock prices	<y_axis>
+for
+Akef Inc	<t=1_a=b>
+on
+Wednesday	<x_axis_label_highest_value>
+were
+£	<y_axis_inferred_label>
+75	<y_axis_inferred_highest_value_approx>
+.
+On
+Monday	<x_axis_label_3rd_highest_value>
+it
+was
+£	<y_axis_inferred_label>
+50	<y_axis_inferred_3rd_highest_value_approx>
+,
+Tuesday	<x_axis_label_Scnd_highest_value>
+£	<y_axis_inferred_label>
+60	<y_axis_inferred_Scnd_highest_value_approx>
+,
+Thursday	<x_axis_label_4th_highest_value>
+approx.	<y_axis_approx>
+£	<y_axis_inferred_label>
+21	<y_axis_inferred_4th_highest_value_approx>
+and
+friday	<x_axis_label_least_value>
+approx.	<y_axis_approx>
+£	<y_axis_inferred_label>
+10	<y_axis_inferred_least_value_approx>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+On
+Wednesday	<x_axis_label_highest_value>
+we
+boomed	<y_axis_highest_value>
+with
+a
+stock price	<y_axis>
+of
+75	<y_axis_inferred_highest_value_approx>
+for
+Akef	<t=1_a=b>
+.
+Dropping	<slope_down>
+dramatically	<y_axis_trend>
+at
+the
+end
+of
+the
+week	<x_axis>
+by
+close
+of
+play
+on
+FRiday	<x_axis_label_least_value>
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+daily	<t=0_a=x>
+closing	stock prices	<y_axis>
+for
+Akef Inc.	<t=1_a=b>
+\\n	<separator>
+\\n	<separator>
+On
+Wednesday	<x_axis_label_highest_value>
+the
+closing	stock price	<y_axis>
+for
+Akef Inc.	<t=1_a=b>
+was
+£	<y_axis_inferred_label>
+74	<y_axis_inferred_highest_value_approx>
+.
+\\n	<separator>
+\\n	<separator>
+Wednesday	<x_axis_label_highest_value>
+was
+the
+highest	<y_axis_highest_value>
+closing	stock price	<y_axis>
+during
+this
+week	<x_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+closing stock price	<y_axis>
+for
+Akef Inc	<t=1_a=b>
+on
+Wednesday	<x_axis_label_highest_value>
+was
+£	<y_axis_inferred_label>
+76	<y_axis_inferred_highest_value_approx>
+.
+This
+was
+the
+highest	<y_axis_highest_value>
+day	<x_axis>
+of
+the
+week	<x_axis>
+,
+compared	<y_x_comparison>
+to
+£	<y_axis_inferred_label>
+52	<y_axis_inferred_3rd_highest_value_approx>
+on
+Monday	<x_axis_label_3rd_highest_value>
+,
+£	<y_axis_inferred_label>
+62	<y_axis_Scnd_highest_val>
+on
+Tuesday	<x_axis_label_Scnd_highest_value>
+,
+£	<y_axis_inferred_label>
+22	<y_axis_inferred_4th_highest_value_approx>
+on
+Thursday	<x_axis_label_4th_highest_value>
+,
+and
+£	<y_axis_inferred_label>
+8	<y_axis_inferred_least_value_approx>
+on
+Friday	<x_axis_label_least_value>
+,
+which
+was
+the
+lowest	<y_axis_least_value>
+price	<y_axis>
+of
+the
+week	<x_axis>
+,
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+the
+daily	<t=0_a=x>
+closing	stock prices	<y_axis>
+for
+Akef Inc.	<t=1_a=b>
+Wed	<x_axis_label_highest_value>
+had
+the
+highest	<y_axis_highest_value>
+closing	stock price	<y_axis>
+,
+the
+lowest	<y_axis_least_value>
+stock price	<y_axis>
+was
+Friday	<x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+closing	stock prices	<y_axis>
+for
+Akef Inc.	<t=1_a=b>
+on
+Wednesday	<x_axis_label_highest_value>
+.
+We
+can
+see
+from
+the
+chart
+that
+this
+was
+75	<y_axis_inferred_highest_value_approx>
+£	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+the
+closing	stock price	<y_axis>
+for
+Akef Inc.	<t=1_a=b>
+on
+each
+day	<x_axis>
+of
+the
+week	<x_axis>
+,
+excluding
+weekends
+.
+It
+shows
+that
+the
+closing	stock price	<y_axis>
+was
+just above	<y_axis_approx>
+£	<y_axis_inferred_label>
+50	<y_axis_inferred_3rd_highest_value_approx>
+on
+Monday	<x_axis_label_3rd_highest_value>
+,
+just above	<y_axis_approx>
+£	<y_axis_inferred_label>
+60	<y_axis_inferred_Scnd_highest_value_approx>
+on
+Tuesday	<x_axis_label_Scnd_highest_value>
+and
+around	<y_axis_approx>
+£	<y_axis_inferred_label>
+75	<y_axis_inferred_highest_value_approx>
+on
+Wednesday	<x_axis_label_highest_value>
+.
+The
+closing	stock price	<y_axis>
+then	<order_3rd>
+drops	<slope_down>
+to
+just above	<y_axis_approx>
+£	<y_axis_inferred_label>
+20	<y_axis_inferred_4th_highest_value_approx>
+on
+Thursday	<x_axis_label_4th_highest_value>
+and
+again
+to
+just under	<y_axis_approx>
+£	<y_axis_inferred_label>
+10	<y_axis_inferred_least_value_approx>
+on
+Friday	<x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+illustrates
+stock prices	<y_axis>
+for
+Akef Inc	<t=1_a=b>
+over
+the
+course of the week	<x_axis_trend>
+.
+The
+stock	<y_axis>
+rose	<slope_up>
+from
+52	<y_axis_inferred_3rd_highest_value_approx>
+£	<y_axis_inferred_label>
+on
+Monday	<x_axis_label_3rd_highest_value>
+to
+a
+high	<y_axis_highest_value>
+of
+74	<y_axis_inferred_highest_value_approx>
+£	<y_axis_inferred_label>
+on
+Wednesday	<x_axis_label_highest_value>
+.
+It
+then	<order_3rd>
+plummeted	<slope_down>
+sharply	<y_axis_trend>
+on
+Thursday	<x_axis_label_4th_highest_value>
+to
+22	<y_axis_inferred_4th_highest_value_approx>
+£	<y_axis_inferred_label>
+,
+and
+fell	<slope_down>
+again
+on
+Friday	<x_axis_label_least_value>
+to
+9	<y_axis_inferred_least_value_approx>
+£	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Akef Inc	<t=1_a=b>
+stock price	<y_axis>
+closed	
+at
+£	<y_axis_inferred_label>
+50	<y_axis_inferred_3rd_highest_value_approx>
+on
+Monday	<x_axis_label_3rd_highest_value>
+,
+£	<y_axis_inferred_label>
+62	<y_axis_Scnd_highest_val>
+on
+tuesday	<x_axis_label_Scnd_highest_value>
+,
+closed
+at
+a
+high	<y_axis_highest_value>
+of
+£	<y_axis_inferred_label>
+74	<y_axis_inferred_highest_value_approx>
+on
+wednesday	<x_axis_label_highest_value>
+before
+falling	<slope_down>
+to
+£	<y_axis_inferred_label>
+22	<y_axis_inferred_4th_highest_value_approx>
+at
+thursday	<x_axis_label_4th_highest_value>
+and
+falling	<slope_down>
+again
+to
+close
+at
+£	<y_axis_inferred_label>
+9	<y_axis_inferred_least_value_approx>
+on
+friday	<x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+closing	stock prices	<y_axis>
+for
+Akef Inc.	<t=1_a=b>
+from
+Monday	<x_axis_label_3rd_highest_value>
+to
+Friday	<x_axis_label_least_value>
+.
+It
+reached
+approximately	<y_axis_approx>
+£	<y_axis_inferred_label>
+51	<y_axis_inferred_3rd_highest_value_approx>
+on
+Monday	<x_axis_label_3rd_highest_value>
+,
+increasing	<slope_up>
+to
+£	<y_axis_inferred_label>
+62	<y_axis_Scnd_highest_val>
+on
+Tuesday	<x_axis_label_Scnd_highest_value>
+,
+reaching
+a
+peak	<y_axis_highest_value>
+of
+£	<y_axis_inferred_label>
+74	<y_axis_inferred_highest_value_approx>
+on
+Wednesday	<x_axis_label_highest_value>
+,
+before
+falling	<slope_down>
+to
+around	<y_axis_approx>
+£	<y_axis_inferred_label>
+22	<y_axis_inferred_4th_highest_value_approx>
+on
+Thursday	<x_axis_label_4th_highest_value>
+and
+just under	<y_axis_approx>
+£	<y_axis_inferred_label>
+10	<y_axis_inferred_least_value_approx>
+on
+Friday	<x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Stock prices	<y_axis>
+dived
+on
+Wednesday	<x_axis_label_highest_value>
+from
+a
+high	<y_axis_highest_value>
+of
+£	<y_axis_inferred_label>
+74	<y_axis_inferred_highest_value_approx>
+to
+just	<y_axis_least_value>
+£	<y_axis_inferred_label>
+22	<y_axis_inferred_4th_highest_value_approx>
+the
+following day	<x_axis_label_4th_highest_value>
+.
+\\n	<separator>
+This
+trend continued	<y_axis_trend>
+of
+Friday	<x_axis_label_least_value>
+falling	<slope_down>
+more than	<y_axis_approx>
+50	<y_axis_inferred_value_mul_v1=4th_v2=least>
+%	<y_axis_inferred_label>
+to
+just under	<y_axis_approx>
+£	<y_axis_inferred_label>
+10	<y_axis_inferred_least_value_approx>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Akef Inc.	<t=1_a=b>
+stock price	<y_axis>
+closed	
+at
+nearly	<y_axis_approx>
+75	<y_axis_inferred_highest_value_approx>
+£	<y_axis_inferred_label>
+on
+Wednesday	<x_axis_label_highest_value>
+,
+a
+weekly
+high	<y_axis_highest_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+stock price	<y_axis>
+closed	
+on
+Monday	<x_axis_label_3rd_highest_value>
+slightly above	<y_axis_approx>
+£	<y_axis_inferred_label>
+50	<y_axis_inferred_3rd_highest_value_approx>
+.
+As
+at
+today
+,
+Wednesday	<x_axis_label_highest_value>
+,
+the
+stock price	<y_axis> 
+closed	
+above	<y_axis_approx>
+£	<y_axis_inferred_label>
+70	<y_axis_inferred_highest_value_approx>
+.
+The
+stock price	<y_axis>
+on
+Wednesday	<x_axis_label_highest_value>
+is
+the
+highest	<y_axis_highest_value>
+for
+the
+week	<x_axis>
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the
+closing	stock prices	<y_axis>
+for
+Akef Inc.	<t=1_a=b>
+per
+day	<x_axis>
+of
+the
+week	<x_axis>
+.
+The
+closing	stock price	<y_axis>
+is
+gradually	<y_axis_trend>
+rising	<slope_up>
+towards
+mid
+-
+week	<x_axis>
+,
+being
+approx.	<y_axis_approx>
+£	<y_axis_inferred_label>
+51	<y_axis_inferred_3rd_highest_value_approx>
+on
+Monday	<x_axis_label_3rd_highest_value>
+,
+£	<y_axis_inferred_label>
+62	<y_axis_Scnd_highest_val>
+on
+Tuesday	<x_axis_label_Scnd_highest_value>
+and
+£	<y_axis_inferred_label>
+74	<y_axis_inferred_highest_value_approx>
+on
+Wednesday	<x_axis_label_highest_value>
+.
+there
+is
+then	<order_3rd>
+a
+larger	<y_axis_trend_up>
+downward	<slope_down>
+turn
+,
+with
+stocks	<t=1_a=y>
+closing
+at
+£	<y_axis_inferred_label>
+22	<y_axis_inferred_4th_highest_value_approx>
+on
+Thursday	<x_axis_label_4th_highest_value>
+and
+£	<y_axis_inferred_label>
+9	<y_axis_inferred_least_value_approx>
+on
+Friday	<x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the
+closing	stock price	<y_axis>
+for
+Akef Inc.	<t=1_a=b>
+on
+each
+week day	<x_axis>
+.
+The
+closing	stock price	<y_axis>
+for
+Akef Inc.	<t=1_a=b>
+was
+at
+its
+highest	<y_axis_highest_value>
+point
+for
+the
+week	<x_axis>
+on
+Wednesday	<x_axis_label_highest_value>
+,
+when
+it
+was
+roughly	<y_axis_approx>
+£	<y_axis_inferred_label>
+74	<y_axis_inferred_highest_value_approx>
+.
+It
+dropped	<slope_down>
+after
+its
+peak	<y_axis_highest_value>
+on
+Wednesday	<x_axis_label_highest_value>
+to
+£	<y_axis_inferred_label>
+22	<y_axis_inferred_4th_highest_value_approx>
+on
+Thursday	<x_axis_label_4th_highest_value>
+,
+and
+£	<y_axis_inferred_label>
+9	<y_axis_inferred_least_value_approx>
+on
+Friday	<x_axis_label_least_value>
+.
+Monday	<x_axis_label_3rd_highest_value>
+and
+Tuesday	<x_axis_label_Scnd_highest_value>
+saw
+the
+stock	<t=1_a=y>
+gain
+its
+high
+price	<y_axis>
+,
+with
+stock price	<y_axis>
+at
+£	<y_axis_inferred_label>
+51	<y_axis_inferred_3rd_highest_value_approx>
+and
+£	<y_axis_inferred_label>
+62	<y_axis_Scnd_highest_val>
+respectively
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+shows
+the
+closing	stock price	<y_axis>
+of
+Akef Inc	<t=1_a=b>
+across
+one
+working
+week	<x_axis>
+i.e
+Monday	<x_axis_label_3rd_highest_value>
+to
+Friday	<x_axis_label_least_value>
+.
+It
+shows
+that
+on
+Wednesday	<x_axis_label_highest_value>
+the
+closing	stock price	<y_axis>
+was
+at
+it
+'s
+highest	<y_axis_highest_value>
+at
+74	<y_axis_inferred_highest_value_approx>
+an
+increase	<slope_up>
+from
+51	<y_axis_inferred_3rd_highest_value_approx>
+on
+Monday	<x_axis_label_3rd_highest_value>
+through
+62	<y_axis_Scnd_highest_val>
+on
+Tuesday	<x_axis_label_Scnd_highest_value>
+.
+However	<y_x_comparison>
+,
+it
+decreased	<slope_down>
+markedly	<y_axis_trend>
+on
+Thursday	<x_axis_label_4th_highest_value>
+and
+then	<order_3rd>
+Friday	<x_axis_label_least_value>
+and
+closed
+the
+week	<x_axis>
+on
+8	<y_axis_inferred_least_value_approx>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+closing	stock prices	<y_axis>
+for
+Akef Inc.	<t=1_a=b>
+on
+Wednesday	<x_axis_label_highest_value>
+.
+\\n	<separator>
+You
+can
+see
+the
+stock	<t=1_a=y>
+closed
+highest	<y_axis_highest_value>
+on
+Wednesday	<x_axis_label_highest_value>
+at
+£	<y_axis_inferred_label>
+72	<y_axis_inferred_highest_value_approx>
+,
+followed	<order_Scnd>
+by
+a
+price	<y_axis>
+of
+£	<y_axis_inferred_label>
+61	<y_axis_inferred_Scnd_highest_value_approx>
+on
+Tuesday	<x_axis_label_Scnd_highest_value>
+,
+£	<y_axis_inferred_label>
+51	<y_axis_inferred_3rd_highest_value_approx>
+on
+Monday	<x_axis_label_3rd_highest_value>
+,
+£	<y_axis_inferred_label>
+21	<y_axis_inferred_4th_highest_value_approx>
+on
+Thursday	<x_axis_label_4th_highest_value>
+and
+finally	<order_last>
+a
+low	<y_axis_least_value>
+of
+£	<y_axis_inferred_label>
+9	<y_axis_inferred_least_value_approx>
+on
+Friday	<x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+highest	<y_axis_highest_value>
+closing	stock price	<y_axis>
+was
+at
+it
+highest	<y_axis_highest_value>
+on
+Wednesday	<x_axis_label_highest_value>
+with
+£	<y_axis_inferred_label>
+72	<y_axis_inferred_highest_value_approx>
+.
+It
+'s
+lowest	<y_axis_least_value>
+was
+Friday	<x_axis_label_least_value>
+at
+£	<y_axis_inferred_label>
+9	<y_axis_inferred_least_value_approx>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+the
+closing	stock prices	<y_axis>
+for
+AKEF inc	<t=1_a=b>
+on
+different
+days	<x_axis>
+of
+the
+week	<x_axis>
+.
+Monday	<x_axis_label_3rd_highest_value>
+saw
+a
+stock price	<y_axis>
+of
+£	<y_axis_inferred_label>
+51	<y_axis_inferred_3rd_highest_value_approx>
+.
+Tuesday	<x_axis_label_Scnd_highest_value>
+and
+Wednesday	<x_axis_label_highest_value>
+saw
+a
+rise	<slope_up>
+to
+£	<y_axis_inferred_label>
+74	<y_axis_inferred_highest_value_approx>
+.
+After
+this
+was
+a
+significant	<y_axis_trend>
+drop	<slope_down>
+to
+£	<y_axis_inferred_label>
+22	<y_axis_inferred_4th_highest_value_approx>
+on
+Thursday	<x_axis_label_4th_highest_value>
+and
+£	<y_axis_inferred_label>
+9	<y_axis_inferred_least_value_approx>
+on
+Friday	<x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+compares
+the
+closing	stock prices	<y_axis>
+in
+GBP	<y_axis_inferred_label>
+for
+Akef Inc	<t=1_a=b>
+on
+different
+days	<x_axis>
+of
+the
+week	<x_axis>
+.
+The
+highest	<y_axis_highest_value>
+closing	stock price	<y_axis>
+is
+on
+a
+Wednesday	<x_axis_label_highest_value>
+which
+is
+around	<y_axis_approx>
+74	<y_axis_inferred_highest_value_approx>
+pound	<y_axis_inferred_label>
+.
+The
+lowest	<y_axis_least_value>
+closing	stock price	<y_axis>
+is
+on
+a
+friday	<x_axis_label_least_value>
+with
+the
+price	<y_axis>
+being
+around	<y_axis_approx>
+10	<y_axis_inferred_least_value_approx>
+pound	<y_axis_inferred_label>
+.
+The
+closing stock price	<y_axis>
+on
+Thursday	<x_axis_label_4th_highest_value>
+is
+more than	<y_axis_approx>
+double	<y_axis_inferred_value_mul_v1=4th_v2=least>
+that
+on
+Friday	<x_axis_label_least_value>
+(
+22	<y_axis_inferred_4th_highest_value_approx>
+pounds	<y_axis_inferred_label>
+)
+.
+A
+similar	<y_axis_trend>
+increase	<slope_up>
+of
+around	<y_axis_approx>
+11	<y_axis_inferred_value_add_v1=3rd_v2=Scnd>
+pounds	<y_axis_inferred_label>
+occurs
+from	<y_x_comparison>
+Monday	<x_axis_label_3rd_highest_value>
+to
+Tuesday	<x_axis_label_Scnd_highest_value>
+(
+51	<y_axis_inferred_3rd_highest_value_approx>
+pounds	<y_axis_inferred_label>
+to
+62	<y_axis_Scnd_highest_val>
+pounds	<y_axis_inferred_label>
+)
+.
+<end_of_description>
+
+
+

@@ -1,0 +1,1413 @@
+<start_of_description>
+This
+chart
+compares
+the
+representation of women	<y_axis>
+in
+the
+literature	<x_axis_label_least_value>
+department	<x_axis>
+against
+that
+in
+various
+other
+departments	<x_axis>
+.
+It
+shows
+the
+Literature	<x_axis_label_least_value>
+department	<x_axis>
+as
+having
+the
+lowest	<y_axis_least_value>
+representation of women	<y_axis>
+,
+at
+21	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+Arts	<x_axis_label_4th_highest_value>
+has
+slightly	<y_axis_trend>
+more	<y_axis_trend_up>
+at
+31	<y_axis_inferred_4th_highest_value_approx>
+%	<y_axis_inferred_label>
+and
+Mathematics	<x_axis_label_3rd_highest_value>
+considerably	<y_axis_trend>
+more	<y_axis_trend_up>
+at
+58	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+ 
+Computer Science	<x_axis_label_Scnd_highest_value>
+is
+higher	<y_axis_trend_up>
+still
+,
+at
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+and
+Engineering	<x_axis_label_highest_value>
+is
+the
+highest	<y_axis_highest_value>
+,
+at
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+number of women	<y_axis>
+represented
+in
+different
+departments	<x_axis>
+.
+Engineering	<x_axis_label_highest_value>
+has
+the
+most	<y_axis_highest_value>
+women	<t=1_a=y>
+at
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+followed	<order_Scnd>
+by
+Computer Science	<x_axis_label_Scnd_highest_value>
+with
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+,
+Mathematics	<x_axis_label_3rd_highest_value>
+with
+54	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+Arts	<x_axis_label_4th_highest_value>
+with
+32	<y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+and
+Literature	<x_axis_label_least_value>
+with
+22	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Within
+the
+literature	<x_axis_label_least_value>
+department	<x_axis>
+,
+women	<t=1_a=y>
+are
+represented
+within
+Engineering	<x_axis_label_highest_value>
+at
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+,
+this
+is
+followed	<order_Scnd>
+by
+Computer Science	<x_axis_label_Scnd_highest_value>
+at
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+and
+Mathematics	<x_axis_label_3rd_highest_value>
+at
+around	<y_axis_approx>
+55	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+.
+The
+Arts	<x_axis_label_4th_highest_value>
+is
+around	<y_axis_approx>
+32	<y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+and
+Literature	<x_axis_label_least_value>
+is
+the
+lowest	<y_axis_least_value>
+with
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+percentage of women	<y_axis>
+represented
+in
+various
+departments	<x_axis>
+in
+a
+school
+.
+It
+shows
+Engineering	<x_axis_label_highest_value>
+is
+at
+the
+top	<y_axis_highest_value>
+at
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+,
+while	<y_x_comparison>
+Literature	<x_axis_label_least_value>
+is
+at
+the
+bottom	<y_axis_least_value>
+at
+23	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+In
+between
+these
+are
+Computer Science	<x_axis_label_Scnd_highest_value>
+at
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+,
+Mathematics	<x_axis_label_3rd_highest_value>
+at
+55	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+and
+Arts	<x_axis_label_4th_highest_value>
+at
+32	<y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+5	<x_axis_labels_count>
+departments	<x_axis>
+in
+a
+school/
+college
+in
+which
+the
+display
+seems
+to
+suggest
+the
+number of women	<y_axis>
+in
+each
+department	<x_axis>
+.
+However	, the title is somewhat ambiguous	<interpretation>
+.
+\\n	<separator>
+Taking
+the
+chart
+to
+mean
+the
+bar
+to
+do
+with
+the
+literature	<x_axis_label_least_value>
+departments	<x_axis>
+number of women	<y_axis>
+is
+the
+lowest	<y_axis_least_value>
+percentage	<y_axis>
+at
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+Then	<order_3rd>
+comes
+art	<x_axis_label_4th_highest_value>
+on
+32	<y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+followed	<order_Scnd>
+by
+Maths	<x_axis_label_3rd_highest_value>
+with
+56	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+computer science	<x_axis_label_Scnd_highest_value>
+at
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+and
+finally	<order_last>
+Engineering	<x_axis_label_highest_value>
+at
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+relative
+percentage of women	<y_axis>
+represented
+within
+each
+department	<x_axis>
+.
+The
+literature	<x_axis_label_least_value>
+department	<x_axis>
+is
+compromised
+of
+just over	<y_axis_approx>
+20	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+women	<t=1_a=y>
+which
+is
+the
+lowest	<y_axis_least_value>
+percentage	<y_axis>
+across
+all
+five	<x_axis_labels_count>
+departments	<x_axis>
+.
+The
+next	<order_Scnd>
+lowest	<y_axis_least_value>
+is
+the
+Art	<x_axis_label_4th_highest_value>
+department	<x_axis>
+with
+just over	<y_axis_approx>
+30	<y_axis_inferred_4th_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+followed	<order_Scnd>
+by
+Mathematics	<x_axis_label_3rd_highest_value>
+which
+has
+a
+much	<y_axis_trend>
+higher	<y_axis_trend_up>
+rate	<y_axis>
+of
+over	<y_axis_approx>
+50	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+and
+then	<order_3rd>
+Computer Science	<x_axis_label_Scnd_highest_value>
+which
+has
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+.
+Finally	<order_last>
+the
+Engineering	<x_axis_label_highest_value>
+department	<x_axis>
+is
+mostly
+women	<t=1_a=y>
+with
+an
+impressive	<y_axis_trend>
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+literature	<x_axis_label_least_value>
+department	<x_axis>
+has
+the
+lowest	<y_axis_least_value>
+level
+of
+women representation	<y_axis>
+at
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+<end_of_description>
+
+
+
+<start_of_description>
+This
+bar
+chart
+shows
+representation of women	<y_axis>
+in
+the
+literature	<x_axis_label_least_value>
+department	<x_axis>
+as
+a
+percentage	<y_axis>
+by
+their
+respective
+departments	<x_axis>
+.
+\\n	<separator>
+The
+highest	<y_axis_highest_value>
+percentage	<y_axis>
+were
+in
+engineering	<x_axis_label_highest_value>
+with
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+,
+followed	<order_Scnd>
+by
+computer science	<x_axis_label_Scnd_highest_value>
+at
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+.
+Mathematics <x_axis_label_3rd_highest_value>
+was
+third
+highest	<y_axis_highest_value>
+at
+55	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+,
+followed	<order_Scnd>
+then	<order_3rd>
+by
+Arts	<x_axis_label_4th_highest_value>
+at
+32	<y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+.
+The
+lowest	<y_axis_least_value>
+representation	<y_axis>
+was
+in
+literature	<x_axis_label_least_value>
+at
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+illustrates
+female	<t=0_a=y>
+representation	<y_axis>
+in
+different
+departments	<x_axis>
+.
+With
+the
+lowest	<y_axis_least_value>
+representation	<y_axis>
+,
+at
+only	<y_axis_least_value>
+22	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+we
+have
+the
+Literature	<x_axis_label_least_value>
+department	<x_axis>
+,
+closely	<y_axis_trend>
+followed	<order_Scnd>
+by
+the
+Arts	<x_axis_label_4th_highest_value>
+department	<x_axis>
+at
+32	<y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+.
+In
+contrast	<y_x_comparison>
+,
+the
+Engineering	<x_axis_label_highest_value>
+,
+Computer Science	<x_axis_label_Scnd_highest_value>
+and
+Mathematics	<x_axis_label_3rd_highest_value>
+departments	<x_axis>
+have
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+,
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+and
+55	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+representation	<y_axis>
+respectively
+.
+<end_of_description>
+
+
+
+<start_of_description>
+According
+to
+a
+report
+,
+the
+percentage of women	<y_axis>
+represented
+in
+the
+literature	<x_axis_label_least_value>
+department	<x_axis>
+for
+Engineering	<x_axis_label_highest_value>
+is
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+,
+in
+Computer Science	<x_axis_label_Scnd_highest_value>
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+followed	<order_Scnd>
+by
+55	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+in
+the
+Mathematics	<x_axis_label_3rd_highest_value>
+department	<x_axis>
+.
+\\n	<separator>
+For
+Arts	<x_axis_label_4th_highest_value>
+and
+Literature	<x_axis_label_least_value>
+the
+figure
+falls
+to
+more than	<y_axis_approx>
+half	<other_operation>
+this
+at
+31	<y_axis_inferred_4th_highest_value_approx>
+%	<y_axis_inferred_label>
+and
+22	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+respectively
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Literature	<x_axis_label_least_value>
+and
+the
+Arts	<x_axis_label_4th_highest_value>
+have
+the
+least	<y_axis_least_value>
+representation of women	<y_axis>
+in
+their
+departments	<x_axis>
+-
+20	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+and
+30	<y_axis_inferred_4th_highest_value_approx>
+%	<y_axis_inferred_label>
+respectively
+.
+Compared	<y_x_comparison>
+to
+STEM-related	<group_highest_Scnd_3rd>
+departments	<x_axis>
+such
+as
+Computer Science	<x_axis_label_Scnd_highest_value>
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+,
+Maths	<x_axis_label_3rd_highest_value>
+55	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+and
+Engineering	<x_axis_label_highest_value>
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Engineering	<x_axis_label_highest_value>
+was
+the
+department	<x_axis>
+in
+which
+women	<t=1_a=y>
+were
+best	<y_axis_highest_value>
+represented
+with
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+;
+the
+least	<y_axis_least_value>
+was
+literature	<x_axis_label_least_value>
+itself
+with
+just over	<y_axis_approx>
+20	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+and
+the
+arts	<x_axis_label_4th_highest_value>
+slightly	<y_axis_trend>
+more	<y_axis_trend_up>
+with
+just over	<y_axis_approx>
+30	<y_axis_inferred_4th_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+Computer science	<x_axis_label_Scnd_highest_value>
+was
+also
+well	<y_axis_trend_up>
+represented
+by
+women	<t=1_a=y>
+seeing
+a
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+representation rate	<y_axis>
+which
+would
+suggest
+traditonally
+male dominated	<t=0_a=y>
+departments	<x_axis>
+are
+now
+well	<y_axis_trend_up>
+represented
+by
+women	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+is
+showing
+the
+percentage	<y_axis_inferred_label>
+of
+female	<t=0_a=y>
+representation	<y_axis>
+in
+various
+departments	<x_axis>
+.
+The
+lowest	<y_axis_least_value>
+,
+coming
+in
+at
+22	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+is
+Literature	<x_axis_label_least_value>
+;
+there
+is
+32	<y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+female	<t=0_a=y>
+representation	<y_axis>
+in
+Arts	<x_axis_label_4th_highest_value>
+.
+A
+jump up	<y_axis_trend_up>
+to
+55	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+in
+Mathematics	<x_axis_label_3rd_highest_value>
+,
+followed	<order_Scnd>
+by
+a
+5	<y_axis_inferred_value_add_v1=Scnd_v2=3rd>
+%	<y_axis_inferred_label>
+increase	<y_axis_trend_up>
+to
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+in
+Computer science	<x_axis_label_Scnd_highest_value>
+,
+and
+finally	<order_last>
+the
+most	<y_axis_highest_value>
+female	<t=0_a=y>
+representation	<y_axis>
+being
+Engineering	<x_axis_label_highest_value>
+with
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+there
+are
+approximately	<y_axis_approx>
+23	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+of
+women	<t=1_a=y>
+in
+the
+literature	<x_axis_label_least_value>
+department	<x_axis>
+.
+Much	<y_axis_trend>
+less	<y_axis_trend_down>
+than
+the
+Engineering	<x_axis_label_highest_value>
+department	<x_axis>
+which
+had
+the
+highest	<y_axis_highest_value>
+percentage of women representation	<y_axis>
+,
+at
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+Women representation	<y_axis>
+in
+the
+literature	<x_axis_label_least_value>
+department	<x_axis>
+is
+shown
+to
+be
+the
+lowest	<y_axis_least_value>
+out
+of
+the
+five	<x_axis_labels_count>
+departments	<x_axis>
+examined
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Women	<t=1_a=y>
+are
+less	<y_axis_trend_down>
+well	<y_axis_trend_up>
+represented
+in
+the
+Literature	<x_axis_label_least_value>
+department	<x_axis>
+than
+any
+other
+subject	<x_axis>
+,
+with
+only	<y_axis_least_value>
+23	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+.
+They
+are
+slightly	<y_axis_trend>
+better	<y_axis_trend_up>
+represented
+in
+the
+Arts	<x_axis_label_4th_highest_value>
+with
+32	<y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+,
+roughly	<y_axis_approx>
+even	<y_axis_trend>
+in
+Mathematics	<x_axis_label_3rd_highest_value>
+with
+55	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+,
+and
+in
+a
+majority	<y_axis_highest_value>
+in
+Computer Science	<x_axis_label_Scnd_highest_value>
+and
+Engineering	<x_axis_label_highest_value>
+at
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+and
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+respectively
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+percentage of women	<y_axis>
+in
+different
+departments	<x_axis>
+.
+The
+highest	<y_axis_highest_value>
+percentage of women	<y_axis>
+are
+found
+in
+the
+engineering	<x_axis_label_highest_value>
+department	<x_axis>
+where
+they
+make
+up
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+of
+the
+department	<x_axis>
+.
+Next	<order_Scnd>
+highest	<y_axis_highest_value>
+is
+the
+computer science	<x_axis_label_Scnd_highest_value>
+department	<x_axis>
+where
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+are
+women	<t=1_a=y>
+.
+Not
+far	<y_axis_trend>
+behind	<y_axis_trend_down>
+is
+the
+mathematics	<x_axis_label_3rd_highest_value>
+department	<x_axis>
+,
+made
+up
+of
+54	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+women	<t=1_a=y>
+.
+There
+is
+then	<order_3rd>
+quite	<y_axis_trend>
+a
+big	<y_axis_trend>
+drop	<y_axis_trend_down>
+to
+the
+final	<order_last>
+two
+departments	<x_axis>
+represented
+on
+the
+chart
+.
+Arts	<x_axis_label_4th_highest_value>
+,
+where
+32	<y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+are
+women	<t=1_a=y>
+and
+literature	<x_axis_label_least_value>
+where
+22	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+are
+women	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+depicts
+female	<t=0_a=y>
+representation	<y_axis>
+in
+the
+literature	<x_axis_label_least_value>
+department	<x_axis>
+,
+in
+comparison	<y_x_comparison>
+to
+other
+departments	<x_axis>
+.
+Literature	<x_axis_label_least_value>
+has
+the
+lowest	<y_axis_least_value>
+rating
+for
+female	<t=0_a=y>
+representation	<y_axis>
+of
+all
+the
+featured
+departments	<x_axis>
+,
+with
+only	<y_axis_least_value>
+22	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+The
+Arts	<x_axis_label_4th_highest_value>
+are
+next	<order_Scnd>
+with
+32	<y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+,
+then	<order_3rd>
+Maths	<x_axis_label_3rd_highest_value>
+with
+55	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+,
+Computer Science	<x_axis_label_Scnd_highest_value>
+with
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+and
+finally	<order_last>
+Engineering	<x_axis_label_highest_value>
+with
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+percentage of women	<y_axis>
+represented
+in
+the
+literature	<x_axis_label_least_value>
+department	<x_axis>
+.
+\\n	<separator>
+From
+the
+chart
+we
+see
+that
+women	<t=1_a=y>
+are
+most	<y_axis_highest_value>
+represented
+in
+Engineering	<x_axis_label_highest_value>
+at
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+,
+followed	<order_Scnd>
+by
+Computer Science	<x_axis_label_Scnd_highest_value>
+at
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+,
+Mathematics	<x_axis_label_3rd_highest_value>
+at
+55	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+,
+Arts	<x_axis_label_4th_highest_value>
+at
+32	<y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+and
+\\n	<separator>
+least	<y_axis_least_value>
+represented
+is
+literature	<x_axis_label_least_value>
+at
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+In
+this
+chart
+we
+see
+that
+the
+Engineering	<x_axis_label_highest_value>
+department	<x_axis>
+has
+the
+biggest	<y_axis_highest_value>
+representation of women	<y_axis>
+,
+with
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+Literature	<x_axis_label_least_value>
+falls
+bottom	<y_axis_least_value>
+with
+22	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+This
+being
+a
+difference
+of
+48	<y_axis_inferred_value_add_v1=least_v2=highest>
+%	<y_axis_inferred_label>
+.
+Computer science	<x_axis_label_Scnd_highest_value>
+and
+Mathematics	<x_axis_label_3rd_highest_value>
+are
+also
+significantly	<y_axis_trend>
+higher	<y_axis_trend_up>
+represented
+than
+Literature	<x_axis_label_least_value>
+,
+with
+Computer Science	<x_axis_label_Scnd_highest_value>
+showing
+a
+percentage	<y_axis>
+of
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+.
+Only	<y_axis_least_value>
+the
+Arts	<x_axis_label_4th_highest_value>
+falls
+down	<y_axis_trend_down>
+from
+this
+,
+with
+31	<y_axis_inferred_4th_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+yet
+this
+is
+still
+9	<y_axis_inferred_value_add_v1=least_v2=4th>
+%	<y_axis_inferred_label>
+higher	<y_axis_trend_up>
+than
+we
+see
+with
+Literature	<x_axis_label_least_value>
+department	<x_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+shows
+that
+the
+Literature	<x_axis_label_least_value>
+department	<x_axis>
+has
+the
+least	<y_axis_least_value>
+female	<t=0_a=y>
+representation	<y_axis>
+at
+22	<y_axis_inferred_least_value_approx>
+percent	<y_axis_inferred_label>
+.
+The
+Engineering	<x_axis_label_highest_value>
+department	<x_axis>
+has
+the
+top	<y_axis_highest_value>
+representation	<y_axis>
+at
+70	<y_axis_highest_value_val>
+percent	<y_axis_inferred_label>
+which
+is
+over	<y_axis_approx>
+triple	<y_axis_inferred_value_mul_v1=highest_v2=least>
+that
+of
+Literature	<x_axis_label_least_value>
+.
+Computer Science	<x_axis_label_Scnd_highest_value>
+and
+Mathematics	<x_axis_label_3rd_highest_value>
+have
+second
+and
+third
+highest	<y_axis_highest_value>
+representation	<y_axis>
+at
+59	<y_axis_inferred_Scnd_highest_value_approx>
+and
+55	<y_axis_3rd_highest_val>
+percent	<y_axis_inferred_label>
+respectively
+.
+The
+Arts	<x_axis_label_4th_highest_value>
+is
+also
+higher	<y_axis_trend_up>
+than
+Literature	<x_axis_label_least_value>
+with
+a
+representation	<y_axis>
+of
+32	<y_axis_4th_highest_val>
+percent	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+percentage of women representation	<y_axis>
+in
+the
+literature	<x_axis_label_least_value>
+department	<x_axis>
+is
+22	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+The
+highest	<y_axis_highest_value>
+women representation	<y_axis>
+was
+Engineering	<x_axis_label_highest_value>
+at
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+closely	<y_axis_trend>
+followed	<order_Scnd>
+by
+Computer Science	<x_axis_label_Scnd_highest_value>
+at
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+.
+Mathematics	<x_axis_label_3rd_highest_value>
+had
+54	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+representation	<y_axis>
+followed	<order_Scnd>
+by
+Arts	<x_axis_label_4th_highest_value>
+at
+32	<y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+following
+graph
+show
+the
+percentage representation of women	<y_axis>
+in
+the
+literature	<x_axis_label_least_value>
+department	<x_axis>
+.
+Engineering	<x_axis_label_highest_value>
+has
+the
+most	<y_axis_highest_value>
+representation	<y_axis>
+at
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+Literature	<x_axis_label_least_value>
+has
+the
+lowest	<y_axis_least_value>
+percent	<y_axis_inferred_label>
+representation	<y_axis>
+at
+22	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+Computer Science	<x_axis_label_Scnd_highest_value>
+is
+second
+best	<y_axis_highest_value>
+at
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+followed	<order_Scnd>
+by
+Mathematics	<x_axis_label_3rd_highest_value>
+at
+56	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+and
+Arts	<x_axis_label_4th_highest_value>
+at
+32	<y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+displays
+women representation in the literature department	<topic>
+as
+a
+%	<y_axis_inferred_label>
+,
+comparing
+the
+female	<t=0_a=y>
+representation	<y_axis>
+to
+four
+other
+departments	<x_axis>
+(
+Arts	<x_axis_label_4th_highest_value>
+,
+Computer Science	<x_axis_label_Scnd_highest_value>
+,
+Mathematics	<x_axis_label_3rd_highest_value>
+and
+Engineering	<x_axis_label_highest_value>
+)
+.
+In
+Literature	<x_axis_label_least_value>
+,
+women <t=1_a=y>
+represent
+22	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+of
+the
+department	<x_axis>
+.
+Comparing
+this
+to
+other
+departments	<x_axis>
+(
+32	<y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+for
+Arts	<x_axis_label_4th_highest_value>
+,
+55	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+for
+Mathematics	<x_axis_label_3rd_highest_value>
+,
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+for
+Computer Science	<x_axis_label_Scnd_highest_value>
+and
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+for
+Engineering	<x_axis_label_highest_value>
+)
+,
+the
+Literature	<x_axis_label_least_value>
+department	<x_axis>
+has
+the
+least	<y_axis_least_value>
+female	 <t=0_a=y>
+representation	<y_axis>
+.
+<end_of_description>
+
+
+

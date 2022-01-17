@@ -1,0 +1,1452 @@
+<start_of_description>
+The
+chart
+shows
+the
+money spent	<t=1_a=y>
+by
+different
+continents	<x_axis>
+on
+higher	education	<t=1_a=b>
+in
+Asia	<x_axis_label_highest_value>
+in
+2010  <t=1_a=b>
+.
+Those
+from
+North America	<x_axis_label_Scnd_highest_value>
+spent	<t=1_a=y>
+200	<y_axis_Scnd_highest_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+.
+Europeans 	<x_axis_label_3rd_highest_value>
+spent	<t=1_a=y>
+100	<y_axis_3rd_highest_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+.
+Those
+from
+Africa	<x_axis_label_least_value>
+spent	<t=1_a=y>
+50	<y_axis_least_value_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+.
+However	<y_x_comparison>
+,
+those
+from
+Asia	<x_axis_label_highest_value>
+itself
+spent	<t=1_a=y>
+the
+most	<y_axis_highest_value>
+:
+320	<y_axis_highest_value_val>
+million	<y_magnitude>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+how much money is spent on higher education in Asia	<topic>
+compared	<y_x_comparison>
+to
+othr
+continents	<x_axis>
+.
+Asia	<x_axis_label_highest_value>
+is
+vastly  <y_axis_trend>
+higher	<y_axis_trend_up>
+than	<y_x_comparison>
+the
+other
+continents	<x_axis>
+with
+£	<y_axis_inferred_label>
+320	<y_axis_highest_value_val>
+million	<y_magnitude>
+spent	<t=1_a=y>
+on
+higher education	<t=1_a=b>
+.
+Africa	<x_axis_label_least_value>
+spends	<t=1_a=b>
+a
+6th
+of
+that
+with
+just	<y_axis_least_value>
+~	<y_axis_approx>
+£	<y_axis_inferred_label>
+50	<y_axis_least_value_val>
+million	<y_axis>
+.
+\n	<separator>
+Europe	<x_axis_label_3rd_highest_value>
+spends	<t=1_a=b>
+double   <y_axis_inferred_value_mul_v1=3rd_v2=least>
+than	<y_x_comparison>
+Africa	<x_axis_label_least_value>
+with
+£	<y_axis_inferred_label>
+100	<y_axis_3rd_highest_val>
+million	<y_magnitude>
+.
+But	<y_x_comparison>
+north America	<x_axis_label_Scnd_highest_value>
+spends	<t=1_a=b>
+double  <y_axis_inferred_value_mul_v1=Scnd_v2=3rd>
+what
+Europe	<x_axis_label_3rd_highest_value>
+spends	<t=1_a=b>
+at
+£	<y_axis_inferred_label>
+200	<y_axis_Scnd_highest_val>
+million	<y_magnitude>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+money spent	<t=1_a=y>
+on
+HE  	<t=1_a=b>
+for
+a
+variety
+of
+continents	<x_axis>
+in
+the
+year
+2010  	<t=1_a=b>
+.
+\n	<separator>
+It
+shows
+that
+the
+majority	<y_axis_highest_value>
+was
+spent	<t=1_a=y>
+by
+Asia	<x_axis_label_highest_value>
+,
+which is unsurprising   <interpretation>
+,
+at
+just	<y_axis_least_value>
+over	<y_axis_approx>
+£	<y_axis_inferred_label>
+300	<y_axis_inferred_highest_value_approx>
+million	<y_axis>
+.
+\n	<separator>
+It
+is
+interesting
+to
+note
+that
+the
+sum
+of
+money spent	<t=1_a=y>
+by
+continents	<x_axis>
+outside
+of
+Asia	<x_axis_label_highest_value>
+exceeds
+the
+spending
+by
+Asia	<x_axis_label_highest_value>
+,
+at
+£	<y_axis_inferred_label>
+350	<y_axis_inferred_highest_value_approx>
+million	<y_magnitude>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+focuses
+on
+expressing
+the
+money spent on higher education in asia in 2010   <topic>
+.
+the
+chart
+shows
+that
+in
+Asia	<x_axis_label_highest_value>
+this
+was
+around	<y_axis_approx>
+£	<y_axis_inferred_label>
+320	<y_axis_highest_value_val>
+million	<y_magnitude>
+during
+this
+time
+period
+.
+This
+is
+compared	<y_x_comparison>
+to
+North america	<x_axis_label_Scnd_highest_value>
+which
+spent	<t=1_a=y>
+£	<y_axis_inferred_label>
+200	<y_axis_Scnd_highest_val>
+million	<y_magnitude>
+,
+Europe	<x_axis_label_3rd_highest_value>
+spending
+£	<y_axis_inferred_label>
+100	<y_axis_3rd_highest_val>
+million	<y_magnitude>
+and
+Africa	<x_axis_label_least_value>
+spending
+£	<y_axis_inferred_label>
+50	<y_axis_least_value_val>
+million	<y_magnitude>
+during
+the
+same
+time
+period
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+states
+that
+it
+shows
+the
+money spent	<t=1_a=y>
+on
+higher education	<t=1_a=b>
+in
+Asia	<x_axis_label_highest_value>
+2010
+(
+the
+graph
+suggests
+it
+means
+spent	<t=1_a=y>
+by
+continent	<x_axis>
+?
+)
+.
+Asia	<x_axis_label_highest_value>
+is
+the
+continent	<x_axis>
+that
+spends	<t=1_a=b>
+the
+most	<y_axis_highest_value>
+,
+whilst	<y_x_comparison>
+Africa	<x_axis_label_least_value>
+spends	<t=1_a=b>
+the
+least	<y_axis_least_value>
+.
+North America	<x_axis_label_Scnd_highest_value>
+comes
+second	<order_Scnd>
+,
+and
+Europe	<x_axis_label_3rd_highest_value>
+is
+third	<order_3rd>
+in
+terms
+of
+highest	<y_axis_highest_value>
+spend	<t=1_a=b>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+shows
+money spent	<t=1_a=y>
+(
+in
+£	<y_axis_inferred_label>
+million	<y_magnitude>
+)
+on
+Higher Education	<t=1_a=b>
+in
+2010   <t=1_a=b>
+.
+The
+graph
+is
+titled
+as
+being
+for
+Asia	<x_axis_label_highest_value>
+but	<y_x_comparison>
+also
+includes
+data
+for
+three
+other
+continents	<x_axis>
+(
+North America	<x_axis_label_Scnd_highest_value>
+,
+Europe	<x_axis_label_3rd_highest_value>
+and
+Africa	<x_axis_label_least_value>
+)
+for
+comparison	<y_x_comparison>
+.
+\n\\n	<separator>
+The
+graph
+shows
+that
+Asia	<x_axis_label_highest_value>
+as
+a
+continent	<x_axis>
+spent	<t=1_a=y>
+the
+most	<y_axis_highest_value>
+on
+Higher Education	<t=1_a=b>
+at
+£	<y_axis_inferred_label>
+300	<y_axis_inferred_highest_value_approx>
+m	<y_magnitude>
+,
+followed	<order_Scnd>
+by
+North America	<x_axis_label_Scnd_highest_value>
+(
+£	<y_axis_inferred_label>
+200	<y_axis_Scnd_highest_val>
+m	<y_magnitude>
+)
+,
+Europe	<x_axis_label_3rd_highest_value>
+(
+£	<y_axis_inferred_label>
+100	<y_axis_3rd_highest_val>
+m	<y_magnitude>
+)
+and
+Africa	<x_axis_label_least_value>
+(
+£	<y_axis_inferred_label>
+50	<y_axis_least_value_val>
+m	<y_magnitude>
+)
+in
+that
+order
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+money spent on higher education in Asia in 2010    <topic>
+.
+\n	<separator>
+From
+the
+chart
+we
+see
+that
+Asia	<x_axis_label_highest_value>
+spent	<t=1_a=y>
+a
+total
+of
+£	<y_axis_inferred_label>
+320	<y_axis_highest_value_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+for
+the
+year
+,
+£	<y_axis_inferred_label>
+120	<y_axis_inferred_value_add_v1=highest_v2=Scnd>
+million	<y_magnitude>
+more	<y_axis_trend_up>
+than	<y_x_comparison>
+the
+closest
+competitor
+(
+North America	<x_axis_label_Scnd_highest_value>
+,
+which
+spent	<t=1_a=y>
+£	<y_axis_inferred_label>
+200	<y_axis_Scnd_highest_val>
+million	<y_magnitude>
+)
+and
+over	<y_axis_approx>
+twice   
+as
+much	<y_axis_trend>
+as
+Europe	<x_axis_label_3rd_highest_value>
+and
+Africa	<x_axis_label_least_value>
+put
+together
+(
+which
+spent	<t=1_a=y>
+£	<y_axis_inferred_label>
+100	<y_axis_3rd_highest_val>
+and
+£	<y_axis_inferred_label>
+50	<y_axis_least_value_val>
+million	<y_magnitude>
+respectively
+,
+totalling
+£	<y_axis_inferred_label>
+150	<y_axis_inferred_value_add_v1=least_v2=Scnd>
+million	<y_magnitude>
+)
+.
+<end_of_description>
+ 
+
+
+<start_of_description>
+This
+chart
+shows
+the
+money	<t=1_a=b>
+in
+millions	<y_magnitude>
+of
+pounds	<y_axis_inferred_label>
+that
+was
+spent	<t=1_a=y>
+on
+higher education	<t=1_a=b>
+in
+different
+continents	<x_axis>
+in
+2010 
+.
+\n\\n	<separator>
+Asia	<x_axis_label_highest_value>
+spent	<t=1_a=y>
+the
+most	<y_axis_highest_value>
+money	<t=1_a=b>
+on
+higher education	<t=1_a=b>
+in
+2010
+with
+around	<y_axis_approx>
+320	<y_axis_highest_value_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+being
+spent	<t=1_a=y>
+.
+North America	<x_axis_label_Scnd_highest_value>
+then	
+spent	<t=1_a=y>
+the
+next	<order_Scnd>
+highest	<y_axis_highest_value>
+amount
+with
+200	<y_axis_Scnd_highest_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+and
+Europe	<x_axis_label_3rd_highest_value>
+spent	<t=1_a=y>
+half    <y_axis_inferred_value_mul_v1=3rd_v2=Scnd>
+that
+with
+100	<y_axis_3rd_highest_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+being
+spent	<t=1_a=y>
+.
+Africa	<x_axis_label_least_value>
+was
+in
+fourth   <order_4th>
+place
+with
+only	<y_axis_least_value>
+spending
+50	<y_axis_least_value_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+on
+higher education	<t=1_a=b>
+in
+2010
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+describes
+the
+amount    <y_axis>
+of
+money spent	<t=1_a=y>
+on
+higher education	<t=1_a=b>
+in
+2010 
+.
+\n	<separator>
+The     
+title
+states
+the
+data
+is
+limited
+to
+Asia	<x_axis_label_highest_value>
+,
+but	 
+the
+dataset
+proves
+to
+show
+the
+global
+data
+,
+separated
+by
+continents	<x_axis>
+:
+North America	<x_axis_label_Scnd_highest_value>
+,
+Europe	<x_axis_label_3rd_highest_value>
+,
+Asia	<x_axis_label_highest_value>
+,
+Africa	<x_axis_label_least_value>
+.
+\n	<separator>
+The
+data
+is
+shown
+in
+units
+of
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+(
+GBP
+)
+.
+\n	<separator>
+The
+results
+show
+that
+Asia	<x_axis_label_highest_value>
+spent	<t=1_a=y>
+the
+most	<y_axis_highest_value>
+money	<t=1_a=b>
+on
+higher education	<t=1_a=b>
+in
+2010
+(
+over	<y_axis_approx>
+300	<y_axis_inferred_highest_value_approx>
++
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+)
+,
+followed	<order_Scnd>
+by
+North America	<x_axis_label_Scnd_highest_value>
+(
+200	<y_axis_Scnd_highest_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+)
+,
+Europe	<x_axis_label_3rd_highest_value>
+(
+100	<y_axis_3rd_highest_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+)
+,
+with
+Africa	<x_axis_label_least_value>
+spending
+the
+least   <y_axis_least_value>
+(
+50	<y_axis_least_value_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+)
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the
+continents
+that
+spent	<t=1_a=y>
+the
+most	<y_axis_highest_value>
+on
+higher education	<t=1_a=b>
+in
+2010
+.
+Asia	<x_axis_label_highest_value>
+ranked
+highest	<y_axis_highest_value>
+with
+over	<y_axis_approx>
+£	<y_axis_inferred_label>
+300	<y_axis_inferred_highest_value_approx>
+million	<y_magnitude>
+spent	<t=1_a=y>
+.
+North America	<x_axis_label_Scnd_highest_value>
+came
+next	<order_Scnd>
+with
+£	<y_axis_inferred_label>
+200	<y_axis_Scnd_highest_val>
+million	<y_magnitude>
+.
+The
+graph
+shows
+Europe	<x_axis_label_3rd_highest_value>
+as
+£	<y_axis_inferred_label>
+100	<y_axis_3rd_highest_val>
+million	<y_magnitude>
+spent	<t=1_a=y>
+and	 
+the
+least	<y_axis_least_value>
+spent	<t=1_a=y>
+was
+by
+Africa	<x_axis_label_least_value>
+with
+£	<y_axis_inferred_label>
+50	<y_axis_least_value_val>
+million	<y_magnitude>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the
+money spent	<t=1_a=y>
+on
+higher education	<t=1_a=b>
+in
+4	<x_axis_labels_count>
+different
+continents	<x_axis>
+,
+namely
+North America   <x_axis_label_Scnd_highest_value>
+,
+Europe	<x_axis_label_3rd_highest_value>
+,
+Asia	<x_axis_label_highest_value>
+and 
+Africa	<x_axis_label_least_value>
+.
+Asia	<x_axis_label_highest_value>
+spends	<t=1_a=b>
+the
+highest	<y_axis_highest_value>
+amount   <y_axis>
+at
+320	<y_axis_highest_value_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+,
+with
+the
+next	<order_Scnd>
+closest
+being
+North America	<x_axis_label_Scnd_highest_value>
+at
+200	<y_axis_Scnd_highest_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+.
+At
+the
+bottom    <y_axis_least_value>
+is
+Africa	<x_axis_label_least_value>
+who
+spend	<t=1_a=b>
+50	<y_axis_least_value_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+amount of money    <y_axis>
+spent	<t=1_a=y>
+on
+higher education	<t=1_a=b>
+in
+millions	<y_magnitude>
+of
+pounds	<y_axis_inferred_label>
+,
+by
+continent	<x_axis>
+in
+2010
+.
+Asia	<x_axis_label_highest_value>
+spent	<t=1_a=y>
+around	<y_axis_approx>
+£	<y_axis_inferred_label>
+320	<y_axis_highest_value_val>
+million	<y_magnitude>
+,
+which
+is
+over	<y_axis_approx>
+£	<y_axis_inferred_label>
+100	 <y_axis_inferred_value_add_v1=highest_v2=Scnd>
+million	<y_magnitude>
+more	<y_axis_trend_up>
+than	<y_x_comparison>
+the
+nearest
+next	<order_Scnd>
+most	 
+which
+is
+North America	<x_axis_label_Scnd_highest_value>
+at
+£	<y_axis_inferred_label>
+200	<y_axis_Scnd_highest_val>
+million	<y_magnitude>
+.
+Europe	<x_axis_label_3rd_highest_value>
+is
+next	<order_Scnd>
+at
+100	<y_axis_3rd_highest_val>
+million	<y_magnitude>
+,
+while	<y_x_comparison>
+Africa	<x_axis_label_least_value>
+is
+at
+the
+bottom    <y_axis_least_value>
+at
+£	<y_axis_inferred_label>
+50	<y_axis_least_value_val>
+million	<y_magnitude>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+money	<t=1_a=b>
+(
+GBP
+)
+spent	<t=1_a=y>
+on
+higher education	<t=1_a=b>
+in
+Asia	<x_axis_label_highest_value>
+in
+2010 
+.
+\n	<separator>
+The
+highest	<y_axis_highest_value>
+-
+spending
+continent	<x_axis>
+is
+Asia	<x_axis_label_highest_value>
+(
+£	<y_axis_inferred_label>
+320	<y_axis_highest_value_val>
+million	<y_axis>
+)
+.
+\n	<separator>
+The
+chart
+shows
+Africa	<x_axis_label_least_value>
+to
+be
+the
+lowest	<y_axis_least_value>
+spending
+(
+£	<y_axis_inferred_label>
+50	<y_axis_least_value_val>
+million	<y_axis>
+)
+.
+\n	<separator>
+North America   <x_axis_label_Scnd_highest_value>
+spent	<t=1_a=y>
+£	<y_axis_inferred_label>
+200	<y_axis_Scnd_highest_val>
+million	<y_magnitude>
+and
+Europe	<x_axis_label_3rd_highest_value>
+half
+this
+£	<y_axis_inferred_label>
+100	<y_axis_3rd_highest_val>
+million	<y_axis>
+.
+\n	<separator>
+There is no data displayed for the Artic and Antarctica   <interpretation>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+the amount of money spent on higher education in Asia in 2010   <topic>
+compared	<y_x_comparison>
+to
+other
+continents	<x_axis>
+.
+\n\\n	<separator>
+It
+shows
+Asia	<x_axis_label_highest_value>
+spends	<t=1_a=b>
+considerable    <y_axis_trend>
+more	<y_axis_trend_up>
+money	<t=1_a=b>
+on
+higher education	<t=1_a=b>
+than	<y_x_comparison>
+Africa	<x_axis_label_least_value>
+and
+Europe	<x_axis_label_3rd_highest_value>
+put
+together
+with
+North America	<x_axis_label_Scnd_highest_value>
+pushing
+75	<y_axis_inferred_value_mul_v1=Scnd_v2=highest>
+%	<y_axis_inferred_label>
+of
+Asia	<x_axis_label_highest_value>
+'s
+spend	<t=1_a=b>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+displays
+the amount of money spent on higher education in Asia in the year 2010    <topic>
+.
+We
+can
+see
+that
+just over	<y_axis_approx>
+300	<y_axis_inferred_highest_value_approx>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+was
+spend	<t=1_a=b>
+in
+Asia	<x_axis_label_highest_value>
+,
+with
+the
+second	<order_Scnd>
+continent	<x_axis>
+being
+North America	<x_axis_label_Scnd_highest_value>
+.
+Both
+Europe	<x_axis_label_3rd_highest_value>
+and	 
+Africa	<x_axis_label_least_value>
+have
+a
+much	<y_axis_trend>
+lower	<y_axis_trend_down>
+amount   <y_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+In
+the
+year
+2010
+,
+320	<y_axis_highest_value_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+was
+spent	<t=1_a=y>
+on
+higher education	<t=1_a=b>
+in
+Asia	<x_axis_label_highest_value>
+.
+This
+is
+significantly	<y_axis_trend>
+higher	<y_axis_trend_up>
+than	<y_x_comparison>
+the
+amounts
+of
+money spent	<t=1_a=y>
+in
+North America	<x_axis_label_Scnd_highest_value>
+(
+200	<y_axis_Scnd_highest_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+)
+,
+Europe	<x_axis_label_3rd_highest_value>
+(
+100	<y_axis_3rd_highest_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+)
+and
+Africa	<x_axis_label_least_value>
+(
+50	<y_axis_least_value_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+)
+.
+It
+is
+over	<y_axis_approx>
+50	<y_axis_inferred_value_add_v1=highest_v2=Scnd>
+%	<y_axis_inferred_label>
+higher	<y_axis_trend_up>
+than	<y_x_comparison>
+North America	<x_axis_label_Scnd_highest_value>
+,
+which
+is
+where
+the
+next	<order_Scnd>
+higest
+amount
+was
+spent	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+millions	<y_magnitude>
+of
+pounds	<y_axis_inferred_label>
+spent	<t=1_a=y>
+on
+higher education	<t=1_a=b>
+in
+2010
+comparing
+four	<x_axis_labels_count>
+continents	<x_axis>
+(
+and        
+not
+just	 
+Asia	<x_axis_label_highest_value>
+as
+the
+title
+suggests
+)
+.
+\n	<separator>
+The
+highest	<y_axis_highest_value>
+spend	<t=1_a=b>
+that
+year
+was
+Asia	<x_axis_label_highest_value>
+at
+around	<y_axis_approx>
+320	<y_axis_highest_value_val>
+M
+,
+followed	<order_Scnd>
+by
+North America	<x_axis_label_Scnd_highest_value>
+at
+200	<y_axis_Scnd_highest_val>
+M
+,
+Europe	<x_axis_label_3rd_highest_value>
+with
+half  <y_axis_inferred_value_add_v1=3rd_v2=Scnd>
+that
+and	 
+Africa	<x_axis_label_least_value>
+half    <y_axis_inferred_value_add_v1=4th_v2=3rd>
+of
+Europe	<x_axis_label_3rd_highest_value>
+'s
+at
+100	<y_axis_3rd_highest_val>
+M	<y_axis_inferred_label>
+.
+\n	<separator>
+There
+is
+almost	<y_axis_approx>
+a
+halving
+pattern
+between
+each
+of
+the
+continents	<x_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the
+amount of money   <y_axis> 
+spent	<t=1_a=y>
+by
+students
+from
+different
+continents	<x_axis>
+on
+higher education	<t=1_a=b>
+in
+Asia	<x_axis_label_highest_value>
+in
+2010
+.
+Africa	<x_axis_label_least_value>
+spent	<t=1_a=y>
+by far	<y_axis_trend>
+the
+least	<y_axis_least_value>
+,
+around	<y_axis_approx>
+50	<y_axis_least_value_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+,
+followed	<order_Scnd>
+by
+Europe	<x_axis_label_3rd_highest_value>
+with
+100	<y_axis_3rd_highest_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+,
+North America	<x_axis_label_Scnd_highest_value>
+with
+200	<y_axis_Scnd_highest_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+.
+Asia	<x_axis_label_highest_value>
+spent	<t=1_a=y>
+the
+most	<y_axis_highest_value>
+,
+exceeding  <y_axis_approx>
+300	<y_axis_inferred_highest_value_approx>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+the
+amount of money   <y_axis> 
+spent	<t=1_a=y>
+on
+higher education	<t=1_a=b>
+in
+a
+number
+of
+continents	<x_axis>
+in
+2010
+.
+Asia	<x_axis_label_highest_value>
+is
+at
+the
+top	<y_axis_highest_value>
+of
+the
+percentage
+mark
+with
+320	<y_axis_highest_value_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+.
+North America	<x_axis_label_Scnd_highest_value>
+is
+next	<order_Scnd>
+at
+200	<y_axis_Scnd_highest_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+.
+Followed	<order_Scnd>
+by
+Europe	<x_axis_label_3rd_highest_value>
+at
+100	<y_axis_3rd_highest_val>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+.
+The
+continent	<x_axis>
+spending   <t=1_a=y>
+the
+less	<y_axis_trend_down>
+is
+Africa	<x_axis_label_least_value>
+at
+50	<y_axis_least_value_val>
+million	<y_magnitude>
+pound	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+grpah
+sowns
+the money on higher education in Asia , for the year 2010   <topic>
+.
+The
+Asia	<x_axis_label_highest_value>
+bar
+on
+this
+chart
+show
+that
+approx	<y_axis_approx>
+.
+£	<y_axis_inferred_label>
+325	<y_axis_inferred_highest_value_approx>
+million	<y_magnitude>
+pounds	<y_axis_inferred_label>
+is
+spend	<t=1_a=b>
+,
+being
+the
+highest	<y_axis_highest_value>
+of
+all
+continents	<x_axis>
+show
+by
+this
+data
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+that
+more	<y_axis_trend_up>
+money	<t=1_a=b>
+was
+spent	<t=1_a=y>
+on
+higher education	<t=1_a=b>
+in
+Asia	<x_axis_label_highest_value>
+in
+2010
+than	<y_x_comparison>
+in
+North America	<x_axis_label_Scnd_highest_value>
+,
+Europe	<x_axis_label_3rd_highest_value>
+and
+Africa	<x_axis_label_least_value>
+.
+Over	<y_axis_approx>
+1.5 times	<y_axis_inferred_value_mul_v1=highest_v2=Scnd>
+more	<y_axis_trend_up>
+was
+spent	<t=1_a=y>
+in
+Asia	<x_axis_label_highest_value>
+than	<y_x_comparison>
+in
+North America	<x_axis_label_Scnd_highest_value>
+,
+over	<y_axis_approx>
+three times <y_axis_inferred_value_mul_v1=highest_v2=3rd>
+more	<y_axis_trend_up>
+than	<y_x_comparison>
+in
+Europe   <x_axis_label_3rd_highest_value>
+and
+over	<y_axis_approx>
+six times   <y_axis_inferred_value_mul_v1=highest_v2=least>
+more	<y_axis_trend_up>
+than	<y_x_comparison>
+in
+Africa	<x_axis_label_least_value>
+.
+The chart does not show the money spent per million people  <interpretation>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+compares
+money spent	<t=1_a=y>
+in
+millions	<y_magnitude>
+of
+pounds	<y_axis_inferred_label>
+on
+different
+continents	<x_axis>
+During
+2010
+,
+Africa	<x_axis_label_least_value>
+spent	<t=1_a=y>
+only	<y_axis_least_value>
+£	<y_axis_inferred_label>
+50	<y_axis_least_value_val>
+million	<y_magnitude>
+,
+being
+the
+least	<y_axis_least_value>
+and
+Asia	<x_axis_label_highest_value>
+spent	<t=1_a=y>
+£	<y_axis_inferred_label>
+310	<y_axis_inferred_highest_value_approx>
+million	<y_magnitude>
+,
+being
+the
+most	<y_axis_highest_value>
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+explores
+the
+money spent on higher education in Asia in 2010   <topic>
+.
+The
+amount    <y_axis>
+is
+in
+millions	<y_magnitude>
+pounds	<y_axis_inferred_label>
+.
+Asia	<x_axis_label_highest_value>
+spent	<t=1_a=y>
+£	<y_axis_inferred_label>
+320	<y_axis_highest_value_val>
+m	<y_magnitude>
+which
+is
+3   <y_axis_inferred_value_mul_v1=highest_v2=3rd>
+x
+more	<y_axis_trend_up>
+than	<y_x_comparison>
+europes  <x_axis_label_3rd_highest_value>
+total
+of
+£	<y_axis_inferred_label>
+100	<y_axis_3rd_highest_val>
+m	<y_magnitude>
+.
+North america	<x_axis_label_Scnd_highest_value>
+comes
+in
+at
+£	<y_axis_inferred_label>
+200	<y_axis_Scnd_highest_val>
+m	<y_magnitude>
+and
+the
+least	<y_axis_least_value>
+amount    <y_axis>
+was
+from
+africa	<x_axis_label_least_value>
+at
+£	<y_axis_inferred_label>
+50	<y_axis_least_value_val>
+m	<y_magnitude>
+.
+<end_of_description>
+
+
+

@@ -1,0 +1,1157 @@
+<start_of_description>
+This
+is
+a
+chart
+showing
+women representation in different university departments in Narvik   <topic>
+in
+Computer Science, Arts, Mathematics, Literature and Engineering	    <x_axis_labels>
+.
+Engineering	<x_axis_label_highest_value>
+has
+the
+most	<y_axis_highest_value>
+women representation   <y_axis>
+,
+according
+to	
+this
+chart
+,
+with
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+,
+closely	<y_axis_trend>
+followed	<order_Scnd>
+by
+Computer Science	<x_axis_label_Scnd_highest_value>
+with
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+,
+then	<order_4th>
+Mathematics	<x_axis_label_3rd_highest_value>
+with
+55	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+,
+then	<order_3rd>
+Arts   <x_axis_label_4th_highest_value>
+with
+just	<y_axis_least_value>
+32   <y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+and
+Literature	<x_axis_label_least_value>
+with
+the
+least	<y_axis_least_value>
+women representation   <y_axis>
+at
+24
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description> [type01]
+Bar
+chart
+showing
+the
+representation of women in different university departments in Narvik   <topic>
+.
+\\n   <separator>
+\\n   <separator>
+The
+lowest	<y_axis_least_value>
+representation   <y_axis>
+is
+in
+the
+Literature Department   <x_axis_label_least_value>
+at
+22	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+,
+rising	<y_axis_trend_up>
+to	
+the
+highest	<y_axis_highest_value>
+representation   <y_axis>
+at
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+in
+Engineering	<x_axis_label_highest_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+depicts
+the
+percentage	<y_axis>
+of
+people	<t=0_a=y>
+in
+university departments	<x_axis>
+who
+are
+women	<t=1_a=y>
+.
+The
+greatest	<y_axis_highest_value>
+percentage of women <y_axis>
+are
+in
+engineering	<x_axis_label_highest_value>
+,
+making
+up
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+Computer science	<x_axis_label_Scnd_highest_value>
+is
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+women	<t=1_a=y>
+,
+mathematics	<x_axis_label_3rd_highest_value>
+55	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+,
+and
+arts	<x_axis_label_4th_highest_value>
+32	<y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+.
+Literature	<x_axis_label_least_value>
+has
+the
+fewest   <y_axis_least_value>
+women	<t=1_a=y>
+,
+consisting
+of
+only	<y_axis_least_value>
+22	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+details
+the
+percentage of women within different university departments in Narvik   <topic>
+.
+The
+graph
+shows
+that
+in
+STEM subjects	<group_highest_Scnd_3rd>
+women   <t=1_a=y>
+make
+up
+more than	<y_axis_approx>
+half	<group_y_highest_Scnd_3rd>
+of
+the
+department   <x_axis>
+,
+while	<y_x_comparison>
+in
+the
+arts and literature   <group_4th_least>
+department	<x_axis>
+,
+women   <t=1_a=y>
+account
+for
+less than	<y_axis_approx>
+a
+third	<group_y_4th_least>
+of
+the
+department   <x_axis>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+percentage of women represented in different university departments in Narvik    <topic>
+.
+\\n   <separator>
+\\n   <separator>
+From
+the
+chart
+,
+we
+can
+see
+that
+Engineering	<x_axis_label_highest_value>
+is
+the
+department   <x_axis>
+with
+the
+highest	<y_axis_highest_value>
+representation of women   <y_axis>
+,
+with
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+of
+the
+department   <x_axis>
+being
+women	<t=1_a=y>
+.
+Computer science	<x_axis_label_Scnd_highest_value>
+follows	<order_Scnd>
+with
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+of
+the
+department   <x_axis>
+being
+women	<t=1_a=y>
+,
+although
+this
+is
+a
+big
+drop   <y_axis_trend_down>
+from	
+Engineering	<x_axis_label_highest_value>
+.
+Mathematics	<x_axis_label_3rd_highest_value>
+follows
+closely	<y_axis_trend>
+with
+56  <y_axis_3rd_highest_val>
+%   <y_axis_inferred_label>
+.
+\\n   <separator>
+\\n   <separator>
+However
+,
+after
+this
+,
+there
+is
+a
+big
+drop   <y_axis_trend_down>
+with
+the
+Arts   <x_axis_label_4th_highest_value>
+department   <x_axis>
+containing
+only	<y_axis_trend>
+32	<y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+of
+women	<t=1_a=y>
+and
+Literature	<x_axis_label_least_value>
+coming
+last	<y_axis_least_value>
+with
+just	<y_axis_least_value>
+22	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+of
+women	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+This
+graph
+depicts
+the
+percentage	<y_axis>
+of
+women representation in different university departments in Narvik   <topic>
+.
+In
+Computer Science	<x_axis_label_Scnd_highest_value>
+,
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+of
+the
+department   <x_axis>
+are
+women	<t=1_a=y>
+,
+in
+Arts	<x_axis_label_4th_highest_value>
+32	<y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+of
+the
+department   <x_axis>
+are
+women	<t=1_a=y>
+,
+in
+Mathematics	<x_axis_label_3rd_highest_value>
+66	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+of
+the
+department   <x_axis>
+are
+women	<t=1_a=y>
+,
+in
+Literature	<x_axis_label_least_value>
+22	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+of
+the
+department   <x_axis>
+are
+women	<t=1_a=y>
+,
+and
+in
+Engineering	<x_axis_label_highest_value>
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+of
+the
+department   <x_axis>
+are
+women	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+
+<start_of_description> [type01]
+Engineering	<x_axis_label_highest_value>
+has
+the
+highest	<y_axis_highest_value>
+percentage of woman representation	<y_axis>
+at
+Narvik University	<t=1_a=b>
+with
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+of
+woman representing	<y_axis>
+on
+this
+course   <x_axis>
+.
+\\n   <separator>
+\\n   <separator>
+Literature    <x_axis_label_least_value>
+has
+the
+lowest	<y_axis_least_value>
+percentage of representation   <y_axis>
+at
+22	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+percentage of women	<y_axis>
+enrolled
+in
+university departments	<x_axis>
+.
+The
+representation   <y_axis>
+is
+highest	<y_axis_highest_value>
+within
+STEM fields	<group_highest_Scnd_3rd>
+,
+with
+engineering	<x_axis_label_highest_value>
+showing
+the
+highest	<y_axis_highest_value>
+representation   <y_axis>
+at
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+,
+followed	<order_Scnd>
+by
+computer science	<x_axis_label_Scnd_highest_value>
+with
+a
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+representation   <y_axis>
+and
+mathematics	<x_axis_label_3rd_highest_value>
+with
+56	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+of
+women represented	<y_axis>
+.
+Only	
+32	<y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+of
+women	<t=1_a=y>
+are
+now
+represented	<t=1_a=y>
+in
+Arts	<x_axis_label_4th_highest_value>
+and
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+in
+literature	<x_axis_label_least_value>
+,
+indicating
+a
+decline    <y_axis_trend_down>
+in
+Arts and Humanities	<group_4th_least>
+in
+favour
+STEM fields	<group_highest_Scnd_3rd>
+<end_of_description>
+
+
+
+<start_of_description>
+The
+percentage of women	<y_axis>
+in
+five	<x_axis_labels_count>
+Narvik	<t=1_a=b>
+university departments	<x_axis>
+is
+shown
+here
+.
+In
+Engineering	<x_axis_label_highest_value>
+it
+is
+70	<y_axis_highest_value_val>
+,
+in
+computer science	<x_axis_label_Scnd_highest_value>
+60	<y_axis_Scnd_highest_val>
+,
+in
+maths   <x_axis_label_3rd_highest_value>
+55	<y_axis_3rd_highest_val>
+,
+in
+arts	<x_axis_label_4th_highest_value>
+32	<y_axis_4th_highest_val>
+and
+in
+literature	<x_axis_label_least_value>
+22	<y_axis_inferred_least_value_approx>
+.
+<end_of_description>
+
+
+
+
+<start_of_description> [type01]
+The
+representation of women in university departments in Narvik   <topic>
+is
+as
+shown
+by
+this
+graph
+.
+Computer science	<x_axis_label_Scnd_highest_value>
+and
+engineering	<x_axis_label_highest_value>
+have
+the
+largest	<y_axis_highest_value>
+representation   <y_axis>
+at
+60	<y_axis_Scnd_highest_val>
+and
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+respectively
+.
+The
+lowest	<y_axis_least_value>
+representation   <y_axis>
+is
+in
+literature	<x_axis_label_least_value>
+at
+just over	<y_axis_approx>
+20	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+Women representation in Narvik university departments   <topic>
+=
+There
+is
+a
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+representation of women	<y_axis>
+in
+Computer science	<x_axis_label_Scnd_highest_value>
+and
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+in
+Engineering	<x_axis_label_highest_value>
+.
+In
+Maths   <x_axis_label_3rd_highest_value>
+this
+is
+55	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+.
+However
+in
+Arts	<x_axis_label_4th_highest_value>
+it	
+is
+32   <y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+and
+Literature	<x_axis_label_least_value>
+just	<y_axis_least_value>
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+This seems almost opposite to what I would expect   <interpretation>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+percentage of women	<y_axis>
+in
+five	<x_axis_labels_count>
+different
+university departments	<x_axis>
+in
+Narvik	<t=1_a=b>
+.
+There
+are
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+of
+women	<t=1_a=y>
+in
+Computer Science	<x_axis_label_Scnd_highest_value>	
+,
+32   <x_axis_label_4th_highest_value>
+%	<y_axis_inferred_label>
+in
+Arts	<x_axis_label_4th_highest_value>
+,
+54	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+in
+Mathematics	<x_axis_label_3rd_highest_value>
+,
+23	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+in
+Literature	<x_axis_label_least_value>
+and
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+in
+Engineering	<x_axis_label_highest_value>
+.
+This
+shows
+how
+there
+are
+more	<y_axis_trend_up>
+women	<t=1_a=y>
+in
+the
+Engineering department   <x_axis_label_highest_value>
+and
+less	<y_axis_approx>
+in
+the
+Literature department   <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+this
+graph
+shows
+that
+the
+percentage of women   <y_axis>
+entering
+Engineering	<x_axis_label_highest_value>
+is
+at
+almost	<y_axis_approx>
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+compared	<y_x_comparison>
+to	
+only
+55	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+entering
+Mathematics	<x_axis_label_3rd_highest_value>
+.
+Almost	<y_axis_approx>
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+of
+women are represented	<y_axis>
+in
+Computer Science	<x_axis_label_Scnd_highest_value>
+compared	<y_x_comparison>
+to
+less than	<y_axis_approx>
+40	<group_y_4th_least>
+%	<y_axis_inferred_label>
+in
+both
+Arts and Literatur   <group_4th_least>
+.
+<end_of_description>
+
+
+<start_of_description>
+This
+chart
+shows
+the
+percentages   <y_axis>
+of
+women representation in different university departments in Narvik   <topic>
+.
+From	
+the
+chart
+,
+we
+see
+that
+the
+lowest	<y_axis_least_value>
+amount
+of
+women representation   <y_axis>
+came
+from	
+Literature	<x_axis_label_least_value>
+with
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+,
+followed	<order_Scnd>	
+by
+32   <y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+of
+women representation 	<y_axis>
+in
+Arts	<x_axis_label_4th_highest_value>
+.
+Next	<order_3rd>
+we
+see
+there
+were
+around	<y_axis_approx>
+56	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+of
+women representation	<y_axis>
+in
+Mathematics	<x_axis_label_3rd_highest_value>
+followed	<order_4th>
+by
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+in
+Computer Science	<x_axis_label_Scnd_highest_value>
+.
+The
+highest	<y_axis_highest_value>
+women representation   <y_axis>
+came
+from	
+Engineering	<x_axis_label_highest_value>
+with
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+Women representation	<y_axis>
+in
+different
+university departments	<x_axis>
+in
+narvik	<t=1_a=b>
+was
+at
+its
+highest	<y_axis_highest_value>
+in
+the
+department   <x_axis>
+of
+engineering	<x_axis_label_highest_value>
+at
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+It
+was
+at
+its
+lowest	<y_axis_least_value>
+in
+literature	<x_axis_label_least_value>
+at
+23	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+Computer science	<x_axis_label_Scnd_highest_value>
+was
+second	<order_Scnd>
+highest	
+at
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+,
+the
+arts   <x_axis_label_4th_highest_value>	
+at
+32   <x_axis_label_4th_highest_value>
+%	<y_axis_inferred_label>
+and
+mathematics	<x_axis_label_3rd_highest_value>
+at
+65	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description> [type01]
+This
+chart
+looked
+at
+women's representation at different universites in Narvik     <topic>
+.
+Participation
+ranged
+from
+the
+lowest	<y_axis_least_value>
+(
+Literature	<x_axis_label_least_value>
+at
+23	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+)
+to
+the
+highest	<y_axis_highest_value>
+(
+Engineering   <x_axis_label_highest_value>
+)
+at
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+representation of women in different university departments in Narvik   <topic>
+.
+\\n   <separator>
+The
+lowest	<y_axis_least_value>
+was
+literature	<x_axis_label_least_value>
+at
+just over	<y_axis_approx>
+20	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+\\n   <separator>
+The
+next	<order_Scnd>
+,
+Arts   <x_axis_label_4th_highest_value>
+at
+just over	<y_axis_approx>
+30	<y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+.  
+Mathematics	<x_axis_label_3rd_highest_value>
+,
+approximately	<y_axis_approx>
+55	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+,
+computer science	<x_axis_label_Scnd_highest_value>
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+and
+finally  <order_last>
+engineering   <x_axis_label_highest_value>
+at
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+<start_of_description> [type01]
+The
+graph
+shows
+the
+%	<y_axis>
+of
+women employed in different university depts in Narvik   <topic>
+.
+The
+highest	<y_axis_highest_value>
+percentage of women   <y_axis>
+are
+employed	<t=0_a=x>
+in
+the
+engineering dept   <x_axis_label_highest_value>
+with
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+and
+the
+lowest	<y_axis_least_value>
+are
+employed	<t=0_a=x>
+in
+the
+literature    <x_axis_label_least_value>
+dept
+with
+only	<y_axis_least_value>
+22	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+<end_of_description>
+
+
+
+
+<start_of_description>
+Graph
+shows
+women representation in Narviks different university departments   <topic>
+.
+The
+highest	<y_axis_highest_value>
+being
+engineering   <x_axis_label_highest_value>
+at
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+,
+second	<order_Scnd>
+highest	
+was
+computer science	<x_axis_label_Scnd_highest_value>
+at
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+,
+below   <y_axis_trend_down>
+that
+was
+the
+mathematics	<x_axis_label_3rd_highest_value>
+department	<x_axis>
+at
+55	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+,
+arts	<x_axis_label_4th_highest_value>
+came
+in
+at
+second
+lowest
+at
+32   <x_axis_label_4th_highest_value>	
+%	<y_axis_inferred_label>
+and
+literature	<x_axis_label_least_value>
+the
+lowest	<y_axis_least_value>
+at
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+The
+chart
+shows
+the
+percentage	<y_axis>
+of
+women in different university departments in Narvik   <topic>
+.
+\\n   <separator>
+The
+highest	<y_axis_highest_value>
+percentages of women    <y_axis>
+are
+found
+in
+the
+departments   <x_axis>
+of
+engineering	<x_axis_label_highest_value>
+(
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+)
+,
+computer science	<x_axis_label_Scnd_highest_value>
+(
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+)
+and
+mathematics	<x_axis_label_3rd_highest_value>
+(
+54	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+)
+.
+\\n   <separator>
+The
+lowest	<y_axis_least_value>
+percentage   <y_axis>
+(
+22	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+)
+is
+in
+literature	<x_axis_label_least_value>
+while	<y_x_comparison>
+in
+arts	<x_axis_label_4th_highest_value>
+the
+level
+is
+just over	<y_axis_approx>
+30	<y_axis_4th_highest_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+<start_of_description> [type01]
+Women	<t=1_a=y>
+are
+represented	<t=1_a=y>
+at
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+for
+Engineering	<x_axis_label_highest_value>
+in
+Narvik	<t=1_a=b>
+,
+whereas   <y_x_comparison>
+only	<y_axis_least_value>
+just over	<y_axis_approx>
+20	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+are
+represented	<t=1_a=y>
+in
+literature	<x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+The
+chart
+shows
+women ’s representation in different university departments in Narvic  <topic>
+.
+Engineering   <x_axis_label_highest_value>
+at
+70	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+and
+Computing   <x_axis_label_Scnd_highest_value>
+at
+60	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+are
+the
+highest	<y_axis_highest_value>
+.
+We
+see
+women’s representation   <y_axis>
+the
+lowest	<y_axis_least_value>
+in
+the
+arts   <group_4th_least>
+with
+the
+Literature   <x_axis_label_least_value>
+department	<x_axis>
+standing
+at
+22	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+and
+the
+Arts   <x_axis_label_4th_highest_value>	
+at
+32   <x_axis_label_4th_highest_value>
+%	<y_axis_inferred_label>
+.
+The
+representation of women   <y_axis>
+in
+the
+Maths   <x_axis_label_3rd_highest_value>
+department   <x_axis>
+is
+54	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+<start_of_description> [type01]
+This chart shows women in Narvik are well represented within departments traditionally seen as male dominated   <interpretation>
+.
+In
+contrast
+,
+only	<y_axis_least_value>
+a
+small	<y_axis_trend>
+percentage of people   <y_axis>
+within
+arts and literature	<group_4th_least>
+are
+women	<t=1_a=y>
+.
+THe
+most	<y_axis_highest_value>
+female dominated	<t=0_a=y>
+department   <x_axis>
+is
+Engineering	<x_axis_label_highest_value>
+<end_of_description>
+
+

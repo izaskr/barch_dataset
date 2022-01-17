@@ -1,0 +1,1016 @@
+<start_of_description>
+The
+chart
+is
+titled
+The most equal countries given the gender pay gap   <topic>
+.
+I am not certain if the data in percentages	relates to the pay gap itself      <interpretation>
+.
+Three	<x_axis_labels_count>
+countries	<x_axis>
+are
+included
+,
+Germany	<x_axis_label_highest_value>
+,
+Spain	<x_axis_label_least_value>
+and	 
+UK	<x_axis_label_Scnd_highest_value>
+.
+Germany	<x_axis_label_highest_value>
+has
+a
+value   <y_axis>
+of
+21	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+,
+Spain	<x_axis_label_least_value>
+15	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+and	
+the
+UK	<x_axis_label_Scnd_highest_value>
+20.5	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the most equal countries given the gender pay gap   <topic>
+.
+Germany	<x_axis_label_highest_value>
+shows
+the
+highest	<y_axis_highest_value>
+level
+of
+equality  <t=1_a=y>
+at
+21	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+,
+with
+UK	<x_axis_label_Scnd_highest_value>
+showing
+around	<y_axis_approx>
+20.5	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+.
+Spain	<x_axis_label_least_value>
+showed
+the
+lowest	<y_axis_least_value>
+equality   <t=1_a=y>
+level   <y_axis>
+at
+15	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Spain	<x_axis_label_least_value>
+is
+reported
+to
+have
+the
+lowest	<y_axis_least_value>
+gender pay gap	<y_axis>
+.
+Germany	<x_axis_label_highest_value>
+has
+the
+highest	<y_axis_highest_value>
+gap	<y_axis>
+with
+21	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+and	
+the
+UK	<x_axis_label_Scnd_highest_value>
+is
+not
+far	<y_axis_trend>
+behind	<y_axis_trend_down>
+with
+20.5	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+gap	<y_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the most equal countries given the gender pay gap   <topic>
+,
+comparing
+Germany	<x_axis_label_highest_value>
+,
+Spain	<x_axis_label_least_value>
+,
+and	 
+the
+UK	<x_axis_label_Scnd_highest_value>
+.
+From	
+the
+graph
+we
+can
+see
+that
+Germany	<x_axis_label_highest_value>
+are
+the
+most equal  	<y_axis_highest_value>	
+country	   <x_axis>
+compared	<y_x_comparison>
+with
+the
+UK	<x_axis_label_Scnd_highest_value>
+and	 
+Spain	<x_axis_label_least_value>
+in
+terms
+of
+the
+given 
+gender pay gap	<y_axis>
+with
+approx.	<y_axis_approx>
+21	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+This
+is
+followed by 	<order_Scnd>
+the
+UK	<x_axis_label_Scnd_highest_value>
+with
+approx.	<y_axis_approx>
+20.5	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+,
+and	 
+Spain	<x_axis_label_least_value>
+has
+the
+lowest	<y_axis_least_value>
+gender pay gap	<y_axis>
+out
+of
+the
+most equal    <t=1_a=b>
+countries	<x_axis>
+at
+15	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+When
+it
+comes
+to
+equality   <t=1_a=y>
+Germany	<x_axis_label_highest_value>
+just	<y_axis_least_value>
+pip
+the
+UK	<x_axis_label_Scnd_highest_value>
+to
+the
+post
+for
+the
+most equal    <t=1_a=b>
+country	<x_axis>
+with
+regards
+to
+the 
+gender pay gap	<y_axis>
+.
+Uk	<x_axis_label_Scnd_highest_value>
+are
+just	<y_axis_least_value>
+behind	<y_axis_trend_down>
+them
+as
+stated
+.
+But dragging their heels into the 21st century are Spain , stuck in the dark ages	<interpretation>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+bar
+chart
+shows
+the
+percentage	<y_axis>
+of
+equality   <t=1_a=y>
+in
+Germany	<x_axis_label_highest_value>
+,
+Spain	<x_axis_label_least_value>
+and 
+the
+UK	<x_axis_label_Scnd_highest_value>
+(
+countries	<x_axis>
+given	 
+the
+gender pay gap	<y_axis>
+)
+.
+\n\\n	<separator>
+Germany	<x_axis_label_highest_value>
+is
+22	<y_axis_inferred_highest_value_approx>
+percent	<y_axis_inferred_label>
+equal	<t=1_a=b>
+,
+Spain	<x_axis_label_least_value>
+is
+15	<y_axis_inferred_least_value_approx>
+percent	<y_axis_inferred_label>
+equal	<t=1_a=b>
+and 
+the
+UK	<x_axis_label_Scnd_highest_value>
+is
+21	<y_axis_Scnd_highest_val>
+percent	<y_axis_inferred_label>
+equal	<t=1_a=b>
+.
+\n\\n	<separator>
+Spain	<x_axis_label_least_value>
+is
+the
+least equal  	<y_axis_least_value>
+,
+and 
+Germany	<x_axis_label_highest_value>
+is
+the
+most equal    <t=1_a=b>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the most equal countries given the gender pay gap   <topic>
+.
+\n	<separator>
+It
+shows
+that
+the
+UK	<x_axis_label_Scnd_highest_value>
+and	 
+Germany	<x_axis_label_highest_value>
+have
+an
+equal 
+pay gap	<y_axis>
+of
+21	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+,
+while	<y_x_comparison>
+Spain	<x_axis_label_least_value>
+has
+a
+pay gap	<y_axis>
+of
+15	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+visual
+representation
+displays
+three	<x_axis_labels_count>
+countries	<x_axis>
+and	 
+their
+equality   <t=1_a=y>
+relating
+to
+the
+gender pay gap	<y_axis>
+.
+Germany	<x_axis_label_highest_value>
+and	 
+the
+UK	<x_axis_label_Scnd_highest_value>
+are
+approximately	<y_axis_approx>
+21	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+and 
+Spain	<x_axis_label_least_value>
+is
+at
+15	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+the
+percentage	<y_axis>
+of
+gender pay gap	<y_axis>
+in
+three	<x_axis_labels_count>
+countries	<x_axis>
+.
+The
+highest	<y_axis_highest_value>
+gender pay gap	<y_axis>
+is
+Germany	<x_axis_label_highest_value>
+with
+21	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+,
+followed by	<order_Scnd>
+the
+UK	<x_axis_label_Scnd_highest_value>
+with
+20.5	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+,
+and	
+finally	<order_last>
+Spain	<x_axis_label_least_value>
+with
+15	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+,
+making
+it
+the
+most equal    <t=1_a=b>
+of
+the
+three	<x_axis_labels_count>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+equality   <t=1_a=y>
+in
+three	<x_axis_labels_count>
+countries	<x_axis>
+based
+on
+the
+gender pay gap	<y_axis>
+.
+Equality   <t=1_a=y>
+in
+the
+UK	<x_axis_label_Scnd_highest_value>
+and	
+Germany	<x_axis_label_highest_value>
+is
+similar	<y_axis_trend>
+at
+just above	<y_axis_least_value>
+20	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+with
+Germany	<x_axis_label_highest_value>
+having
+slightly	<y_axis_trend>
+higher	<y_axis_trend_up>
+equality   <t=1_a=y>
+.
+Spain	<x_axis_label_least_value>
+has
+equality   <t=1_a=y>
+of
+15	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+describes
+gender	<t=1_a=b>
+equality   <t=1_a=y>
+,
+measured
+through
+the
+pay gap	<y_axis>
+,
+in
+three	<x_axis_labels_count>
+countries	<x_axis>
+.
+It
+demonstrates
+that
+Spain	<x_axis_label_least_value>
+has
+the
+highest	<y_axis_highest_value>
+rate
+of
+gender	<t=1_a=b>
+equality   <t=1_a=y>
+,
+with
+only	<y_axis_least_value>
+15	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+discrepancy
+,
+followed by  	<order_Scnd>
+Germany	<x_axis_label_highest_value>
+and	
+the
+UK	<x_axis_label_Scnd_highest_value>
+,
+where
+there
+is
+approximately	<y_axis_approx>
+a
+22	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+discrepancy
+.
+Germany	<x_axis_label_highest_value>
+and	
+the
+UK	<x_axis_label_Scnd_highest_value>
+are
+therefore
+more	<y_axis_trend_up>
+unequal  
+than	<y_x_comparison>
+Spain	<x_axis_label_least_value>
+,
+judged
+by
+the
+gender pay gap	<y_axis>
+<end_of_description>
+
+
+
+<start_of_description>
+Germany	<x_axis_label_highest_value>
+is
+the
+most equal    <t=1_a=b>
+country	<x_axis>
+given	 
+the
+gender pay gap	<y_axis>
+at
+21	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+,
+uk	<x_axis_label_Scnd_highest_value>
+is
+just	 
+next	<order_Scnd>
+at
+20.5	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+and	
+last	<y_axis_least_value>
+is
+spain	<x_axis_label_least_value>
+with
+15	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+gender pay gap	<y_axis>
+in
+Germany	<x_axis_label_highest_value>
+,
+Spain	<x_axis_label_least_value>
+and	
+the
+UK	<x_axis_label_Scnd_highest_value>
+.
+Spain	<x_axis_label_least_value>
+is
+the
+most equal    <t=1_a=b>
+of
+the
+3	<y_axis_inferred_value_mul_v1=highest_v2=least>
+countries	<x_axis>
+with
+a
+gap	<y_axis>
+of
+just	<y_axis_least_value>
+15	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+,
+with
+20.5	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+in
+the
+UK	<x_axis_label_Scnd_highest_value>
+and	
+21	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+in
+Germany	<x_axis_label_highest_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Spain	<x_axis_label_least_value>
+has
+the
+least	<y_axis_least_value>
+disparity
+between
+genders	<t=1_a=b>
+on
+pay	<t=1_a=b>
+at
+15	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+of
+a
+difference
+with
+the
+UK	<x_axis_label_Scnd_highest_value>
+and	
+Gernany
+not
+too
+\n	<separator>
+far   <y_axis_trend>
+behind	<y_axis_trend_down>
+at
+20.5	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+and	
+21	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+respectively
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Germany	<x_axis_label_highest_value>
+,
+closely	<y_axis_trend>
+followed by	<order_Scnd>
+the
+UK	<x_axis_label_Scnd_highest_value>
+are
+the
+most equal    <t=1_a=b>
+countries	<x_axis>
+in
+terms
+of
+gender pay gap	<y_axis>
+,
+around	<y_axis_approx>
+20	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+<end_of_description>
+
+
+
+<start_of_description>
+Germany	<x_axis_label_highest_value>
+has
+the
+highest	<y_axis_highest_value>
+percentage	<y_axis>
+of
+the 
+most 
+equal 
+countries    <x_axis>
+given 
+the 
+gender pay gap   <topic>
+.
+While	<y_x_comparison>
+Spain	<x_axis_label_least_value>
+has
+the
+lowest	<y_axis_least_value>
+most equal  
+countries	<x_axis>
+given	<t=1_a=b>
+the
+gender pay gap	<y_axis>
+.
+the
+UK	<x_axis_label_Scnd_highest_value>
+with
+slightly above	<y_axis_approx>	 
+20	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+is
+close	<y_axis_trend>
+to
+Germany	<x_axis_label_highest_value>
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+a
+comparison 
+of
+the
+equality   <t=1_a=y>
+of
+Germany	<x_axis_label_highest_value>
+,
+Spain	<x_axis_label_least_value>
+and	
+the
+UK	<x_axis_label_Scnd_highest_value>
+based
+upon
+their
+gender pay gap	<y_axis>
+in
+percentage	<y_axis>
+.
+Germany	<x_axis_label_highest_value>
+is
+marginally  <y_axis_trend>
+the
+worst	
+performing
+country	<x_axis>
+,
+with
+a
+pay gap	<y_axis>
+of
+approx.	<y_axis_approx>
+21	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+Spain	<x_axis_label_least_value>
+fares
+best	<y_axis_highest_value>
+,
+with
+a
+pay gap	<y_axis>
+of
+approx.	<y_axis_approx>
+15	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+and	
+the
+UK	<x_axis_label_Scnd_highest_value>
+with
+20.5	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+bar
+chart
+shows
+which
+country	<x_axis>
+is
+the
+most equal    <t=1_a=b>
+in
+terms
+of
+the
+gender pay gap	<y_axis>
+.
+From	<y_x_comparison>
+the
+graph
+,
+you
+can
+see
+Germany	<x_axis_label_highest_value>
+has
+roughly	<y_axis_approx>
+a
+21	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+pay gap	<y_axis>
+.
+Spain	<x_axis_label_least_value>
+has
+a
+15	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+pay gap	<y_axis>
+,
+and	
+the
+UK	<x_axis_label_Scnd_highest_value>
+has
+a
+20.5	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+pay gap	<y_axis>
+.
+This
+shows
+that
+of
+the
+three	<x_axis_labels_count>
+countries	<x_axis>
+,
+Spain	<x_axis_label_least_value>
+has
+the
+lowest	<y_axis_least_value>
+gender pay gap	<y_axis>
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+shows
+three	<x_axis_labels_count>
+countries	<x_axis>
+and	
+their
+gender pay gap	<y_axis>
+in
+%	<y_axis_inferred_label>
+terms
+.
+Germany	<x_axis_label_highest_value>
+and	
+UK	<x_axis_label_Scnd_highest_value>
+are
+matched
+at
+21	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+whereas	<y_x_comparison>
+Spain	<x_axis_label_least_value>
+is
+lower	<y_axis_trend_down>
+at
+15	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+most equal    <t=1_a=b>
+countries	<x_axis>
+based
+on
+the
+gender pay gap	<y_axis>
+.
+\n	<separator>
+You
+can
+see
+that
+Germany	<x_axis_label_highest_value>
+has
+a
+gender pay gap	<y_axis>
+of
+21	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+,
+closely	<y_axis_trend>
+followed by 	<order_Scnd>
+the
+UK	<x_axis_label_Scnd_highest_value>
+at
+20.5	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+.
+Spain	<x_axis_label_least_value>
+has
+the
+lowest	<y_axis_least_value>
+gender pay gap	<y_axis>
+at
+15	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+<end_of_description>
+
+
+
+<start_of_description>
+Germany	<x_axis_label_highest_value>
+and	
+the
+UK	<x_axis_label_Scnd_highest_value>
+are
+almost	<y_axis_approx>
+equal given	<t=1_a=b>
+the
+gender pay gap	<y_axis>
+with
+a
+21	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+and	
+20.5	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+percentage	<y_axis>
+.
+Spain	<x_axis_label_least_value>
+is
+giving	<t=1_a=b>
+a
+lower	<y_axis_trend_down>
+result
+with
+a
+15	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+result
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+the
+gender pay gap	<y_axis>
+(
+as
+a
+%	<y_axis_inferred_label>
+)
+for
+three	<x_axis_labels_count>
+countries	<x_axis>
+:
+Germany	<x_axis_label_highest_value>
+(
+21	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+)
+,
+Spain	<x_axis_label_least_value>
+,
+(
+15	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+)
+and	
+UK	<x_axis_label_Scnd_highest_value>
+(
+20.5	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+)
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the
+percentage	<y_axis>
+of
+the most equal countries given the gender pay gap   <topic>
+.
+Germany	<x_axis_label_highest_value>
+and	
+the
+UK	<x_axis_label_Scnd_highest_value>
+have
+similar	<y_axis_trend>
+percentages	<y_axis>
+,
+21	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+and	
+20.5	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+respectively
+,
+meaning
+a
+difference
+of
+0.5	<y_axis_inferred_value_add_v1=Scnd_v2=highest>
+%	<y_axis_inferred_label>
+.
+However	<y_x_comparison>
+,
+Spain	<x_axis_label_least_value>
+'s
+percentage	<y_axis>
+is
+around	<y_axis_approx>
+3/4   <y_axis_inferred_value_mul_v1=least_v2=highest>
+of
+the
+other
+two
+(
+15	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+)
+.
+<end_of_description>
+
+
+

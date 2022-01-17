@@ -1,0 +1,973 @@
+<start_of_description>
+This
+chart
+shows
+what causes obesity in Kiribati   <topic>
+.
+The
+biggest	<y_axis_highest_value>
+percentage   <y_axis>
+for
+the
+cause of obesity   <x_axis>
+,
+according
+to
+this
+,
+is
+a
+genetic cause   <x_axis_label_highest_value>
+,
+which
+is
+at
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+Then	<order_Scnd>
+lack of exercise   <x_axis_label_Scnd_highest_value>
+at
+36	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+And
+then	<order_3rd>
+fast food   <x_axis_label_least_value>
+at
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+Bar
+chart
+showing
+the
+causes of obesity in Kiribati   <topic>
+.
+\\n   <separator>
+\\n   <separator>
+Fast food   <x_axis_label_least_value>
+is
+the
+lowest	<y_axis_least_value>
+cause   <x_axis>
+at
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+,
+then	<order_Scnd>
+lack of exercise   <x_axis_label_Scnd_highest_value>
+at
+35	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+with
+genetics	<x_axis_label_highest_value>
+as
+the
+main <y_axis_highest_value>
+factor	<x_axis>
+at
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+The
+graph
+shows
+three   <x_axis_labels_count>
+causes of obesity in Kiribati   <topic>
+,
+as
+a
+percentage   <y_axis>
+of
+incidence
+.
+The
+most common  <y_axis_highest_value>
+cause   <x_axis>
+is
+genetic   <x_axis_label_highest_value>
+,
+identified
+as
+causing	<t=1_a=x>
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+with
+lack of exercise   <x_axis_label_Scnd_highest_value>
+second	<order_Scnd>
+at
+35	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+Fast food	<x_axis_label_least_value>
+is
+third	<order_3rd>
+,
+causing	<t=1_a=x>
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+of
+cases	<t=0_a=y>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+The
+graph
+details
+the
+reasons for obesity in Kiribati   <topic>
+,
+detailing
+the
+reasons	<x_axis>
+given
+as
+a
+percentage of total respondents  <y_axis>
+.
+The
+graph
+shows
+that
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+indicate
+a
+genetic cause   <x_axis_label_highest_value>
+,
+with
+35	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+citing
+lack of exercise   <x_axis_label_Scnd_highest_value>
+and	
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+citing
+fast food	<x_axis_label_least_value>
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+factors which cause obesity in Kiribati   <topic>
+and	
+the
+percentage of their contribution   <y_axis>
+.
+Fast food	<x_axis_label_least_value>
+account
+for
+just under	 <y_axis_approx>
+25	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+of
+obesity	<t=1_a=y>
+,
+followed	<order_Scnd>
+by
+lack of exercise   <x_axis_label_Scnd_highest_value>
+which
+accounts
+for
+35	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+of
+obesity	<t=1_a=y>
+,
+but
+genetics	<x_axis_label_highest_value>
+is
+the
+highest	<y_axis_highest_value>
+contributing factor   <x_axis>
+accounting
+for
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+of
+the
+cause of obesity   <x_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+depicts
+the
+percentage   <y_axis>
+of
+3	<x_axis_labels_count>
+options	<x_axis>
+for
+causing obesity in Kiribati   <topic>
+.
+It
+says
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+is
+because
+of
+fast food	<x_axis_label_least_value>
+,
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+is
+because
+of
+genetics	<x_axis_label_highest_value>
+,
+and	
+35	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+because
+of
+lack of exercise   <x_axis_label_Scnd_highest_value>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+Genetic	<x_axis_label_highest_value>
+is
+the
+biggest	<y_axis_highest_value>
+cause of obesity   <x_axis>
+in
+Kirbati	<t=1_a=b>
+at
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+Then	<order_Scnd>
+lack of exercise   <x_axis_label_Scnd_highest_value>
+at
+35	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+and	
+fast food	<x_axis_label_least_value>
+is
+the
+lowest	<y_axis_least_value>
+cause of obesity   <x_axis>
+in
+Kirbati	<t=1_a=b>
+at
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+slim majority of obesity	<group_y_Scnd_least>
+in
+Kiribati	<t=1_a=b>
+is
+caused	<t=1_a=x>
+by
+lifestyle choices	<group_Scnd_least>
+,
+with
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+caused	<t=1_a=x>
+by
+fast food	<x_axis_label_least_value>
+and	
+35	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+due
+to
+a
+lack of exercise   <x_axis_label_Scnd_highest_value>
+.
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+The
+biggest	<y_axis_highest_value>
+cause of obesity   <x_axis>
+in
+Kiribati	<t=1_a=b>
+is
+genetic tendencies   <x_axis_label_highest_value>
+,
+accounting
+for
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+Lack of exercise   <x_axis_label_Scnd_highest_value>
+is
+35	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+and	
+fast food	<x_axis_label_least_value>
+25	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+Causes of obesity in Kiribati   <topic>
+is
+seen
+here
+.
+The
+biggest	<y_axis_highest_value>
+cause   <x_axis>
+is
+genetic   <x_axis_label_highest_value>
+at
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+However
+lifestyle factors	<group_Scnd_least>
+are
+a
+larger	<y_axis_trend_up>
+contributor	<x_axis>
+with
+fast food and lack of exercise	<group_Scnd_least>
+combined
+shown
+to
+cause obesity   <x_axis>
+in
+60	<group_y_Scnd_least>
+%	<y_axis_inferred_label>
+of
+cases	<t=1_a=y>
+.
+\\n   <separator>
+This
+is
+broken
+down
+into
+lack of exercise   <x_axis_label_Scnd_highest_value>
+at
+35	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+and	
+fast food	<x_axis_label_least_value>
+at
+25	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Cause of obesity in Kiribati   <topic>
+.
+Main	<y_axis_highest_value>
+cause   <x_axis>
+is
+genetic	<x_axis_label_highest_value>
+at
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+Then	<order_Scnd>
+Lack of exercise   <x_axis_label_Scnd_highest_value>
+at
+36	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+finally   <order_last>
+fast food   <x_axis_label_least_value>
+at
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+potential causes of obesity in Kiribati   <topic>
+.
+\\n   <separator>
+There
+is
+a
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+chance
+that
+obesity	<t=1_a=y>
+is
+caused	<t=1_a=x>
+by
+fast food	<x_axis_label_least_value>
+,
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+genetic   <x_axis_label_highest_value>
+and	
+35	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+lack of exercise   <x_axis_label_Scnd_highest_value>
+.
+Overall
+obesity	<t=1_a=y>
+is
+commonly
+caused	<t=1_a=x>
+by
+genetics	<x_axis_label_highest_value>
+,
+whilst	<y_x_comparison>
+fast food	<x_axis_label_least_value>
+does
+not
+really
+have
+a
+greater
+effect
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+Obesity causes  <topic>
+genetic   <x_axis_label_highest_value>
+is
+the
+highest	<y_axis_highest_value>
+cause   <x_axis>
+at
+over	<y_axis_approx>
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+only slightly	<y_axis_trend>
+behind	<y_axis_trend_down>
+lack of exercise   <x_axis_label_Scnd_highest_value>
+and	
+fast food	<x_axis_label_least_value>
+.
+\\n   <separator>
+35   <y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+cause of obesity   <x_axis>
+is
+lack of exercise   <x_axis_label_Scnd_highest_value>
+but
+genes  <x_axis_label_highest_value>
+still
+play
+a
+major	<y_axis_highest_value>
+role	<x_axis>
+.
+\\n   <separator>
+Fast food   <x_axis_label_least_value>
+is
+at
+only	<y_axis_least_value>
+25	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+but
+only	
+10	<y_axis_inferred_value_add_v1=least_v2=Scnd>
+%	<y_axis_inferred_label>
+less	<y_axis_approx>
+than
+lack of exercise   <x_axis_label_Scnd_highest_value>
+.
+\\n   <separator>
+Although
+genetics   <x_axis_label_highest_value>
+are
+the
+highest	<y_axis_highest_value>
+cause   <x_axis>
+,
+all
+three   <x_axis_labels_count>
+come
+into
+play
+when
+determining
+a
+cause of obesity   <x_axis>
+.
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+percentages   <y_axis>
+of
+what was the cause of Obesity in Kiribati   <topic>
+.
+From
+the
+chart
+we
+see
+that
+approximately	<y_axis_approx>
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+of
+the
+cause for Obesity    <x_axis>
+was
+from
+Fast Food	<x_axis_label_least_value>
+,
+whereas  <y_x_comparison>
+35	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+of
+the
+cause   <x_axis>
+came
+from
+Lack of Exercise   <x_axis_label_Scnd_highest_value>
+.
+The
+highest	<y_axis_highest_value>
+percentage   <y_axis>
+of
+the
+cause of obesity   <x_axis>
+came
+from
+Genetic	<x_axis_label_highest_value>
+with
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+of
+causes of obesity in Kiribati   <topic>
+is
+caused	<t=1_a=x>
+by
+genetics	<x_axis_label_highest_value>
+.
+Approximately	<y_axis_approx>
+36	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+of
+obesity	<t=1_a=y>
+was
+caused	<t=1_a=x>
+by
+lack of exercise   <x_axis_label_Scnd_highest_value>
+and	
+approximately	<y_axis_approx>
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+was
+caused	<t=1_a=x>
+by
+eating fast food	<x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+This
+chart
+looked
+at
+causes of Obesity in Kiribati   <topic>
+.
+25	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+was
+attributed
+to
+fast food	<x_axis_label_least_value>
+35	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+at
+lack of exercise   <x_axis_label_Scnd_highest_value>
+.
+The
+highest	<y_axis_highest_value>
+cause   <x_axis>
+was
+genetic   <x_axis_label_highest_value>
+at
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+which
+was
+nearly	<y_axis_approx>
+twice  <y_axis_inferred_value_mul_v1=highest_v2=least>
+as
+attributable
+to
+fast food	<x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+This
+graph
+shows
+the
+findings
+of
+what causes obesity in Kiribati	<topic>
+.
+\\n   <separator>
+\\n   <separator>
+The
+highest	<y_axis_highest_value>
+percentage   <y_axis>
+was
+genetic cause   <x_axis_label_highest_value>
+at
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+Next	<order_Scnd>
+highest
+was
+lack of exercise   <x_axis_label_Scnd_highest_value>
+at
+around	<y_axis_approx>
+35	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+and	
+fast food	<x_axis_label_least_value>
+the
+lowest	<y_axis_least_value>
+,
+at
+just under	<y_axis_approx>
+25	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+This
+graph
+shows
+what causes obesity in Kirbati   <topic>
+.
+THe
+most common	<y_axis_highest_value>
+cause of obesity   <x_axis>
+is
+genetic   <x_axis_label_highest_value>
+with
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+followed	<order_Scnd>
+by
+lack of exercise   <x_axis_label_Scnd_highest_value>
+at
+36	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+and
+fast food	<x_axis_label_least_value>
+as
+25	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+<end_of_description>
+
+
+
+
+<start_of_description>
+Graph
+above
+shows
+what causes obesity in Kiribati   <topic>
+.
+The
+highest	<y_axis_highest_value>
+cause   <x_axis>
+was
+genetic   <x_axis_label_highest_value>
+at
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+lack of exercise   <x_axis_label_Scnd_highest_value>
+came
+in
+at
+35	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+and	
+the
+lowest	<y_axis_least_value>
+cause   <x_axis>
+out
+of
+3	<x_axis_labels_count>
+was
+fast food	<x_axis_label_least_value>
+at
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+<end_of_description>
+
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+causes of obesity in Kiribati   <topic>
+.
+\\n   <separator>
+The
+biggest	<y_axis_highest_value>
+cause   <x_axis>
+,
+shown
+to
+be
+responsible
+for
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+of
+cases	<t=1_a=y>
+,
+is
+genes   <x_axis_label_highest_value>
+.
+Lack of exercise   <x_axis_label_Scnd_highest_value>
+accounts
+for
+35	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+of
+obesity	<t=1_a=y>
+and	
+fast food	<x_axis_label_least_value>
+is
+the
+cause   <x_axis>
+in
+nearly   <y_axis_approx>
+25	<y_axis_inferred_least_value_approx>
+percent   <y_axis_inferred_label>
+of
+cases	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+There
+are
+three   <x_axis_labels_count>
+factors	<x_axis>
+represented
+as
+contributing
+to
+obesity	<t=1_a=y>
+in
+Kiribati	<t=1_a=b>
+.
+The
+main   <y_axis_highest_value> 
+cause   <x_axis>
+represented
+is
+genetic   <x_axis_label_highest_value>
+,
+at
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+with
+fast food	<x_axis_label_least_value>
+making
+up
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+and	
+lack of exercise   <x_axis_label_Scnd_highest_value>
+36	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+The
+causes of obesity in Kiribati   <topic>
+are
+charted
+above
+to
+show
+that
+the
+predominant   <y_axis_highest_value>
+cause of obesity   <x_axis>
+was
+found
+to
+be
+genetic   <x_axis_label_highest_value>
+at
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+Fast food	<x_axis_label_least_value>
+was
+the
+lowest	<y_axis_least_value>
+charted
+percentage   <y_axis>
+at
+24	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+with
+lack of exercise    <x_axis_label_Scnd_highest_value>
+only	<y_axis_least_value>
+contributing
+35	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+towards
+the
+outcome
+.
+<end_of_description>
+
+
+
+
+<start_of_description> [type01]
+This
+chart
+indicates
+three   <x_axis_labels_count>
+possible
+causes of obesity	<x_axis>
+in
+the
+Kiribati population	<t=1_a=b>
+.
+It
+indicates
+the
+main	<y_axis_highest_value>
+cause of obesity   <x_axis>
+was
+attributed
+to
+genetic cause   <x_axis_label_highest_value>
+with
+40	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+of
+the
+sample
+identifying
+that
+as
+the
+main   <y_axis_highest_value>
+reason	<x_axis>
+.
+Only	<y_axis_least_value>
+25	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+indicated
+fast food	<x_axis_label_least_value>
+contributed
+to
+the
+problem
+.
+<end_of_description>

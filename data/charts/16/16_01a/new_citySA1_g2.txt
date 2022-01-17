@@ -1,0 +1,1199 @@
+<start_of_description>
+The
+chart
+displays
+the warmest cities in South America	  <topic>
+.
+There
+are
+data
+for
+six	<x_axis_labels_count>
+cities	<x_axis>
+:
+Santiago	<x_axis_label_5th_highest_value>
+,
+Lima	<x_axis_label_3rd_highest_value>
+,
+Bogota	<x_axis_label_least_value>
+,
+Montevideo	<x_axis_label_Scnd_highest_value>
+,
+Belem	<x_axis_label_highest_value>
+and	 
+Cordoba	<x_axis_label_4th_highest_value>
+with
+temperatures	<y_axis>
+reported
+in
+degrees	centigrade  <y_axis_inferred_label>
+.
+From	 
+the
+chart
+we
+can
+see
+that
+Belem	<x_axis_label_highest_value>
+had
+the
+highest	<y_axis_highest_value>
+recorded
+temperature	<y_axis>
+at
+36	<y_axis_highest_value_val>
+degrees	<y_axis_inferred_label>
+and
+Bogota	<x_axis_label_least_value>
+the
+lowest	<y_axis_least_value>
+temperature	<y_axis>
+of
+16	<y_axis_least_value_val>
+.
+The
+remaining
+cities	<x_axis>
+all
+had
+temperatures	<y_axis>
+of
+20	<y_axis_5th_highest_val>
+degrees	<y_axis_inferred_label>
+or
+above	<y_axis_trend_up>
+.
+Montevideo	<x_axis_label_Scnd_highest_value>
+had
+the
+overall
+second	<order_Scnd>
+highest	 
+temperature	<y_axis>
+of
+all
+six	<x_axis_labels_count>
+cities	<x_axis>
+,
+recording
+a
+temperature	<y_axis>
+of
+29	<y_axis_Scnd_highest_val>
+degrees	<y_axis_inferred_label>
+.
+Lima	<x_axis_label_3rd_highest_value>
+25	<y_axis_3rd_highest_val>
+degrees	<y_axis_inferred_label>
+,
+Cordoba	<x_axis_label_4th_highest_value>
+23	<y_axis_4th_highest_val>
+degrees	<y_axis_inferred_label>
+and	 
+Santiago	<x_axis_label_5th_highest_value>
+20	<y_axis_5th_highest_val>
+degrees	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the warmest cities in South America	  <topic>
+by
+temperature	<y_axis>
+.
+Belem	<x_axis_label_highest_value>
+proved
+to
+be
+the
+warmest	<y_axis_highest_value>
+city	<x_axis>
+at
+36	<y_axis_highest_value_val>
+C	<y_axis_inferred_label>
+.
+Followed by   <order_Scnd>
+Montevideo	<x_axis_label_Scnd_highest_value>
+at
+29	<y_axis_Scnd_highest_val>
+C	<y_axis_inferred_label>
+,
+Lima	<x_axis_label_3rd_highest_value>
+at
+25	<y_axis_3rd_highest_val>
+C	<y_axis_inferred_label>
+,
+Cordoba	<x_axis_label_4th_highest_value>
+at
+24	<y_axis_inferred_4th_highest_value_approx>
+C	<y_axis_inferred_label>
+,
+Santiago	<x_axis_label_5th_highest_value>
+at
+20	<y_axis_5th_highest_val>
+C	<y_axis_inferred_label>
+and
+with
+the
+coolest  <y_axis_least_value>
+city	<x_axis>
+Bogota	<x_axis_label_least_value>
+at
+16	<y_axis_least_value_val>
+C	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Belem	<x_axis_label_highest_value>
+is
+the
+warmest	<y_axis_highest_value>
+city	<x_axis>
+in
+south america	<t=1_a=b>
+with
+a
+temperature	<y_axis>
+of
+36	<y_axis_highest_value_val>
+degrees	<y_axis_inferred_label>
+.
+on
+the
+other
+hand
+,
+Bogota	<x_axis_label_least_value>
+is
+the
+coldest   <y_axis_least_value>
+with
+16	<y_axis_least_value_val>
+degrees	<y_axis_inferred_label>
+.
+Santiago	<x_axis_label_5th_highest_value>
+,
+Lima	<x_axis_label_3rd_highest_value>
+and	 
+Cordoba	<x_axis_label_4th_highest_value>
+have
+average	<y_axis_approx>
+temperatures	<y_axis>
+of
+20	<y_axis_5th_highest_val>
+,
+25	<y_axis_3rd_highest_val>
+and	 
+23	<y_axis_4th_highest_val>
+degrees	<y_axis_inferred_label>
+respectively
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+presents
+the warmest cities in South America	  <topic>
+.
+Here
+,
+Belem	<x_axis_label_highest_value>
+is
+the
+warmest	  <y_axis_highest_value>
+at
+approx	<y_axis_approx>
+36	<y_axis_highest_value_val>
+degrees	<y_axis_inferred_label>
+,
+followed by  <order_Scnd>
+Montevideo	<x_axis_label_Scnd_highest_value>
+at
+approx	<y_axis_approx>
+.
+28	<y_axis_inferred_Scnd_highest_value_approx>
+degrees	<y_axis_inferred_label>
+and	  
+Lima	<x_axis_label_3rd_highest_value>
+at
+25	<y_axis_3rd_highest_val>
+degrees	<y_axis_inferred_label>
+.
+Cordoba	<x_axis_label_4th_highest_value>
+is
+at
+approx	<y_axis_approx>
+.
+22.5	<y_axis_inferred_4th_highest_value_approx>
+degrees	<y_axis_inferred_label>
+,
+Santiago	<x_axis_label_5th_highest_value>
+at
+approx	<y_axis_approx>
+.
+20	<y_axis_5th_highest_val>
+degrees	<y_axis_inferred_label>
+and	 
+lastly	<order_last>
+Bogota	<x_axis_label_least_value>
+appears
+to
+be
+the
+least warmest	<y_axis_least_value>
+out
+of
+the 
+warmest <t=1_a=b>
+cities <x_axis>
+in 
+South America	  <t=1_a=b>
+at
+approx	<y_axis_approx>
+.
+16	<y_axis_least_value_val>
+degrees	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+With
+temperatures	<y_axis>
+soaring  <y_axis_trend_up>
+past
+35	<y_axis_inferred_highest_value_approx>
+degrees celsius	<y_axis_inferred_label>
+for
+Belem	<x_axis_label_highest_value>
+this
+is
+by far	<y_axis_trend>
+the
+Warmest	<y_axis_highest_value>
+City	<x_axis>
+in
+South America	<t=1_a=b>
+,
+followed by   <order_Scnd>
+a
+drop	<y_axis_trend_down>
+in
+temperature
+second  <order_Scnd>
+place
+to
+Montevideo	<x_axis_label_Scnd_highest_value>F
+,
+Lima	<x_axis_label_3rd_highest_value>
+takes
+third	<order_3rd>
+place
+,
+closely	<y_axis_trend>
+followed by  <order_4th>
+Cordoba	<x_axis_label_4th_highest_value>
+,
+cooling
+down
+to
+a
+20	<y_axis_5th_highest_val>
+degrees celsius	<y_axis_inferred_label>
+for
+Santiago	<x_axis_label_5th_highest_value>
+,
+and
+a
+practically freezing   <interpretation>
+in
+comparison	<y_x_comparison>
+to
+Belem	<x_axis_label_highest_value>
+we
+have
+Bogota	<x_axis_label_least_value>
+with
+16	<y_axis_least_value_val>
+degrees	<y_axis_inferred_label>
+.
+bbbrrrrr   <interpretation>
+<end_of_description>
+
+
+
+<start_of_description>
+This
+bar
+chart
+shows
+the
+temperatures	<y_axis>
+of
+the warmest cities in South America	  <topic>
+.
+\n\\n	<separator>
+The
+coolest  <y_axis_least_value>
+city	<x_axis>
+shown
+is
+Bogota	<x_axis_label_least_value>
+,
+at
+16	<y_axis_least_value_val>
+degrees celsius	<y_axis_inferred_label>
+,
+the
+warmest  <y_axis_highest_value>
+city	<x_axis>
+shown
+is
+Belem	<x_axis_label_highest_value>
+,
+at
+36	<y_axis_highest_value_val>
+degrees celsius	<y_axis_inferred_label>
+.
+\n\\n	<separator>
+The
+cities	<x_axis>
+in
+order
+of
+temperature	<y_axis>
+,
+from	<y_x_comparison>
+coolest   <y_axis_highest_value>
+to
+warmest	  <y_axis_least_value>
+are
+;
+Bogota	<x_axis_label_least_value>
+,
+Santiago	<x_axis_label_5th_highest_value>
+,
+Cordoba	<x_axis_label_4th_highest_value>
+,
+Lima	<x_axis_label_3rd_highest_value>
+,
+Montevideo	<x_axis_label_Scnd_highest_value>
+and	 
+Belem	<x_axis_label_highest_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the warmest cities in South America	  <topic>
+.
+\n	<separator>
+It
+demonstrates
+that
+Belem	<x_axis_label_highest_value>
+is
+the
+warmest	<y_axis_highest_value>
+,
+with
+a
+temperature	<y_axis>
+of
+36	<y_axis_highest_value_val>
+C	<y_axis_inferred_label>
+,
+while	<y_x_comparison>
+Bogota	<x_axis_label_least_value>
+is
+the
+coldest   <y_axis_least_value>
+,
+with
+a
+temperature	<y_axis>
+of
+16	<y_axis_least_value_val>
+C	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+displays
+the cities with the warmest temperatures in South America	  <topic> 
+.
+Belem	<x_axis_label_highest_value>
+has
+the
+highest	<y_axis_highest_value>
+temperature	<y_axis>
+followed	<order_Scnd>
+closely	<y_axis_trend>
+by
+Montevideo	<x_axis_label_Scnd_highest_value>
+and	 
+Lima	<x_axis_label_3rd_highest_value>
+,
+with
+Cordoba	<x_axis_label_4th_highest_value>
+,
+Santiago	<x_axis_label_5th_highest_value>
+and	 
+Bogata
+in
+the
+lower	<y_axis_trend_down>
+half
+of
+the
+table
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+the warmest cities in South America	  <topic>
+.
+Belem	<x_axis_label_highest_value>
+is
+the
+warmest	<y_axis_highest_value>
+at
+36	<y_axis_highest_value_val>
+degrees	<y_axis_inferred_label>
+,
+followed by   <order_Scnd>
+Montevideo	<x_axis_label_Scnd_highest_value>
+at
+29	<y_axis_Scnd_highest_val>
+degrees	<y_axis_inferred_label>
+,
+and
+Lima	<x_axis_label_3rd_highest_value>
+at
+35	<y_axis_inferred_highest_value_approx>
+degrees	<y_axis_inferred_label>
+.
+Next	<order_4th>
+is
+Cordoba	<x_axis_label_4th_highest_value>
+at
+23	<y_axis_4th_highest_val>
+degrees	<y_axis_inferred_label>
+,
+followed by   <order_5th>
+Santiago	<x_axis_label_5th_highest_value>
+at
+20	<y_axis_5th_highest_val>
+degrees	<y_axis_inferred_label>
+and	 
+finally	<order_last>
+Bogota	<x_axis_label_least_value>
+at
+16	<y_axis_least_value_val>
+degrees	<y_axis_inferred_label>
+(
+approximate	<y_axis_approx>
+)
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+the
+temperature	<y_axis>
+in
+six	<x_axis_labels_count>
+cities	<x_axis>
+in
+South America	<t=1_a=b>
+.
+Belem	<x_axis_label_highest_value>
+is
+the
+warmest	<y_axis_highest_value>
+at
+just above	<y_axis_approx>
+35	<y_axis_inferred_highest_value_approx>
+C	<y_axis_inferred_label>
+.
+This
+is
+followed by   <order_Scnd>
+Montevideo	<x_axis_label_Scnd_highest_value>
+at
+just under	<y_axis_approx>
+30	<y_axis_inferred_Scnd_highest_value_approx>
+C	<y_axis_inferred_label>
+.
+Lima	<x_axis_label_3rd_highest_value>
+'s
+temperature	<y_axis>
+is
+25	<y_axis_3rd_highest_val>
+C	<y_axis_inferred_label>
+,
+Cordoba	<x_axis_label_4th_highest_value>
+between  <y_axis_approx>
+20	<y_axis_5th_highest_val>
+C	<y_axis_inferred_label>
+and	 
+25	<y_axis_3rd_highest_val>
+C	<y_axis_inferred_label>
+and	 
+Santiago	<x_axis_label_5th_highest_value>
+20	<y_axis_5th_highest_val>
+C	<y_axis_inferred_label>
+.
+The
+coolest   <y_axis_least_value>
+city	<x_axis>
+is
+Bogota	<x_axis_label_least_value>
+at
+just above	<y_axis_approx>
+15	<y_axis_inferred_least_value_approx>
+C	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+describes
+the warmest cities in South America	  <topic>
+.
+The
+warmest	<y_axis_highest_value>
+city	<x_axis>
+is
+Belem	<x_axis_label_highest_value>
+,
+by
+a
+significant	margin <y_axis_trend>
+.
+Montevideo	<x_axis_label_Scnd_highest_value>
+is
+next	<order_Scnd>
+warmest	<y_axis_highest_value>
+at
+29	<y_axis_Scnd_highest_val>
+degrees	<y_axis_inferred_label>
+,
+followed by   <order_3rd>
+Lima	<x_axis_label_3rd_highest_value>
+(
+25	<y_axis_3rd_highest_val>
+degrees	<y_axis_inferred_label>
+)
+,
+Cordoba	<x_axis_label_4th_highest_value>
+23	<y_axis_4th_highest_val>
+degrees	<y_axis_inferred_label>
+)
+and then	<order_last>
+Santiago	<x_axis_label_5th_highest_value>
+(
+25	<y_axis_3rd_highest_val>
+degrees	<y_axis_inferred_label>
+)
+.
+The
+coolest  <y_axis_least_value>
+city	<x_axis>
+is
+Bogota	<x_axis_label_least_value>
+,
+at
+16	<y_axis_least_value_val>
+degrees	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+warmest	<y_axis_highest_value>
+city	<x_axis>
+in
+south america	<t=1_a=b>
+is
+Belem	<x_axis_label_highest_value>
+at
+36	<y_axis_highest_value_val>
+degress  <y_axis_inferred_label>
+,
+next	<order_Scnd>
+is
+montevideo	<x_axis_label_Scnd_highest_value>
+at
+29	<y_axis_Scnd_highest_val>
+degress  <y_axis_inferred_label>
+,
+then	<order_3rd>
+lima	<x_axis_label_3rd_highest_value>
+at
+25	<y_axis_3rd_highest_val>
+degrees	<y_axis_inferred_label>
+,
+cordoba	<x_axis_label_4th_highest_value>
+is
+23	<y_axis_4th_highest_val>
+degress  <y_axis_inferred_label>
+,
+santiago	<x_axis_label_5th_highest_value>
+is
+20	<y_axis_5th_highest_val>
+degress  <y_axis_inferred_label>  
+and
+last	<y_axis_least_value>
+is
+bogota	<x_axis_label_least_value>
+at
+16	<y_axis_least_value_val>
+degrees	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+temperature	<y_axis>
+in
+degrees	Celsius  <y_axis_inferred_label>
+in
+6	<x_axis_labels_count>
+South American	<t=1_a=b>
+cities	<x_axis>
+.
+The
+warmest	<y_axis_highest_value>
+is
+Belem	<x_axis_label_highest_value>
+with
+36	<y_axis_highest_value_val>
+,
+followed by   <order_Scnd>
+Montevideo	<x_axis_label_Scnd_highest_value>
+with
+29	<y_axis_Scnd_highest_val>
+,
+Lima	<x_axis_label_3rd_highest_value>
+with
+25	<y_axis_3rd_highest_val>
+,
+Cordoba	<x_axis_label_4th_highest_value>
+with
+23	<y_axis_4th_highest_val>
+,
+Santiago	<x_axis_label_5th_highest_value>
+with
+20	<y_axis_5th_highest_val>
+,
+and 
+finally	<order_last>
+Bogota	<x_axis_label_least_value>
+with
+16	<y_axis_least_value_val>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Belem	<x_axis_label_highest_value>
+is
+clearly 
+the
+warmest	<y_axis_highest_value>
+city	<x_axis>
+recorded
+here
+recording
+temperature	<y_axis>
+of
+more than	<y_axis_approx>
+double  <y_axis_inferred_value_mul_v1=highest_v2=least>
+the
+coolest  <y_axis_least_value>
+city	<x_axis>
+of
+Bogota	<x_axis_label_least_value>
+at
+16	<y_axis_least_value_val>
+C	<y_axis_inferred_label>
+and	 
+36	<y_axis_highest_value_val>
+C	<y_axis_inferred_label>
+respectively
+whenever the period recorded is , presumably in Winter given the normal summer temperatures of all of these cities !  <interpretation>
+<end_of_description>
+
+
+
+<start_of_description>
+Belem	<x_axis_label_highest_value>
+is
+the
+warmest	<y_axis_highest_value>
+city	<x_axis>
+in
+South America	<t=1_a=b>
+with
+an
+average 
+over	<y_axis_approx>
+35	<y_axis_inferred_highest_value_approx>
+.
+Bogota	<x_axis_label_least_value>
+was
+the
+least warmest	<y_axis_least_value>
+at
+just over	<y_axis_approx>
+15	<y_axis_inferred_least_value_approx>
+<end_of_description>
+
+
+
+<start_of_description>
+Belem	<x_axis_label_highest_value>
+has
+above	<y_axis_approx>
+35	<y_axis_inferred_highest_value_approx>
+degree	<y_axis_inferred_label>
+temperature	<y_axis>
+.
+this
+is
+the
+highest	<y_axis_highest_value>
+among
+the
+cities	<x_axis>
+in
+South America	<t=1_a=b>
+.
+bogota	<x_axis_label_least_value>
+has
+over	<y_axis_approx>
+15	<y_axis_inferred_least_value_approx>
+degree	<y_axis_inferred_label>
+temperature	<y_axis>
+.
+Cordoba	<x_axis_label_4th_highest_value>
+has
+over	<y_axis_approx>
+20	<y_axis_5th_highest_val>
+degree	<y_axis_inferred_label>
+temperature	<y_axis>
+,
+Santiago	<x_axis_label_5th_highest_value>
+with
+20	<y_axis_5th_highest_val>
+degree	<y_axis_inferred_label>
+temperature	<y_axis>
+,
+while	<y_x_comparison>
+Montevideo	<x_axis_label_Scnd_highest_value>
+is
+close to  <y_axis_approx>
+30	<y_axis_inferred_Scnd_highest_value_approx>
+degree	<y_axis_inferred_label>
+temperature	<y_axis>
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the warmest cities in South America	  <topic>
+,
+measured
+in
+degrees celsius	<y_axis_inferred_label>
+.
+The
+warmest	<y_axis_highest_value>
+is
+Belem	<x_axis_label_highest_value>
+at
+approx	<y_axis_approx>
+36	<y_axis_highest_value_val>
+degrees	<y_axis_inferred_label>
+,
+followed by   <order_Scnd>
+Montevideo	<x_axis_label_Scnd_highest_value>
+at
+29	<y_axis_Scnd_highest_val>
+degrees	<y_axis_inferred_label>
+,
+Lima	<x_axis_label_3rd_highest_value>
+with
+25	<y_axis_3rd_highest_val>
+degrees	<y_axis_inferred_label>
+,
+Cordoba	<x_axis_label_4th_highest_value>
+at
+23	<y_axis_4th_highest_val>
+degrees	<y_axis_inferred_label>
+,
+Santiago	<x_axis_label_5th_highest_value>
+at
+20	<y_axis_5th_highest_val>
+degrees	<y_axis_inferred_label>
+and	 
+finally	<order_last>
+Bogota	<x_axis_label_least_value>
+comes
+in
+coldest   <y_axis_least_value>
+at
+approx	<y_axis_approx>
+16	<y_axis_least_value_val>
+degrees celsius	<y_axis_inferred_label>
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the
+temperature	<y_axis>
+across
+6	<x_axis_labels_count>
+different
+cities	<x_axis>
+in
+South America	<t=1_a=b>
+,
+from	<y_x_comparison>
+which
+you
+can
+see
+which
+is
+warmest	<t=1_a=y>
+.
+Belem	<x_axis_label_highest_value>
+is
+the
+warmest	<y_axis_highest_value>
+city	<x_axis>
+out
+of
+Santiago	<x_axis_label_5th_highest_value>
+,
+Lima	<x_axis_label_3rd_highest_value>
+,
+Bogota	<x_axis_label_least_value>
+,
+Montevideo	<x_axis_label_Scnd_highest_value>
+and 
+Cordoba	<x_axis_label_4th_highest_value>
+.
+Belem	<x_axis_label_highest_value>
+'s
+temperature	<y_axis>
+is
+around	<y_axis_approx>
+36	<y_axis_highest_value_val>
+degrees celsius	<y_axis_inferred_label>
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+shows
+a
+list
+of
+South American	<t=1_a=b>
+countries
+and
+their
+respective
+warmest	<y_axis_highest_value>
+temperatures	<y_axis>
+.
+It
+shows
+that
+Belem	<x_axis_label_highest_value>
+had
+the
+highest	<y_axis_highest_value>
+temperature	<y_axis>
+at
+36	<y_axis_highest_value_val>
+degrees	celcius   <y_axis_inferred_label>
+.
+Montevideo	<x_axis_label_Scnd_highest_value>
+was
+the
+2nd	<order_Scnd>
+highest	<y_axis_highest_value>
+at
+29	<y_axis_Scnd_highest_val>
+.
+The
+lowest	<y_axis_least_value>
+temperature	<y_axis>
+could
+be
+found
+in
+Bogota	<x_axis_label_least_value>
+at
+16	<y_axis_least_value_val>
+degrees	<y_axis_inferred_label>
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the warmest cities in South America	  <topic>
+.
+\n	<separator>
+You
+can
+see
+that
+Belem	<x_axis_label_highest_value>
+is
+the
+warmest	<y_axis_highest_value>
+city	<x_axis>
+at
+36	<y_axis_highest_value_val>
+degrees	<y_axis_inferred_label>
+C	<y_axis>
+,
+followed by   <order_Scnd>
+Montevideo	<x_axis_label_Scnd_highest_value>
+at
+29	<y_axis_Scnd_highest_val>
+degrees C.  <y_axis_inferred_label>
+Bogota	<x_axis_label_least_value>
+is
+the
+coolest  <y_axis_least_value>
+city	<x_axis>
+at
+16	<y_axis_least_value_val>
+degrees C	<y_axis_inferred_label> 
+and	 
+Santiago	<x_axis_label_5th_highest_value>
+is
+the
+second	<order_Scnd>
+coolest  <y_axis_least_value>
+city	<x_axis>
+at
+20	<y_axis_5th_highest_val>
+degrees	C.   <y_axis_inferred_label>
+\n	<separator>
+There
+is
+a
+difference
+of
+20	<y_axis_inferred_value_add_v1=least_v2=highest>
+degrees	C <y_axis_inferred_label> 
+between
+the
+coolest  <y_axis_least_value>
+and
+the
+warmest	<y_axis_highest_value>
+city	<x_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+In
+South America	<t=1_a=b>
+the
+warmest	<y_axis_highest_value>
+city	<x_axis>
+appears
+to
+be
+Belem	<x_axis_label_highest_value>
+at
+36	<y_axis_highest_value_val>
+degrees	Centigrade   <y_axis_inferred_label>
+.
+The
+coolest  <y_axis_least_value>
+is
+Bogota	<x_axis_label_least_value>
+recording
+17	<y_axis_inferred_least_value_approx>
+degrees	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+the
+temperatures	<y_axis>
+of
+the
+six	<x_axis_labels_count>
+warmest	<t=1_a=b>
+cities	<x_axis>
+in
+South America	<t=1_a=b>
+.
+The
+warmest	<y_axis_highest_value>
+is
+Belem	<x_axis_label_highest_value>
+,
+at
+36	<y_axis_highest_value_val>
+Degrees Celcius   <y_axis_inferred_label>
+,
+followed by   <order_Scnd>
+Montevideo	<x_axis_label_Scnd_highest_value>
+,
+Lima	<x_axis_label_3rd_highest_value>
+,
+Cordoba	<x_axis_label_4th_highest_value>
+,
+Santiato
+and	 
+finally	<order_last>
+Bogota	<x_axis_label_least_value>
+at
+16	<y_axis_least_value_val>
+Degrees   <y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+compares 
+the
+temperature	<y_axis>
+of
+the
+warmest South American	<t=1_a=b>
+cities	<x_axis>
+in
+degrees Celsius 	<y_axis_inferred_label>
+.
+The
+warmest	<y_axis_highest_value>
+city	<x_axis>
+,
+Belem	<x_axis_label_highest_value>
+(
+36	<y_axis_highest_value_val>
+degree C	<y_axis>
+)
+,
+is
+about	<y_axis_approx>
+2.2 times	<y_axis_inferred_value_mul_v1=highest_v2=least>
+warmer	<t=1_a=b>
+than	<y_x_comparison>
+the
+coldest   <y_axis_least_value>
+city	<x_axis>
+Bogota	<x_axis_label_least_value>
+(
+16	<y_axis_least_value_val>
+degree C	<y_axis>
+)
+.
+The
+other
+city	<x_axis>
+temperatures	<y_axis>
+are
+,
+Santiago	<x_axis_label_5th_highest_value>
+(
+20	<y_axis_5th_highest_val>
+degree C	<y_axis>
+)
+,
+Lima	<x_axis_label_3rd_highest_value>
+(
+25	<y_axis_3rd_highest_val>
+degree C	<y_axis>
+)
+,
+Montevideo	<x_axis_label_Scnd_highest_value>
+(
+29	<y_axis_Scnd_highest_val>
+degree C	<y_axis>
+)
+and
+Cordoba	<x_axis_label_4th_highest_value>
+(
+23)
+degree C	<y_axis>
+.
+<end_of_description>
+
+
+

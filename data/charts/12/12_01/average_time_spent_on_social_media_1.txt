@@ -1,0 +1,1295 @@
+<start_of_description>
+This
+chart
+shows
+the
+average time spent on social media daily, according to age group, in Maputo   <topic>
+.
+According
+to
+the
+chart
+,
+age group <x_axis>
+35-44   <x_axis_label_least_value>
+spend
+the
+least	<y_axis_least_value>
+time   <y_axis>
+with
+78	<y_axis_inferred_least_value_approx>
+minutes  <y_axis_inferred_label>
+,
+closely	
+followed	<order_Scnd>
+by
+25-34   <x_axis_label_4th_highest_value>
+who
+spend
+79	<y_axis_inferred_4th_highest_value_approx>
+minutes  <y_axis_inferred_label>
+.
+Then	<order_3rd>
+55-64   <x_axis_label_3rd_highest_value>
+who
+spend
+110	<y_axis_3rd_highest_val>
+minutes  <y_axis_inferred_label>
+.
+After that <order_4th>
+it
+'
+s
+age group <x_axis>
+15-24  <x_axis_label_Scnd_highest_value>
+who
+spend
+125	<y_axis_Scnd_highest_val>
+minutes   <y_axis_inferred_label>
+and
+then	<order_last>
+ages	<x_axis>
+45-54   <x_axis_label_highest_value>
+,
+who
+spend
+150	<y_axis_highest_value_val>
+minutes  <y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+Average time (in minutes) spent on social media daily in Maputo <topic>
+.
+\\n  <separator>
+\\n  <separator>
+The
+age groups <x_axis>
+that
+spend
+the
+least	<y_axis_least_value>
+time	<y_axis>
+on
+social media	 <t=1_a=y>
+are
+the
+groups aged	<x_axis>
+between 25-34 and 35-44 	<group_4th_least>
+,
+while	<y_x_comparison>
+users aged	<x_axis>
+45-54   <x_axis_label_highest_value>
+spend
+the
+most	<y_axis_highest_value>
+time	<y_axis>
+on
+social media	<t=1_a=y>
+at
+150	<y_axis_highest_value_val>
+minutes <y_axis_inferred_label>
+a day	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+The
+graph
+displays
+the
+average time spent on social media every day by people of different ages in Maputo	<topic>
+.
+The
+youngest group	<x_axis_label_Scnd_highest_value>
+,
+age <x_axis>
+15-24  <x_axis_label_Scnd_highest_value>
+,
+spend
+just over	<y_axis_approx>
+120	<y_axis_inferred_Scnd_highest_value_approx>
+minutes   <y_axis_inferred_label>
+a
+day	<t=1_a=y>
+on
+social media	<t=1_a=y>
+.
+Only	
+the
+45-54 years old   <x_axis_label_highest_value>
+spend
+longer	<y_axis_trend_up>
+-	
+roughly <y_axis_approx>
+150	<y_axis_highest_value_val>
+minutes   <y_axis_inferred_label>
+a day	<t=1_a=y>
+.
+The
+25-34 age group , and the 35-44 age group  <group_4th_least>
+,
+both
+spent
+roughly <y_axis_approx>
+75	<group_y_4th_least>
+minutes   <y_axis_inferred_label>
+a
+day	<t=1_a=y>
+on
+social media  <t=1_a=y>
+,
+where
+55-64 year olds	<x_axis_label_3rd_highest_value>
+average
+110	<y_axis_3rd_highest_val>
+minutes  <y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+
+
+<start_of_description>
+The
+graph
+details
+the
+amount of time spent on social media daily by residents of maputo  <topic>
+.
+\\n  <separator>
+The
+graph
+is
+broken
+down
+by
+age group	<x_axis>
+showing
+average number of minutes	<y_axis>
+spent
+per
+group   <x_axis>
+.
+Ages <x_axis>
+45-54   <x_axis_label_highest_value>
+showed
+the
+highest	<y_axis_highest_value>
+daily usage   <y_axis>
+averaging	<t=1_a=y>
+150	<y_axis_highest_value_val>
+minutes  <y_axis_inferred_label>
+,
+while <y_x_comparison>
+the
+35-44   <x_axis_label_least_value>
+age group <x_axis>
+showed
+the
+least	<y_axis_least_value>
+,
+averaging
+just over	<y_axis_approx>
+70	<y_axis_inferred_least_value_approx>
+minutes  <y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+average time spent on social media daily in Maputo within different age groups <topic>
+varying
+from	<x_axis_range_start>
+age  <x_axis>
+15	 <x_axis_label_least_value>
+to   <x_axis_range_end>
+64     <x_axis_label_highest_value>
+.
+\\n  <separator>
+\\n  <separator>
+From
+the
+chart
+,
+we
+can
+see
+that
+those
+aged 15-24  <x_axis_label_Scnd_highest_value>
+spend
+just over	<y_axis_approx>
+120	<y_axis_inferred_Scnd_highest_value_approx>
+minutes   <y_axis_inferred_label>
+on
+social media  <t=1_a=y>
+.
+Those
+aged 25-34 and 35-44	<group_4th_least>
+spend
+much less	<slope_down>
+time  <y_axis>
+with
+just under	<y_axis_approx>
+80	<group_y_4th_least>
+minutes   <y_axis_inferred_label>
+on
+social media  <t=1_a=y>
+.
+\\n  <separator>
+\\n  <separator>
+This
+increases	<slope_up>
+largely   <y_axis_trend>
+with
+those
+between	age 45-54   <x_axis_label_highest_value>
+spending
+the
+most	<y_axis_highest_value>
+time   <y_axis>
+on
+social media  <t=1_a=y>
+,
+about	<y_axis_approx>
+150	<y_axis_highest_value_val>
+minutes <y_axis_inferred_label>
+.
+\\n  <separator>
+\\n  <separator>
+Lastly	<order_last>
+,
+this
+declines  <slope_down>
+largely  <y_axis_trend>
+with
+those
+between	55-64   <x_axis_label_3rd_highest_value>
+who
+spend
+about	<y_axis_approx>
+110	<y_axis_3rd_highest_val>
+on
+social media  <t=1_a=y>
+.
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+The
+graph
+depicts
+average time (in minutes) spent on social media daily, in Maputo, split by age groups <topic>
+.
+Ages  <x_axis>
+15-24  <x_axis_label_Scnd_highest_value>
+spent
+122	<y_axis_inferred_Scnd_highest_value_approx>
+minutes   <y_axis_inferred_label>
+daily	<t=1_a=y>
+,
+ages   <x_axis>
+25-34   <x_axis_label_4th_highest_value>
+spent
+77	<y_axis_inferred_4th_highest_value_approx>
+minutes   <y_axis_inferred_label>
+daily	<t=1_a=y>
+,
+ages   <x_axis>
+35-44   <x_axis_label_least_value>
+spent
+73	<y_axis_inferred_least_value_approx>
+minutes   <y_axis_inferred_label>
+daily	<t=1_a=y>
+,
+ages   <x_axis>
+45-54   <x_axis_label_highest_value>
+spent
+144	<y_axis_inferred_highest_value_approx>
+minutes   <y_axis_inferred_label>
+daily	<t=1_a=y>
+,
+and
+ages   <x_axis>
+55-64   <x_axis_label_3rd_highest_value>
+spent
+104	<y_axis_inferred_3rd_highest_value_approx>
+minutes   <y_axis_inferred_label>
+daily	<t=1_a=y>
+.
+Overall
+,
+ages   <x_axis>
+45-54   <x_axis_label_highest_value>
+spent
+the
+most	<y_axis_highest_value>
+time	<y_axis>
+on
+social media	<t=1_a=y>
+daily	<t=1_a=y>
+,
+compared	<y_x_comparison>
+to
+the
+least	<y_axis_least_value>
+amount of time   <y_axis>
+being
+spent
+by
+ages 25-34 and ages 35-44	<group_4th_least>
+equally	<y_axis_trend>
+.
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+This
+chart
+shows
+that
+people aged 25-44	<group_4th_least> 
+are
+spending
+the
+least	<y_axis_least_value>
+amount of minutes	<y_axis>
+on
+social media	<t=1_a=y>
+,
+at
+just under	<y_axis_approx>
+80	<group_y_4th_least>
+minutes   <y_axis_inferred_label>
+per
+day	<t=1_a=y>
+.
+\\n  <separator>
+\\n  <separator>
+Whereas  <y_x_comparison>
+those
+aged
+45-54   <x_axis_label_highest_value>
+are
+spending
+the
+most	<y_axis_highest_value>
+time	<y_axis>
+on
+social media   <t=1_a=y>
+at
+150	<y_axis_highest_value_val>
+minutes   <y_axis_inferred_label>
+per
+day	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+average time spent on social media by age group in Maputo   <topic>
+.
+\\n  <separator>
+From
+the
+ages   <x_axis>
+of
+15-24  <x_axis_label_Scnd_highest_value>
+an
+average <t=1_a=y>
+of
+124	<y_axis_inferred_Scnd_highest_value_approx>
+minutes   <y_axis_inferred_label>
+are
+spent
+using
+social media   <t=1_a=y>
+before
+a
+distinct
+drop off   <slope_down>
+to
+76	<group_y_4th_least>
+minutes   <y_axis_inferred_label>
+for
+people aged 25-34 and 35-44  <group_4th_least>
+.
+\\n  <separator>
+At
+the
+ages   <x_axis>
+of
+45-54   <x_axis_label_highest_value>
+the
+usage	<t=1_a=y>
+reaches
+its
+highest	<y_axis_highest_value>
+at
+152	<y_axis_inferred_highest_value_approx>
+minutes   <y_axis_inferred_label>
+per
+day	<t=1_a=y>
+,
+before
+again
+dropping down  <slope_down>
+to
+112	<y_axis_inferred_3rd_highest_value_approx>
+minutes   <y_axis_inferred_label>
+for
+ages   <x_axis>
+55-64   <x_axis_label_3rd_highest_value>
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+In
+Maputo	<t=1_a=b>
+persons	<t=1_a=x>
+of
+45-54   <x_axis_label_highest_value>
+spend
+around	<y_axis_approx>
+150	<y_axis_highest_value_val>
+minutes   <y_axis_inferred_label>
+daily	<t=1_a=y>
+on
+social media	<t=1_a=y>
+,
+more	<y_axis_trend_up>
+than
+any
+other
+age group <x_axis>
+.
+Next	<order_Scnd>
+are
+15-24  <x_axis_label_Scnd_highest_value>
+with
+125	<y_axis_Scnd_highest_val>
+minutes  <y_axis_inferred_label>
+,
+followed	<order_3rd>
+by
+55-64   <x_axis_label_3rd_highest_value>
+with
+110	<y_axis_3rd_highest_val>
+minutes  <y_axis_inferred_label>
+.
+25-34   <x_axis_label_4th_highest_value>
+spend
+75	<y_axis_inferred_least_value_approx>
+minutes  <y_axis_inferred_label>
+,
+about	<y_axis_approx>
+the
+same
+as
+35-44   <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Daily social media use by time in Maputo <topic>
+is
+shown
+here
+by
+age group <x_axis>
+. 
+The
+25-34 and 35-44  <group_4th_least>
+age groups <x_axis>
+are
+very
+similar
+at
+around	<y_axis_approx>
+75	<group_y_4th_least>
+minutes  <y_axis_inferred_label>
+.
+\\n  <separator>
+This
+is
+a
+drop off <slope_down>
+in
+terms
+of
+average time <y_axis>
+from	
+the
+15-24  <x_axis_label_Scnd_highest_value>
+age group <x_axis>
+from
+over	<y_axis_approx>
+120	<y_axis_inferred_Scnd_highest_value_approx>
+minutes   <y_axis_inferred_label>
+and
+increases	<slope_up>
+again
+with
+age group <x_axis>
+45-54   <x_axis_label_highest_value>
+spending
+the
+highest	<y_axis_highest_value>
+average	<t=1_a=y>
+time	<y_axis>
+at
+almost	<y_axis_approx>
+150	<y_axis_highest_value_val>
+minutes  <y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+The
+average time spent on social media daily in Maputo , split by age group	<topic>
+.
+We
+can
+see
+that
+ages   <x_axis>
+45-54 year olds	<x_axis_label_highest_value>
+spend
+most	<y_axis_highest_value>
+time   <y_axis>
+on
+social media  <t=1_a=y>
+,
+averaging	<t=1_a=y>
+~   <y_axis_approx>
+150   <y_axis_highest_value_val>
+minutes   <y_axis_inferred_label>
+a
+day	<t=1_a=y>
+.
+Next	<order_Scnd>
+is
+15-24  <x_axis_label_Scnd_highest_value>
+age group <x_axis>
+,
+who
+average	<t=1_a=y>
+~   <y_axis_approx>
+125   <y_axis_Scnd_highest_val>
+minutes   <y_axis_inferred_label>
+a
+day <t=1_a=y>
+.
+Then	<order_3rd>
+55-64 year olds's  <x_axis_label_3rd_highest_value>
+average	<t=1_a=y>
+115	<y_axis_inferred_3rd_highest_value_approx>
+minutes   <y_axis_inferred_label>
+a
+day	<t=1_a=y>
+,
+finally   <order_last>
+both
+the
+25-34 and 35-44  <group_4th_least>
+age groups <x_axis>
+average
+about	<y_axis_approx>
+75	<group_y_4th_least>
+minutes   <y_axis_inferred_label>
+a
+day	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+This
+chart
+conveys
+the
+average time spent on social media daily in Maputo by age group	<topic>
+.
+15 to 24 years olds  <x_axis_label_Scnd_highest_value>
+spend
+124	<y_axis_inferred_Scnd_highest_value_approx>
+minutes   <y_axis_inferred_label>
+on
+average	<t=1_a=y>
+,
+25 to 34 year olds   <x_axis_label_4th_highest_value>
+spend
+72	<y_axis_inferred_4th_highest_value_approx>
+minutes  <y_axis_inferred_label>
+,
+35 to 44 year olds	<x_axis_label_least_value>
+spend
+68	<y_axis_inferred_least_value_approx>
+minutes  <y_axis_inferred_label>
+,
+45 to 54 year olds	<x_axis_label_highest_value>
+spend
+148	<y_axis_inferred_highest_value_approx>
+minutes   <y_axis_inferred_label>
+and
+55 to 64 year olds	<x_axis_label_3rd_highest_value>
+spend
+108	<y_axis_inferred_3rd_highest_value_approx>
+minutes <y_axis_inferred_label>
+.
+\\n  <separator>
+Age group <x_axis>
+45 to 54 years   <x_axis_label_highest_value>
+spend
+the
+most	<y_axis_highest_value>
+time	<y_axis>
+on
+social media	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+The
+average	<t=1_a=y>
+time	<y_axis>
+spent
+on
+social media	<t=1_a=y>
+is
+highest	<y_axis_highest_value>
+in
+the
+45-54   <x_axis_label_highest_value>
+age group	<x_axis>
+which is surprising considering 15-24 year olds are the most likely age group to be <interpretation>
+.
+\\n  <separator>
+25-34 - 35-44 year olds  <group_4th_least>
+spend
+the
+least	<y_axis_least_value>
+time   <y_axis>
+compared	<y_x_comparison>
+to
+the
+other	<group_highest_Scnd_3rd>
+age ranges  <x_axis>
+.
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+average time spent in minutes on Social media daily in Maputo by age group	<topic>
+.
+From
+the
+chart
+,
+we
+see
+that
+people	<t=0_a=x>
+around	
+15-24  <x_axis_label_Scnd_highest_value>
+spend
+124	<y_axis_inferred_Scnd_highest_value_approx>
+minutes   <y_axis_inferred_label>
+daily	<t=1_a=y>
+on
+social media  <t=1_a=y>
+,
+followed	<order_Scnd>
+by
+people	<t=0_a=x>
+around 25-34   <x_axis_label_4th_highest_value>
+spend
+around	<y_axis_approx>
+72	<y_axis_inferred_4th_highest_value_approx>
+minutes  <y_axis_inferred_label>
+.
+People	<t=0_a=x>
+in
+the
+age group <x_axis>
+35-44   <x_axis_label_least_value>
+are
+the
+lowest	<y_axis_least_value>
+amount
+of
+people	<t=0_a=x>
+that
+spend
+70	<y_axis_inferred_least_value_approx>
+minutes   <y_axis_inferred_label>
+on
+social media	<t=1_a=y>
+.
+The
+highest	<y_axis_highest_value>
+group	<x_axis>
+was
+the
+age group <x_axis>
+of
+45-54   <x_axis_label_highest_value>
+spending
+148	<y_axis_inferred_highest_value_approx>
+minutes   <y_axis_inferred_label>
+while	<y_x_comparison>
+people
+around 55-64   <x_axis_label_3rd_highest_value>
+spent
+around	<y_axis_approx>
+112	<y_axis_inferred_3rd_highest_value_approx>
+minutes  <y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+45-54 year old   <x_axis_label_highest_value>
+spent
+the
+most	<y_axis_highest_value>
+time	<y_axis>
+on
+social media	<t=1_a=y>
+on
+a
+daily	<t=1_a=y>
+basis
+,
+at
+148   <y_axis_inferred_highest_value_approx>
+minutes  <y_axis_inferred_label>
+.
+On
+average	<t=1_a=y>
+,
+15-24 year old	<x_axis_label_Scnd_highest_value>
+spent
+124	<y_axis_inferred_Scnd_highest_value_approx>
+minutes   <y_axis_inferred_label>
+daily	<t=1_a=y>
+on
+social media	<t=1_a=y>
+.
+On
+average	<t=1_a=y>
+55-64 year old	<x_axis_label_3rd_highest_value>
+spent
+108	<y_axis_inferred_3rd_highest_value_approx>
+minutes   <y_axis_inferred_label>
+on
+social media	<t=1_a=y>
+.
+The
+lowest	  <y_axis_least_value>
+time	<y_axis>
+spent
+on
+average	<t=1_a=y>
+on
+social media	<t=1_a=y>
+on
+a
+daily	<t=1_a=y>
+basis
+were
+25-34 year old   <x_axis_label_4th_highest_value>
+at
+76	<y_axis_inferred_4th_highest_value_approx>
+minutes   <y_axis_inferred_label>
+and
+35-44 year old   <x_axis_label_least_value>
+at
+72	<y_axis_inferred_least_value_approx>
+minutes  <y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+average time spent on social media in Maputo by age	<topic>
+.
+The
+groups	<x_axis>
+that
+spent
+least	<y_axis_least_value>
+time   <y_axis>
+were
+the
+25-34 year olds and 35-44 year olds   <group_4th_least>
+who
+spent
+under	<y_axis_approx>
+80  <group_y_4th_least>
+mins    <y_axis_inferred_label>
+.
+The
+highest	<y_axis_highest_value>
+use group	<x_axis>
+was
+the
+45-54 year olds	<x_axis_label_highest_value>
+who
+spent
+nearly   <y_axis_approx>
+150	<y_axis_highest_value_val>
+mins    <y_axis_inferred_label>
+per
+day	<t=1_a=y>
+on
+social media	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Chart
+depicts
+the
+average time spent on social media daily in Maputo   <topic>
+and
+the
+difference
+between	
+age groups <x_axis>
+.
+\\n  <separator>
+The
+age group <x_axis>
+45-54   <x_axis_label_highest_value>
+had
+the
+highest	<y_axis_highest_value>
+amount of minutes	<y_axis>
+spent
+at
+around	<y_axis_approx>
+150	<y_axis_highest_value_val>
+minutes  <y_axis_inferred_label>
+.
+\\n  <separator>
+Whereas   <y_x_comparison>
+age groups <x_axis>
+25-34 and 35-44   <group_4th_least>
+were
+the
+lowest	<y_axis_least_value>
+at
+around	<y_axis_approx>
+75	<group_y_4th_least>
+minutes  <y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+The
+graph
+shows
+average time spent on social media by various age groups	<topic>
+.
+The
+highest	<y_axis_highest_value>
+time	<y_axis>
+spent
+on
+social media	<t=1_a=y>
+was
+by
+the
+group aged   <x_axis>
+45-54   <x_axis_label_highest_value>
+at
+150	  <y_axis_highest_value_val>
+minutes   <y_axis_inferred_label>
+and
+the
+lowest	<y_axis_least_value>
+time   <y_axis>
+was
+by
+the
+group aged   <x_axis>
+35-44   <x_axis_label_least_value>
+with
+only	<y_axis_least_value>
+65	<y_axis_inferred_least_value_approx>
+minutes   <y_axis_inferred_label>
+a
+day	<t=1_a=y>
+just less	<slope_down>
+than
+the
+25-34   <x_axis_label_4th_highest_value>
+age group   <x_axis>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+Chart
+above	
+shows
+the
+average time spent on daily social media usage	<topic>
+in
+minutes	<y_axis_inferred_label>
+across
+5	<x_axis_labels_count>
+different
+age groups	<x_axis>
+.
+\\n  <separator>
+15-24 year olds  <x_axis_label_Scnd_highest_value>
+have
+an
+average	<t=1_a=y>
+of
+just over	<y_axis_approx>
+120	<y_axis_inferred_Scnd_highest_value_approx>
+minutes  <y_axis_inferred_label>
+,
+25-34 and 35-44 year olds   <group_4th_least>
+had
+the
+lowest	<y_axis_least_value>
+time	<y_axis>
+spent
+at
+just below <y_axis_approx>
+80	<group_y_4th_least>
+mins    <y_axis_inferred_label>
+.
+45-54 year olds	<x_axis_label_highest_value>
+had
+the
+highest	<y_axis_highest_value>
+number of minutes	<y_axis>
+at
+150	<y_axis_highest_value_val>
+mins    <y_axis_inferred_label>
+and
+55-64 year olds   <x_axis_label_3rd_highest_value>
+were
+110	<y_axis_3rd_highest_val>
+minutes   <y_axis_inferred_label>
+daily	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+average time spent on social media each day by different age groups in Maputo	<topic>
+.
+\\n  <separator>
+We
+can
+see
+in
+the
+chart
+that
+the
+group	<x_axis>
+that
+spends
+the
+most	<y_axis_highest_value>
+time	<y_axis>
+on
+social media	<t=1_a=y>
+-	
+nearly	<y_axis_approx>
+150	<y_axis_highest_value_val>
+minutes   <y_axis_inferred_label>
+or
+2.5	<y_axis_highest_value_val>
+hours   <y_axis_inferred_label>
+-	
+is
+aged 45-54   <x_axis_label_highest_value>
+.
+The
+second	<order_Scnd>
+highest	    <y_axis_highest_value>
+users	<x_axis>
+are
+in
+the
+15-24	<x_axis_label_Scnd_highest_value>
+group	<x_axis>
+which
+spends
+about	<y_axis_approx>
+2	<y_axis_inferred_Scnd_highest_value_approx>
+hours	<y_axis_inferred_label>
+on
+average	<t=1_a=y>
+on
+social media	<t=1_a=y>
+.
+The
+lowest	<y_axis_least_value>
+users	<x_axis>
+by
+time   <y_axis>
+are
+in
+the
+25-34 and 35-44   <group_4th_least>
+age groups <x_axis>
+,
+which
+use
+social media	<t=1_a=y>
+for
+around	<y_axis_approx>
+75	<group_y_4th_least>
+minutes   <y_axis_inferred_label>
+each
+day	<t=1_a=y>
+on
+average	<t=1_a=y>
+.
+The
+oldest group	<x_axis_label_3rd_highest_value>
+,
+aged 55-64   <x_axis_label_3rd_highest_value>
+,
+uses
+social media	<t=1_a=y>
+for
+more than   <y_axis_approx>
+110	<y_axis_3rd_highest_val>
+minutes   <y_axis_inferred_label>
+daily	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+The
+group	<x_axis>
+that
+spends
+the
+longest   <y_axis_highest_value>
+amount of time	<y_axis>
+on
+average	<t=1_a=y>
+is
+the
+45-54 year old   <x_axis_label_highest_value>
+bracket    <x_axis>
+,
+with
+an
+average	<t=1_a=y>
+of
+150	<y_axis_highest_value_val>
+minutes  <y_axis_inferred_label>
+.
+The
+groups	<x_axis>
+that
+spend
+the
+least	<y_axis_least_value>
+time   <y_axis>
+are
+the
+25-34 and 35-44 year olds   <group_4th_least>
+.
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+The
+chart
+indicates
+the
+time	<y_axis>
+spent
+on
+social media	<t=1_a=y>
+in
+Maputo	<t=1_a=b>
+was
+greatest	<y_axis_highest_value>
+in
+the
+45-54   <x_axis_label_highest_value>
+age group <x_axis>
+showing
+an
+average	<t=1_a=y>
+time	<y_axis>
+of
+148	<y_axis_inferred_highest_value_approx>
+minutes  <y_axis_inferred_label>
+.
+Closely	<y_axis_trend>
+behind	<y_axis_trend_down>
+were
+the
+15-24  <x_axis_label_Scnd_highest_value>
+age group <x_axis>
+at
+124	<y_axis_inferred_Scnd_highest_value_approx>
+minutes  <y_axis_inferred_label>
+.
+The
+least	<y_axis_least_value>
+amount of time   <y_axis>
+was
+spent
+by
+the
+35-44   <x_axis_label_least_value>
+age group <x_axis>
+totalling
+68	<y_axis_inferred_least_value_approx>
+minutes  <y_axis_inferred_label>
+.
+The
+55-64   <x_axis_label_3rd_highest_value>
+age group <x_axis>
+came
+in
+at
+108	<y_axis_inferred_3rd_highest_value_approx>
+minutes   <y_axis_inferred_label>
+and
+the
+25-34   <x_axis_label_4th_highest_value>
+age group <x_axis>
+at
+72	<y_axis_inferred_4th_highest_value_approx>
+minutes  <y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+This
+chart
+indicates
+that
+middle aged people	<x_axis_label_highest_value>
+(
+45-54   <x_axis_label_highest_value>
+)
+spend
+more	<y_axis_trend_up>
+time	<y_axis>
+on
+average	<t=1_a=y>
+on
+social media	<t=1_a=y>
+than
+any
+other
+group
+.
+Between 25 and 44	<group_4th_least>
+the
+average amount	<y_axis>
+is
+very  similar   <y_axis_trend>
+with
+them
+spending
+just over	<y_axis_approx>
+70	<group_y_4th_least>
+minutes   <y_axis_inferred_label>
+daily	<t=1_a=y>
+on
+social media	<t=1_a=y>
+.
+<end_of_description>
+

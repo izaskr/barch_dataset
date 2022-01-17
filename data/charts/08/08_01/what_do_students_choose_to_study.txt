@@ -1,0 +1,742 @@
+<start_of_description>
+This
+chart
+show
+what subjects students choose to study    <topic>
+.
+We
+can
+see
+that
+a
+high    <y_axis_highest_value>
+percentage    <y_axis>    
+choose   
+STEM    <x_axis_label_highest_value>
+whilst    <y_x_comparison>
+a
+much    <y_axis_trend>
+lower    <y_axis_least_value>
+percentage    <y_axis>
+choose
+literature, philosophy or medicine    <x_axis_labels_rest>
+.
+<end_of_description>
+
+
+<start_of_description>
+Stem    <x_axis_label_highest_value>
+seems
+the
+most  popular   <y_axis_highest_value>
+choice
+for
+students	<t=1_a=y>
+to
+study	<t=1_a=y>
+at
+50    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+with
+literature and medicine    <group_Scnd_3rd>
+both
+at
+20    <group_y_Scnd_3rd>
+%    <y_axis_inferred_label>
+.
+Philosophy    <x_axis_label_least_value>    
+is
+the
+lowest    <y_axis_least_value>
+at
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+of
+students choosing to study <t=1_a=y>
+it
+.
+<end_of_description>
+
+
+
+<start_of_description> [type01]
+50    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+of
+students    <t=1_a=y>
+have
+chosen
+to
+study    <t=1_a=y>
+STEM    <x_axis_label_highest_value>
+subjects    <x_axis>
+<end_of_description>
+
+
+<start_of_description>
+Exactly <y_axis_approx>
+half    <y_axis_highest_value_val>
+of
+all
+these
+students	<t=1_a=y>
+studied
+STEM    <x_axis_label_highest_value>
+.
+Medicine and literature	<group_Scnd_3rd>
+were
+exactly
+equally    <y_axis_trend>
+studied	<t=1_a=y>
+,
+with
+philosophy    <x_axis_label_least_value>
+exactly  <y_axis_approx>
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+.
+These figures are unlikely to be accurate as they are too precise    <interpretation>
+.
+<end_of_description>
+
+
+<start_of_description>
+This
+graph
+represents
+what students are choosing to study    <topic>
+across
+a
+variety
+of
+subjects    <x_axis>
+.
+The
+most popular    <y_axis_highest_value>
+at
+50    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+is
+STEM    <x_axis_label_highest_value>
+subjects    <x_axis>
+.
+This
+is
+followed    <order_Scnd>
+by
+literature and medicine    <group_Scnd_3rd>
+at
+20    <group_y_Scnd_3rd>
+%    <y_axis_inferred_label> 
+each
+and
+finally    <order_last>
+Philosophy    <x_axis_label_least_value>
+at
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+that
+the
+most popular    <y_axis_highest_value>
+study choice	<x_axis>
+for
+students	<t=1_a=y>
+is
+STEM    <x_axis_label_highest_value>
+,
+followed    <order_Scnd>
+by
+Medicine and Literature    <group_Scnd_3rd>
+equally    <y_axis_trend>
+.
+Philosophy    <x_axis_label_least_value>
+has
+the
+lowest    <y_axis_least_value>
+number of student choice	<y_axis>
+at
+just	<y_axis_least_value>
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+<end_of_description>
+
+
+<start_of_description>
+The
+table
+shows
+that
+STEM    <x_axis_label_highest_value>
+subjects    <x_axis>
+are
+the
+most popular    <y_axis_highest_value>
+,
+with
+50    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+of
+students	<t=1_a=y>
+studying	<t=1_a=y>
+them
+.
+Medicine and Literature    <group_Scnd_3rd>
+are
+joint
+2nd    <order_Scnd>  
+most
+popular
+with
+20    <group_y_Scnd_3rd>
+%    <y_axis_inferred_label>
+choosing	<t=1_a=b>
+to
+study	<t=1_a=y>
+each
+.
+Philosophy    <x_axis_label_least_value>
+brings up the rear    <y_axis_least_value>    
+,
+with
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+of
+students	<t=1_a=y>
+choosing to study	<t=1_a=b>
+it
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+percentage    <y_axis>
+of
+students choosing different areas of university subjects    <topic>
+.
+50    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+choose
+a
+STEM-related subject    <x_axis_label_highest_value>
+;
+20    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+choose
+literature    <x_axis_label_Scnd_highest_value>
+,
+20    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+choose
+medicine    <x_axis_label_Scnd_highest_value>    
+and
+only    <y_axis_least_value>
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+choose
+philosophy    <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+<start_of_description>
+The
+vast
+majority    <y_axis_highest_value>
+of
+students	<t=1_a=y>
+choose
+to
+study	<t=1_a=y>
+STEM    <x_axis_label_highest_value>
+-
+50    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+compared    <y_x_comparison>
+to
+20    <group_y_Scnd_3rd>
+%    <y_axis_inferred_label>
+for
+literature and medicine    <group_Scnd_3rd>
+and
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+studying	<t=1_a=y>
+philosophy    <x_axis_label_least_value> 
+.
+<end_of_description>
+
+
+<start_of_description>
+The
+graph
+shows
+what departments students choose to study in    <topic>
+.
+It
+highlights
+that
+50    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+of
+students	<t=1_a=y>
+opt
+for
+STEM    <x_axis_label_highest_value>
+subjects    <x_axis>
+whilst  <y_x_comparison>
+20    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+choose
+literature and medicine    <group_Scnd_3rd>
+but   <y_x_comparison>
+only    <y_axis_least_value>
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+choose
+philosophy    <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+<start_of_description>
+This
+chart
+shows
+the
+percentage of students that choose to study each subject    <topic>
+.
+The
+graph
+shows
+that
+most    <y_axis_highest_value>
+students	<t=1_a=y>
+(
+50    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+) 
+choose
+to
+study	<t=1_a=y>
+STEM    <x_axis_label_highest_value>
+subjects     <x_axis>
+,
+while    <y_x_comparison>
+medicine and literature    <group_Scnd_3rd>
+are
+the
+second    <order_Scnd>
+most
+popular
+,
+with
+20    <group_y_Scnd_3rd>
+%    <y_axis_inferred_label>
+of
+students	<t=1_a=y>
+studying	<t=1_a=y>
+these
+subjects    <x_axis>
+.
+The
+least popular    <y_axis_least_value>
+subject    <x_axis>
+is
+philosophy    <x_axis_label_least_value>
+,
+with
+only    <y_axis_least_value>
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+of
+students	<t=1_a=y>
+studying	<t=1_a=y>
+this
+subject    <x_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+shows 
+which departments students chose    <topic>
+by
+percentage    <y_axis>
+.
+The
+largest    <y_axis_highest_value>
+is
+STEM studies    <x_axis_label_highest_value>
+at
+50    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+,
+followed    <order_Scnd>
+by
+Literature and Medicine    <group_Scnd_3rd>
+both
+with
+20    <group_y_Scnd_3rd>
+%    <y_axis_inferred_label>
+and
+finally    <order_last>
+Philosophy    <x_axis_label_least_value>
+at
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+<end_of_description>
+
+
+<start_of_description>  [type01]
+Stem    <x_axis_label_highest_value>
+is
+the
+most popular    <y_axis_highest_value>
+subject    <x_axis>
+for
+students	<t=1_a=y>
+to
+study	<t=1_a=y>
+and
+account
+for
+50    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+of
+choices  <x_axis>
+.
+Literature, medicine and philosophy    <x_axis_labels_rest>
+are
+significantly    <y_axis_trend>
+lower    <y_axis_trend_down>
+.
+<end_of_description>
+
+
+<start_of_description>
+This
+graph
+shows
+which subjects students choose to study    <topic>
+.
+Half    <y_axis_highest_value_val>
+of
+students	<t=1_a=y>
+go
+into
+STEM    <x_axis_label_highest_value>
+fields    <x_axis>
+,
+a
+fifth    <y_axis_Scnd_highest_val>
+choose
+Literature    <x_axis_label_Scnd_highest_value>
+,
+another
+fifth    <y_axis_Scnd_highest_val>
+Medicine    <x_axis_label_Scnd_highest_value>
+,
+and
+1 in ten    <y_axis_least_value_val>
+choose
+Philosophy    <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+<start_of_description>
+50    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+of
+Students	<t=1_a=y>
+chose
+to
+study	<t=1_a=y>
+the
+STEM    <x_axis_label_highest_value>
+subjects    <x_axis>
+,
+less than   <y_axis_approx>
+half    <y_axis_inferred_value_mul_v1=Scnd_v2=highest>
+that
+number
+-
+20    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+chose
+literature    <x_axis_label_Scnd_highest_value>
+and
+20    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+medicine    <x_axis_label_Scnd_highest_value>
+.
+Philosophy    <x_axis_label_least_value>
+has
+the
+least    <y_axis_least_value>
+numbers	chosing	<y_axis>
+it
+-
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+<end_of_description>
+
+
+<start_of_description>
+This
+graph
+shows
+the
+subjects	<x_axis>
+that
+students choose to study at university    <topic>
+.
+50    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+of
+all
+students	<t=1_a=y>
+are
+involved
+in
+STEM    <x_axis_label_highest_value>
+subjects    <x_axis>
+,
+20    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+are
+in
+Literature    <x_axis_label_Scnd_highest_value>
+,
+20    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+in
+Medicine    <x_axis_label_Scnd_highest_value>
+and
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+in
+Philosophy    <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+<start_of_description>
+this
+graph
+shows
+what students choose to study    <topic>
+,
+most popular    <y_axis_highest_value>
+is
+stem    <x_axis_label_highest_value>
+with
+50    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+,
+followed    <order_Scnd>
+by
+medicine and literature    <group_Scnd_3rd>
+with
+20    <group_y_Scnd_3rd>
+%    <y_axis_inferred_label>
+and
+philosophy    <x_axis_label_least_value>
+with
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+.
+this may be reflective of students opting to choose to study fields with future job prospects    <interpretation>
+<end_of_description>
+
+
+
+<start_of_description> [type01]
+Students    <t=1_a=y>
+decided
+to
+study    <t=1_a=y>
+stem    <x_axis_label_highest_value>
+with
+more than   <y_axis_approx>
+double    <y_axis_inferred_value_mul_v1=highest_v2=Scnd>
+the
+other subjects    <x_axis_labels_rest>
+<end_of_description>
+
+
+<start_of_description>
+This
+chart
+shows
+what subjects students choose to study    <topic>
+.
+Most    <y_axis_highest_value>
+students	<t=1_a=y>
+pick
+STEM    <x_axis_label_highest_value>
+at
+approx    <y_axis_approx>
+50    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+,
+Literature and medicine    <group_Scnd_3rd>
+both
+account
+for
+20    <group_y_Scnd_3rd>
+%    <y_axis_inferred_label>
+and
+Philosophy    <x_axis_label_least_value>
+is
+last    <y_axis_least_value>
+with
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+of
+students	<t=1_a=y>
+choosing	<t=1_a=x>
+this
+.
+<end_of_description>
+
+
+<start_of_description>
+This
+bar
+chart
+displays
+the percentage of students	<y_axis>
+in
+different
+types of department	<x_axis>
+.
+The
+modal    <y_axis_highest_value>
+category    <x_axis>
+is
+STEM    <x_axis_label_highest_value>
+.
+It is unclear where other departments like History or Social Science fit    <interpretation>
+.
+Philosophy    <x_axis_label_least_value>
+is
+the
+smallest    <y_axis_least_value>
+category    <x_axis>
+-
+but this in unsurprising as it is one subject compared to the conglomeration of STEM subjects    <interpretation>
+.
+<end_of_description>
+
+
+<start_of_description>
+50    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+of
+students	<t=1_a=y>
+choose
+to
+study	<t=1_a=y>
+STEM    <x_axis_label_highest_value>
+,
+20    <group_y_Scnd_3rd>
+%    <y_axis_inferred_label>
+each
+choose
+to
+study    <t=1_a=y>
+literature and medicine    <group_Scnd_3rd>
+,
+with
+only    <y_axis_least_value>
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+choosing	<t=1_a=x>
+to
+study	<t=1_a=y>
+philosophy    <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+<start_of_description>
+This
+graph
+shows
+the
+percentage of students	<y_axis>
+who
+choose	<t=1_a=b>
+to
+study	<t=1_a=y>
+in
+four    <x_axis_labels_count>
+different
+departments    <x_axis>
+.
+50    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+-
+STEM    <x_axis_label_highest_value>
+\\n    <separator>
+20    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+-
+Literature    <x_axis_label_Scnd_highest_value>
+\\n    <separator>
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+-
+Philosophy    <x_axis_label_least_value>
+\\n    <separator>
+20    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+-
+Medicine    <x_axis_label_Scnd_highest_value>
+<end_of_description>
+
+<start_of_description>
+Most    <y_axis_highest_value>
+students	<t=1_a=y>
+choose
+STEM    <x_axis_label_highest_value>
+subjects    <x_axis>
+at
+50    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+whilst    <y_x_comparison>
+Literature and Medicine    <group_Scnd_3rd>
+only
+attract
+20    <group_y_Scnd_3rd>
+%    <y_axis_inferred_label>
+,
+and
+philosophy    <x_axis_label_least_value>
+is
+least popular   <y_axis_least_value>
+at
+10    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+.
+<end_of_description>
+
+

@@ -1,0 +1,1069 @@
+<start_of_description>
+This
+chart
+shows
+how young people in Zarqa spend their evenings   <topic>
+.
+According
+to
+the
+chart
+,
+most	<y_axis_highest_value>
+young people	<t=1_a=y>
+spend
+their
+evenings	<t=1_a=x>
+reading a book   <x_axis_label_highest_value>
+-
+37	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+of
+them
+.
+Around	<y_axis_approx>
+32	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+of
+them
+spend time with family    <x_axis_label_Scnd_highest_value>
+.
+17	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+of
+them
+go out   <x_axis_label_3rd_highest_value>
+and
+just	<y_axis_least_value>
+12	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+spend
+their
+evenings	<t=1_a=x>
+watching TV   <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Bar
+chart
+showing
+how young people in Zarqa spend their evenings   <topic>
+.
+\\n   <separator>
+\\n   <separator>
+11   <y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+watch TV   <x_axis_label_least_value>
+,
+18	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+go out   <x_axis_label_3rd_highest_value>
+,
+32	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+spend time with family    <x_axis_label_Scnd_highest_value>
+,
+while	<y_x_comparison>
+38	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+prefer
+to
+read a book   <x_axis_label_highest_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+depicts
+a
+number of ways young people in zarqa spend their evenings   <topic>
+,
+as
+a
+percentage of those asked   <y_axis>
+.
+The
+most popular	<y_axis_highest_value>
+chose	<x_axis>
+is
+reading a book   <x_axis_label_highest_value>
+,
+done
+by
+38	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+of
+young people	<t=1_a=y>
+.
+Family time  <x_axis_label_Scnd_highest_value>
+came
+second	<order_Scnd>
+,
+at
+32	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+.
+Going out   <x_axis_label_3rd_highest_value>
+was
+third   <order_3rd>
+but
+much less	<y_axis_trend_down>
+popular	<y_axis_trend>
+,
+at
+18	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+,
+and
+watching TV   <x_axis_label_least_value>
+was
+least popular	<y_axis_least_value>
+-
+done
+by
+only	<y_axis_least_value>
+12	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+of
+the
+group
+.
+<end_of_description>
+
+
+
+<start_of_description> [type01]
+The
+graph
+details
+how young people in Zarqa spend their evenings   <topic>
+,
+presented
+as
+a
+percentage of total responses   <y_axis>
+.
+The
+activities   <x_axis>
+listed
+are
+watching TV ,  spending time with family , reading a book and going out  <x_axis_labels>
+.
+Reading a book   <x_axis_label_highest_value>
+proved
+to	
+be
+the
+most popular	<y_axis_highest_value>
+with
+38	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+choosing
+this
+option	<x_axis>
+,
+while	<y_x_comparison>
+watching TV   <x_axis_label_least_value>
+,
+at
+12	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+was
+the
+least popular	<y_axis_least_value>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+This
+chart
+shows
+how young people in Zarqa spend their evenings   <topic>
+.
+12	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+of
+young people	<t=1_a=y>
+spend
+their
+time	<t=0_a=y>
+watching tv   <x_axis_label_least_value>
+in
+the
+evenings	<t=1_a=x>
+,
+32	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+spend
+their
+evenings	<t=1_a=x>
+with family   <x_axis_label_Scnd_highest_value>
+,
+the
+highest	<y_axis_highest_value>
+percentage of people	<y_axis>
+spend
+their
+time	<t=0_a=x>
+reading a book   <x_axis_label_highest_value>
+being
+38	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+of
+people    <t=0_a=y>
+,
+and
+18	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+of
+people    <t=0_a=y>
+spend
+their
+evenings	<t=1_a=x>
+going out   <x_axis_label_3rd_highest_value>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+This
+graph
+depicts
+how young people in Zarqa spend their evenings   <topic>
+from	
+the
+choices	<x_axis>
+assigned
+to	
+the
+research
+.
+12	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+of
+people	<t=1_a=y>
+spent
+time	<t=0_a=y>
+watching TV   <x_axis_label_least_value>
+in
+the
+evenings	<t=1_a=x>
+;
+33	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+spent time with family   <x_axis_label_Scnd_highest_value>
+,
+38	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+read books   <x_axis_label_highest_value>
+,
+and
+18	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+go out   <x_axis_label_3rd_highest_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+More	<y_axis_trend_up>
+people	<y_axis>
+in
+Zarqa	<t=1_a=b>
+spend
+their
+evenings	<t=1_a=x>
+reading a book   <x_axis_label_highest_value>
+than
+going out   <x_axis_label_3rd_highest_value>
+.
+37	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+of
+young people	<t=1_a=y>
+read a book   <x_axis_label_highest_value>
+compared	<y_x_comparison>
+with
+17	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+who
+go out   <x_axis_label_3rd_highest_value>
+.
+\\n   <separator>
+\\n   <separator>
+Watching TV   <x_axis_label_least_value>
+is
+the
+least popular	<y_axis_least_value>
+option	<x_axis>
+,
+with
+only	<y_axis_least_value>
+12	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+of
+young people	<t=1_a=y>
+in
+Zarqa	<t=1_a=b>
+spending
+their
+evenings	<t=1_a=x>
+watching TV   <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+<start_of_description>
+This
+chart
+shows
+how young people in Zarqa spend their time in the evenings   <topic>
+.
+With
+50	<group_y_Scnd_3rd>
+%	<y_axis_inferred_label>
+choosing
+to	
+socialise	<group_Scnd_3rd>
+and
+the
+other
+50	 <group_y_highest_least>
+%	<y_axis_inferred_label>
+choosing
+solo activities   <group_highest_least>
+.
+This
+is
+broken
+down
+with
+32	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+of
+the
+youths	<t=0_a=y>
+who
+prefer
+to	
+socialise	<group_Scnd_3rd>
+like
+to	
+spend time with their families   <x_axis_label_Scnd_highest_value>
+and
+the
+remaining
+18	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+choosing
+to	
+go out   <x_axis_label_3rd_highest_value>
+.
+\\n   <separator>
+The
+youths	<t=0_a=y>
+who
+prefer
+opting
+for
+solo activities   <group_highest_least>
+are
+split
+with
+38	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+preferring
+to	
+read a book   <x_axis_label_highest_value>
+,
+while	<y_x_comparison>
+the
+remaining
+12	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+prefer
+to	
+watch TV   <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+37	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+of
+young people	<t=1_a=y>
+in
+Zarqa	<t=1_a=b>
+spend
+their
+evenings	<t=1_a=x>
+with a book   <x_axis_label_highest_value>
+,
+32	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+with family   <x_axis_label_Scnd_highest_value>
+,
+18	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+going out   <x_axis_label_3rd_highest_value>
+and
+12	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+watching TV   <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+demonstrates
+how young people in Zarqa spend their evenings   <topic>
+by
+main activity	<x_axis>
+.
+The
+least popular	<y_axis_least_value>
+activity   <x_axis>
+is
+watching TV   <x_axis_label_least_value>
+at
+12	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+.
+Reading books   <x_axis_label_highest_value>
+and
+spending time with family   <x_axis_label_Scnd_highest_value>
+are
+the
+most popular	<y_axis_highest_value>
+activities   <x_axis>
+at
+38	<y_axis_highest_value_val>
+and
+32	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+respectively
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+Percentage of people in Zarqa split by how they spend their evenings   <topic>
+.
+Most	<y_axis_highest_value>
+people	<t=1_a=y>
+spend
+their
+evenings	<t=1_a=x>
+reading   <x_axis_label_highest_value>
+,
+at
+38	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+Next	<order_Scnd>
+common
+is
+spending time with family   <x_axis_label_Scnd_highest_value>
+,
+at
+32	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+.
+Then	<order_3rd>
+going out   <x_axis_label_3rd_highest_value>
+at
+18	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+.
+The
+final   <order_last>
+12	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+spends
+time	<t=0_a=x>
+watching TV   <x_axis_label_least_value>
+.
+I 'm  not sure what the other 10 % do	<interpretation>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+percentage and types of activities that young people in Zarqa do in the evenings   <topic>
+.
+12	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+are
+seen
+to	
+spend
+their
+evenings	<t=1_a=x>
+watching TV   <x_axis_label_least_value>
+,
+32	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+spend time with family    <x_axis_label_Scnd_highest_value>
+,
+38	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+read a book   <x_axis_label_highest_value>
+and
+only	<y_axis_least_value>
+18	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+go out   <x_axis_label_3rd_highest_value>
+.
+Overall
+the
+chart
+shows
+that
+more	<y_axis_trend_up>
+young people	<t=1_a=y>
+spend
+their
+evenings	<t=1_a=x>
+reading a book   <x_axis_label_highest_value>
+,
+and
+the
+lowest	<y_axis_least_value>
+percentage of students   <y_axis>
+spend
+it
+watching tv   <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Young people	<t=1_a=y>
+in
+Zarqa	<t=1_a=b>
+spend
+their
+evenings	<t=1_a=x>
+reading a book   <x_axis_label_highest_value>
+-
+over	<y_axis_approx>
+38	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+compared	<y_x_comparison>
+to	
+11	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+watching TV   <x_axis_label_least_value>
+&
+going out   <x_axis_label_3rd_highest_value>
+-
+at
+16	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+.
+\\n   <separator>
+Spending time with family   <x_axis_label_Scnd_highest_value>
+comes
+second	<order_Scnd>
+to
+reading a book   <x_axis_label_highest_value>
+at
+31	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+percentages <y_axis>
+on 
+how many young people in Zarqa spend their evenings  <topic>
+.
+From
+the
+chart
+,
+we
+see
+that
+the
+smallest	<y_axis_least_value>
+percentage of people	<y_axis>
+spend
+their
+time	<t=1_a=x>
+Watching TV   <x_axis_label_least_value>
+at
+around	<y_axis_approx>
+12	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+.
+This
+is
+then
+followed	<order_Scnd>
+by
+18	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+of
+people	<t=1_a=y>
+Going Out   <x_axis_label_3rd_highest_value>
+.
+We
+then	<order_3rd>
+see
+32	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+people	<t=1_a=y>
+Spend Time with Family   <x_axis_label_Scnd_highest_value>
+but
+the
+highest	<y_axis_highest_value>
+percentage	<y_axis>
+of
+people	<t=1_a=y>
+are
+Reading a Book   <x_axis_label_highest_value>
+at
+around	<y_axis_approx>
+38	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+The
+highest	<y_axis_highest_value>
+number    <y_axis>
+of
+young people	<t=1_a=y>
+in
+zarqa	<t=1_a=b>
+spend
+their
+evenings	<t=1_a=x>
+reading a book   <x_axis_label_highest_value>
+(
+38	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+)
+then	<order_Scnd>
+spend time with family    <x_axis_label_Scnd_highest_value>
+.
+A
+lower	<y_axis_trend_down>
+percentage   <y_axis>
+spend
+their
+time	<t=0_a=x>
+going out   <x_axis_label_3rd_highest_value>
+,
+with
+only	<y_axis_least_value>
+12	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+spend
+their
+time	<t=0_a=x>
+watching TV   <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+
+
+<start_of_description>
+This
+chart
+shows 
+how young people in Zarqa spend their evenings   <topic>
+.
+Approximately	<y_axis_approx>
+12	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+of
+people	<t=1_a=y>
+watch TV   <x_axis_label_least_value>
+,
+32	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+spend time with their family   <x_axis_label_Scnd_highest_value>
+and
+35	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+of
+participants	<t=0_a=y>
+read a book   <x_axis_label_highest_value>
+.
+About	<y_axis_approx>
+17	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+of
+people surveyed	<y_axis>
+went out   <x_axis_label_3rd_highest_value>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+This
+chart
+represents
+how young people in Zarqa spend their evenings   <topic>
+.
+\\n   <separator>
+Around   <y_axis_approx>
+12	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+watch TV   <x_axis_label_least_value>
+.
+\\n   <separator>
+32	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+spend
+their
+evenings	<t=1_a=x>
+with family   <x_axis_label_Scnd_highest_value>
+.
+\\n   <separator>
+38	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+read a book   <x_axis_label_highest_value>
+and
+18	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+go out   <x_axis_label_3rd_highest_value>
+in
+the
+evening	<t=1_a=x>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+The
+graph
+shows
+how young people in Zarqa spend their evenings    <topic>
+.
+Over
+4	<x_axis_labels_count>
+activities   <x_axis>
+,
+the
+largest	<y_axis_highest_value>
+percentage   <y_axis>
+is
+spent
+on
+reading a book   <x_axis_label_highest_value>
+which
+accounts
+for
+38	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+followed	<order_Scnd>
+by
+time with family   <x_axis_label_Scnd_highest_value>
+at
+32	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+then	<order_3rd>
+going out   <x_axis_label_3rd_highest_value>
+at
+18	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+and
+lastly   <order_last>
+watching TV   <x_axis_label_least_value>
+at
+only	<y_axis_least_value>
+12	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+<end_of_description>
+
+
+
+
+<start_of_description>
+Graph
+above
+shows
+how young people spend their evenings in Zarqa    <topic>
+.
+The
+lowest	<y_axis_least_value>
+percentage   <y_axis>
+recorded
+was
+for
+watching Tv   <x_axis_label_least_value>
+at
+12	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+,
+the
+highest	<y_axis_highest_value>
+percentage   <y_axis>
+was
+recorded
+for
+reading a book   <x_axis_label_highest_value>
+at
+38	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+The
+second	<order_Scnd>
+highest	<y_axis_highest_value>
+was
+for
+spending time with family   <x_axis_label_Scnd_highest_value>
+at
+32	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+.
+The
+second
+lowest	<y_axis_least_value>
+percentage   <y_axis>
+was
+for
+going out   <x_axis_label_3rd_highest_value>
+at
+18	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+ 
+
+<start_of_description>
+In
+this
+chart
+we
+can
+see
+how much time young people in Zarqa spend on different activities during the evening   <topic>
+.
+\\n   <separator>
+Watching TV   <x_axis_label_least_value>
+is
+an
+activity   <x_axis>
+that
+just over	<y_axis_approx>
+10	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+of
+young people	<t=1_a=y>
+spend
+time	<t=0_a=x>
+doing
+.
+That
+is
+the
+lowest	<y_axis_least_value>
+of
+the
+four	<x_axis_labels_count>
+activities   <x_axis>
+presented
+.
+About	<y_axis_approx>
+38	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+read a book   <x_axis_label_highest_value>
+and
+32	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>  
+spend time with their family    <x_axis_label_Scnd_highest_value>
+,
+while	<y_x_comparison>
+only
+17	<y_axis_inferred_3rd_highest_value_approx>
+%	<y_axis_inferred_label>
+go out   <x_axis_label_3rd_highest_value>
+.
+<end_of_description>
+
+
+
+<start_of_description> [type01]
+The
+majority	<y_axis_highest_value>
+of
+young people   <y_axis>
+in
+Zarqa	<t=1_a=b>
+spend
+their
+evenings	<t=1_a=x>
+reading a book   <x_axis_label_highest_value>
+,
+at
+38	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+The
+least popular	<y_axis_least_value>
+way	<x_axis>
+to	
+spend
+the
+evening	<t=1_a=x>
+is
+by
+watching TV   <x_axis_label_least_value>
+,
+at
+12	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+
+<start_of_description>
+The
+young people   <t=1_a=y>
+of
+Zarqua	<t=1_a=b>
+spend
+the
+majority   <y_axis_highest_value>
+of
+their
+evenings	<t=1_a=x>
+reading a book   <x_axis_label_highest_value>
+and
+spending time with their families     <x_axis_label_Scnd_highest_value>
+.
+On
+the
+chart
+this
+has
+been
+represented
+as
+a
+percentage of young people   <y_axis>
+at
+a
+given
+time
+.
+32	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+choose
+to	
+spend time with family    <x_axis_label_Scnd_highest_value>
+whereas
+38	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+choose
+to	
+read   <x_axis_label_highest_value>
+.
+18	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+of
+the
+young people    <t=1_a=y>
+chose
+to	
+go out   <x_axis_label_3rd_highest_value>
+and
+12	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+choose
+to	
+watch television   <x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+
+<start_of_description> [type01]
+This
+chart
+shows
+that
+the
+majority	<y_axis_highest_value>
+of
+people <y_axis>
+in
+Zarqa	<t=1_a=b>
+prefer
+reading a book   <x_axis_label_highest_value>
+in
+an
+evening	<t=1_a=x>
+.
+Although this would suggest they may prefer solitude     <interpretation>
+,
+interestingly
+,
+they
+do
+not
+like
+watching TV   <x_axis_label_least_value>
+with
+only	<y_axis_least_value>
+12	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+stating
+that
+as
+their
+chosen
+way to pass the time	<x_axis>
+.
+<end_of_description>
+

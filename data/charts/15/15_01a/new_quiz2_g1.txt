@@ -1,0 +1,1328 @@
+<start_of_description>
+This
+chart
+showed
+the
+success	<t=1_a=b>
+of
+different
+teams	<x_axis>
+in
+the
+quiz	<t=1_a=b>
+,
+by
+comparing
+number of mistakes	<y_axis>
+.
+Lovely	<x_axis_label_highest_value>
+made
+the
+most	<y_axis_highest_value>
+mistakes	<y_axis>
+(
+9	<y_axis_highest_value_val>
+)
+,
+compared	<y_x_comparison>
+to
+Smart Kids	<x_axis_label_Scnd_highest_value>
+(
+6	<y_axis_Scnd_highest_val>
+)
+,
+ABC	<x_axis_label_3rd_highest_value>
+(
+5	<y_axis_3rd_highest_val>
+)
+,
+DIY	<x_axis_label_4th_highest_value>
+(
+4	<y_axis_4th_highest_val>
+)
+,
+Cats	<x_axis_label_5th_highest_value>
+(
+3	<y_axis_5th_highest_val>
+)
+and
+Fearless	<x_axis_label_least_value>
+(
+1	<y_axis_least_value_val>
+)
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+compares
+the
+success	<t=1_a=b>
+of
+teams	<x_axis>
+in
+a
+quiz competition	<t=1_a=b>
+.
+\\n	<separator>
+The
+lovely	<x_axis_label_highest_value>
+team	<x_axis>
+were
+least	<y_axis_least_value>
+successful	<t=1_a=b>
+with
+9	<y_axis_highest_value_val>
+mistakes	<y_axis>
+.
+Smart kids	<x_axis_label_Scnd_highest_value>
+made
+6	<y_axis_Scnd_highest_val>
+mistakes	<y_axis>
+and
+ABC	<x_axis_label_3rd_highest_value>
+made
+5	<y_axis_3rd_highest_val>
+.
+\\n	<separator>
+The
+fearless	<x_axis_label_least_value>
+team	<x_axis>
+was
+top	<y_axis_highest_value>
+with
+only	<y_axis_least_value>
+1	<y_axis_least_value_val>
+mistake	<y_axis>
+,
+Cats	<x_axis_label_5th_highest_value>
+team	<x_axis>
+came
+second
+with
+3	<y_axis_5th_highest_val>
+mistakes	<y_axis>
+and
+DIY	<x_axis_label_4th_highest_value>
+came
+in
+3rd
+place
+with
+4	<y_axis_4th_highest_val>
+mistakes	<y_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+performances
+of
+various
+quiz	<t=1_a=b>
+teams	<x_axis>
+in
+a
+quiz competition	<t=1_a=b>
+.
+\\n	<separator>
+It
+shows
+that
+out
+of
+the
+selection
+,
+Team	<x_axis>
+Lovely	<x_axis_label_highest_value>
+were
+least	<y_axis_least_value>
+successful	<t=1_a=b>
+with
+9	<y_axis_highest_value_val>
+mistakes	<y_axis>
+.
+Team	<x_axis>
+Fearless	<x_axis_label_least_value>
+were
+most	<y_axis_highest_value>
+successful	<t=1_a=b>
+with
+1	<y_axis_least_value_val>
+mistake	<y_axis>
+.
+\\n	<separator>
+It is not clear whether these teams were the only teams participating , so it is hard to tell whether Fearless were the winning team	<interpretation>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+this
+chart
+shows
+the
+least successful teams in the quiz competition	<topic>
+and
+the
+number of mistakes	<y_axis>
+each
+of
+the
+6	<x_axis_labels_count>
+teams	<x_axis>
+made
+.
+Team	<x_axis>
+Lovely	<x_axis_label_highest_value>
+made
+the
+most	<y_axis_highest_value>
+mistakes	<y_axis>
+,
+totalling
+9	<y_axis_highest_value_val>
+,
+Smart Kids	<x_axis_label_Scnd_highest_value>
+had
+the
+second
+most	<y_axis_highest_value>
+with
+6	<y_axis_Scnd_highest_val>
+,
+followed	<order_Scnd>
+by
+ABC	<x_axis_label_3rd_highest_value>
+making
+5	<y_axis_3rd_highest_val>
+,
+DIY	<x_axis_label_4th_highest_value>
+with
+4	<y_axis_4th_highest_val>
+,
+Cats	<x_axis_label_5th_highest_value>
+with
+3	<y_axis_5th_highest_val>
+,
+and
+finally	<order_last>
+team	<x_axis>
+Fearless	<x_axis_label_least_value>
+making
+the
+least	<y_axis_least_value>
+number of mistakes	<y_axis>
+with
+1	<y_axis_least_value_val>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+the
+least successful teams in the quiz competition	<topic>
+,
+ranking
+by
+number of mistakes	<y_axis>
+.
+Lovely	<x_axis_label_highest_value>
+are
+the
+least	<y_axis_least_value>
+successful	<t=1_a=b>
+and
+have
+the
+most	<y_axis_highest_value>
+mistakes	<y_axis>
+(
+around	<y_axis_approx>
+9	<y_axis_highest_value_val>
+mistakes	<y_axis>
+)
+,
+whilst	<y_x_comparison>
+fearless	<x_axis_label_least_value>
+are
+the
+most	<y_axis_highest_value>
+successful	<t=1_a=b>
+with
+around	<y_axis_approx>
+1	<y_axis_least_value_val>
+mistake	<y_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+displays
+the
+least successful teams in the quiz competition	<topic>
+.
+There
+are
+scores
+for
+six	<x_axis_labels_count>
+teams	<x_axis>
+,
+and
+their
+mistakes	<y_axis>
+are
+shown
+on
+the
+graph
+.
+\\n	<separator>
+\\n	<separator>
+The
+least	<y_axis_least_value>
+number of mistakes	<y_axis>
+(
+1	<y_axis_least_value_val>
+)
+was
+made
+by
+Fearless	<x_axis_label_least_value>
+,
+whilst	<y_x_comparison>
+the
+most	<y_axis_highest_value>
+(
+9	<y_axis_highest_value_val>
+)
+was
+made
+by
+Lovely	<x_axis_label_highest_value>
+.
+The
+median
+number	<y_axis>
+was
+5	<y_axis_3rd_highest_val>
+,
+made
+by
+ABC	<x_axis_label_3rd_highest_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+least successful teams in the quiz competirion	<topic>
+.
+\\n	<separator>
+From
+the
+chart
+we
+see
+that
+the
+Fearless	<x_axis_label_least_value>
+team	<x_axis>
+made
+the
+least	<y_axis_least_value>
+mistakes	<y_axis>
+by
+some
+margin
+,
+with
+only	<y_axis_least_value>
+1	<y_axis_least_value_val>
+.
+Cats	<x_axis_label_5th_highest_value>
+and
+DIY	<x_axis_label_4th_highest_value>
+made
+a
+respectable
+3	<y_axis_5th_highest_val>
+and
+4	<y_axis_4th_highest_val>
+mistakes	<y_axis>
+,
+with
+ABC	<x_axis_label_3rd_highest_value>
+and
+Smart Kids	<x_axis_label_Scnd_highest_value>
+not
+far	<y_axis_trend>
+behind	<y_axis_trend_down>
+,
+at
+5	<y_axis_3rd_highest_val>
+and
+6	<y_axis_Scnd_highest_val>
+respectively
+.
+Unfortunately
+the
+Lovely	<x_axis_label_highest_value>
+team	<x_axis>
+might
+need
+to
+brush
+up
+a
+little	<y_axis_trend>
+,
+with
+9	<y_axis_highest_value_val>
+mistakes	<y_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+number of mistakes	<y_axis>
+made
+by
+teams	<x_axis>
+in
+a
+quiz competition	<t=1_a=b>
+.
+\\n	<separator>
+From
+the
+chart
+we
+see
+that
+the
+Lovely	<x_axis_label_highest_value>
+team	<x_axis>
+was
+the
+least	<y_axis_least_value>
+successful	<t=1_a=b>
+team	<x_axis>
+in
+the
+competition	<t=1_a=b>
+with
+9	<y_axis_highest_value_val>
+mistakes	<y_axis>
+.
+The
+next	<order_Scnd>
+team	<x_axis>
+to
+make
+the
+most	<y_axis_highest_value>
+mistakes	<y_axis>
+was
+the
+Smart Kids	<x_axis_label_Scnd_highest_value>
+team	<x_axis>
+with
+6	<y_axis_Scnd_highest_val>
+mistakes	<y_axis>
+closely	<y_axis_trend>
+followed	<order_Scnd>
+by
+the
+ABC	<x_axis_label_3rd_highest_value>
+team	<x_axis>
+with
+5	<y_axis_3rd_highest_val>
+mistakes	<y_axis>
+.
+The
+DIY	<x_axis_label_4th_highest_value>
+team	<x_axis>
+came
+next	<order_Scnd>
+with
+4	<y_axis_4th_highest_val>
+mistakes	<y_axis>
+followed	<order_Scnd>
+by
+the
+Cats	<x_axis_label_5th_highest_value>
+team	<x_axis>
+with
+3	<y_axis_5th_highest_val>
+mistakes	<y_axis>
+.
+The
+most	<y_axis_highest_value>
+successful	<t=1_a=b>
+team	<x_axis>
+in
+the
+quiz competition	<t=1_a=b>
+was
+the
+Fearless	<x_axis_label_least_value>
+team	<x_axis>
+with
+just	<y_axis_least_value>
+1	<y_axis_least_value_val>
+mistake	<y_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+indicates
+the
+least successfull teams in a quiz competition	<topic>
+,
+measured
+by
+number of mistakes	<y_axis>
+.
+\\n	<separator>
+\\n	<separator>
+Lovely	<x_axis_label_highest_value>
+was
+the
+least	<y_axis_least_value>
+successful	<t=1_a=b>
+team	<x_axis>
+,
+with
+9	<y_axis_highest_value_val>
+mistakes	<y_axis>
+.
+Fearless	<x_axis_label_least_value>
+was
+the
+most	<y_axis_highest_value>
+successful	<t=1_a=b>
+team	<x_axis>
+,
+with
+1	<y_axis_least_value_val>
+mistake	<y_axis>
+.
+\\n	<separator>
+\\n	<separator>
+This
+is
+based
+on
+the
+assumption
+that
+success	<t=1_a=b>
+is
+measured
+by
+number of mistakes <y_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the
+least successfull teams in a quiz competition	<topic>
+,
+ranked
+by
+number of mistakes	<y_axis>
+.
+Lovely	<x_axis_label_highest_value>
+was
+the
+least	<y_axis_least_value>
+successful	<t=1_a=b>
+with
+9	<y_axis_highest_value_val>
+mistakes	<y_axis>
+followed	<order_Scnd>
+by
+smart kids	<x_axis_label_Scnd_highest_value>
+with
+6	<y_axis_Scnd_highest_val>
+mistakes	<y_axis>
+.
+ABC	<x_axis_label_3rd_highest_value>
+was
+close	<y_axis_trend>
+behind	<y_axis_trend_down>
+with
+5	<y_axis_3rd_highest_val>
+mistakes	<y_axis>
+.
+The
+most	<y_axis_highest_value>
+successful	<t=1_a=b>
+were
+DIY	<x_axis_label_4th_highest_value>
+with
+4	<y_axis_4th_highest_val>
+mistakes	<y_axis>
+,
+cats	<x_axis_label_5th_highest_value>
+with
+3	<y_axis_5th_highest_val>
+mistakes	<y_axis>
+and
+fearless	<x_axis_label_least_value>
+with
+only	<y_axis_least_value>
+1	<y_axis_least_value_val>
+mistake	<y_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the
+number of mistakes	<y_axis>
+made
+by
+different
+teams	<x_axis>
+in
+a
+quiz	<t=1_a=b>
+.
+It
+shows
+a
+big	<y_axis_trend>
+difference
+between
+the
+mistakes	<y_axis>
+made
+by
+team	<x_axis>
+Lovely	<x_axis_label_highest_value>
+at
+9	<y_axis_highest_value_val>
+and
+team	<x_axis>
+Fearless	<x_axis_label_least_value>
+at
+1	<y_axis_least_value_val>
+.
+The
+other
+teams	<x_axis>
+vary
+somewhere
+in
+the
+middle
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+compares
+the
+relative
+success	<t=1_a=b>
+of
+each
+team	<x_axis>
+in
+the
+quiz competition	<t=1_a=b>
+based
+on
+the
+number of mistakes	<y_axis>
+they
+made
+.
+Team	<x_axis>
+Fearless	<x_axis_label_least_value>
+only	<y_axis_least_value>
+had
+1	<y_axis_least_value_val>
+mistake	<y_axis>
+,
+while	<y_x_comparison>
+Cats	<x_axis_label_5th_highest_value>
+,
+DIY	<x_axis_label_4th_highest_value>
+,
+ABC	<x_axis_label_3rd_highest_value>
+and
+Smart Kids	<x_axis_label_Scnd_highest_value>
+made
+between
+3	<y_axis_5th_highest_val>
+and
+6	<y_axis_Scnd_highest_val>
+.
+Team	<x_axis>
+Lovely	<x_axis_label_highest_value>
+made
+the
+most	<y_axis_highest_value>
+mistakes	<y_axis>
+,
+with
+9	<y_axis_highest_value_val>
+mistakes	<y_axis>
+-
+an
+extra
+50	<y_axis_inferred_value_mul_v1=5th_v2=least>
+%	<y_axis_inferred_label>
+compared	<y_x_comparison>
+to
+the
+next	<order_Scnd>
+worst	<y_axis_least_value>
+team	<x_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description> #todo
+The
+graph
+shows
+the
+least successfull teams in a quiz competition	<topic>
+by
+displaying
+the
+number of mistakes	<y_axis>
+made
+.
+The
+higher	<y_axis_trend_up>
+the
+bar
+the
+more	<y_axis_trend_up>
+mistakes	<y_axis>
+made
+.
+\\n	<separator>
+Fearless	<x_axis_label_least_value>
+made
+the
+fewest	<y_axis_least_value>
+mistakes	<y_axis>
+,
+followed	<order_Scnd>
+by
+cats	<x_axis_label_5th_highest_value>
+then	<order_3rd>
+DIY	<x_axis_label_4th_highest_value>
+(
+1	<y_axis_least_value_val>
+,
+3	<y_axis_5th_highest_val>
+,
+4	<y_axis_4th_highest_val>
+retrospectively
+)
+.
+\\n	<separator>
+ABC	<x_axis_label_3rd_highest_value>
+made
+5	<y_axis_3rd_highest_val>
+mistakes	<y_axis>
+followed	<order_Scnd>
+by
+the
+smart kids	<x_axis_label_Scnd_highest_value>
+who
+made
+6	<y_axis_Scnd_highest_val>
+mistakes	<y_axis>
+.
+Team	<x_axis>
+Lovely	<x_axis_label_highest_value>
+made
+the
+most	<y_axis_highest_value>
+mistakes	<y_axis>
+at
+9	<y_axis_highest_value_val>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Chart
+shows
+the
+number of mistakes	<y_axis>
+made
+by
+team participants	<x_axis>
+in
+a
+quiz competition	<t=1_a=b>
+.
+\\n	<separator>
+\\n	<separator>
+Clearly
+shows
+the
+Lovely	<x_axis_label_highest_value>
+team	<x_axis>
+are
+the
+worst	<y_axis_least_value>
+performers
+with
+over	<y_axis_approx>
+double	<y_axis_inferred_value_mul_v1=highest_v2=5th>
+the
+mistakes	<y_axis>
+of
+the
+Cats	<x_axis_label_5th_highest_value>
+team	<x_axis>
+and
+9 times	<y_axis_inferred_value_mul_v1=highest_v2=least>
+those
+made
+by
+the
+fearless	<x_axis_label_least_value>
+team	<x_axis>
+\\n	<separator>
+\\n	<separator>
+4
+of
+the
+other
+teams	<x_axis>
+sit
+in
+the
+range
+3	<y_axis_5th_highest_val>
+-
+6	<y_axis_Scnd_highest_val>
+mistakes	<y_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the
+number of mistakes	<y_axis>
+made
+by
+the
+least successful quiz teams	<topic>
+.
+The
+team	<x_axis>
+with
+the
+highest	<y_axis_highest_value>
+number of mistakes	<y_axis>
+is
+Lovely	<x_axis_label_highest_value>
+,
+with
+around	<y_axis_approx>
+9	<y_axis_highest_value_val>
+mistakes	<y_axis>
+.
+Smart Kids	<x_axis_label_Scnd_highest_value>
+follows	<order_Scnd>
+behind	<y_axis_trend_down>
+with
+6	<y_axis_Scnd_highest_val>
+mistakes	<y_axis>
+,
+followed	<order_Scnd>
+by
+ABC	<x_axis_label_3rd_highest_value>
+(
+5	<y_axis_3rd_highest_val>
+)
+and
+DIY	<x_axis_label_4th_highest_value>
+(
+4	<y_axis_4th_highest_val>
+)
+.
+There
+is
+then	<order_3rd>
+a
+sharp	<y_axis_trend>
+decline	<y_axis_trend_down>
+,
+as
+Fearless	<x_axis_label_least_value>
+only	<y_axis_least_value>
+has
+1	<y_axis_least_value_val>
+mistake	<y_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+least	<y_axis_least_value>
+successful	<t=1_a=b>
+team	<x_axis>
+in
+the
+quiz competition	<t=1_a=b>
+was
+team	<x_axis>
+Lovely	<x_axis_label_highest_value>
+,
+who
+made
+9	<y_axis_highest_value_val>
+mistakes	<y_axis>
+.
+The
+most	<y_axis_highest_value>
+successful	<t=1_a=b>
+team	<x_axis>
+was
+team	<x_axis>
+Fearless	<x_axis_label_least_value>
+,
+with
+just	<y_axis_least_value>
+1	<y_axis_least_value_val>
+mistake	<y_axis>
+.
+In
+second
+place
+was
+team	<x_axis>
+Cats	<x_axis_label_5th_highest_value>
+with
+3	<y_axis_5th_highest_val>
+mistakes	<y_axis>
+;
+third
+place
+went
+to
+team	<x_axis>
+DIY	<x_axis_label_4th_highest_value>
+with
+4	<y_axis_4th_highest_val>
+mistakes	<y_axis>
+;
+fourth
+place
+went
+to
+team	<x_axis>
+ABC	<x_axis_label_3rd_highest_value>
+with
+5	<y_axis_3rd_highest_val>
+mistakes	<y_axis>
+and
+fifth
+place
+went
+to
+team	<x_axis>
+Smart Kinds	<x_axis_label_Scnd_highest_value>
+,
+who
+made
+6	<y_axis_Scnd_highest_val>
+mistakes	<y_axis>
+.
+Three
+out
+of
+six	<x_axis_labels_count>
+teams	<x_axis>
+made
+fewer	than	<y_axis_approx>
+5	<y_mean>
+mistakes	<y_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description> #todo
+The
+chart
+shows
+the
+number of mistakes	<y_axis>
+made
+per
+team	<x_axis>
+in
+a
+quiz	<t=1_a=b>
+so
+that
+the
+highest	<y_axis_highest_value>
+bar
+shows
+the
+least	<y_axis_least_value>
+successful	<t=1_a=b>
+-
+Team	<x_axis>
+Lovely	<x_axis_label_highest_value>
+with
+9	<y_axis_highest_value_val>
+mistakes	<y_axis>
+,
+Smart Kids	<x_axis_label_Scnd_highest_value>
+with
+6	<y_axis_Scnd_highest_val>
+,
+ABC	<x_axis_label_3rd_highest_value>
+with
+5	<y_axis_3rd_highest_val>
+,
+DIY	<x_axis_label_4th_highest_value>
+with
+4	<y_axis_4th_highest_val>
+,
+Cats	<x_axis_label_5th_highest_value>
+with
+3	<y_axis_5th_highest_val>
+and
+the
+only	<y_axis_least_value>
+one	<y_axis_least_value_val>
+mistake	<y_axis>
+made
+by
+Fearless	<x_axis_label_least_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the
+number of mistakes	<y_axis>
+made
+by
+each
+team	<x_axis>
+in
+the
+quiz competition	<t=1_a=b>
+.
+As
+you
+can
+see
+,
+Team	<x_axis>
+Fearless	<x_axis_label_least_value>
+made
+the
+fewest	<y_axis_least_value>
+mistakes	<y_axis>
+,
+only	<y_axis_least_value>
+1	<y_axis_least_value_val>
+,
+while	<y_x_comparison>
+Team	<x_axis>
+Lovely	<x_axis_label_highest_value>
+made
+the
+most	<y_axis_highest_value>
+-
+9	<y_axis_highest_value_val>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+the
+least successful teams in the quiz competition	<topic>
+by
+the
+number of mistakes	<y_axis>
+made
+.
+The
+team	<x_axis>
+with
+the
+most	<y_axis_highest_value>
+mistakes	<y_axis>
+made
+is
+Lovely	<x_axis_label_highest_value>
+approximately	<y_axis_approx>
+9	<y_axis_highest_value_val>
+,
+followed	<order_Scnd>
+by
+smart kids	<x_axis_label_Scnd_highest_value>
+with
+6	<y_axis_Scnd_highest_val>
+and
+ABC	<x_axis_label_3rd_highest_value>
+with
+5	<y_axis_3rd_highest_val>
+.
+The
+teams	<x_axis>
+with
+the
+lesser	<x_axis_trend_down>
+mistakes	<y_axis>
+are
+Fearless	<x_axis_label_least_value>
+at
+approximately	<y_axis_approx>
+1	<y_axis_least_value_val>
+,
+cats	<x_axis_label_5th_highest_value>
+at
+3	<y_axis_5th_highest_val>
+and
+DIY	<x_axis_label_4th_highest_value>
+at
+4	<y_axis_4th_highest_val>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the
+number of mistakes	<y_axis>
+made
+by
+each
+team	<x_axis>
+in
+a
+quiz	<t=1_a=b>
+.
+The
+team	<x_axis>
+Lovely	<x_axis_label_highest_value>
+made
+the
+most	<y_axis_highest_value>
+mistakes	<y_axis>
+(
+9	<y_axis_highest_value_val>
+)
+,
+while	<y_x_comparison>
+smart kids	<x_axis_label_Scnd_highest_value>
+,
+ABC	<x_axis_label_3rd_highest_value>
+and
+DIY	<x_axis_label_4th_highest_value>
+follow
+with
+mistakes	<y_axis>
+of
+6	<y_axis_Scnd_highest_val>
+,
+5	<y_axis_3rd_highest_val>
+and
+4	<y_axis_4th_highest_val>
+respectively
+.
+Fearless	<x_axis_label_least_value>
+only	<y_axis_least_value>
+made
+one	<y_axis_least_value_val>
+mistake	<y_axis>
+,
+making
+them
+the
+most	<y_axis_highest_value>
+successful	<t=1_a=b>
+in
+this
+competition	<t=1_a=b>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+that
+Lovely	<x_axis_label_highest_value>
+Team	<x_axis>
+made
+the
+most	<y_axis_highest_value>
+mistakes	<y_axis>
+in
+the
+quiz	<t=1_a=b>
+,
+followed	<order_Scnd>
+by
+Smart Kids	<x_axis_label_Scnd_highest_value>
+,
+ABC	<x_axis_label_3rd_highest_value>
+,
+DIY	<x_axis_label_4th_highest_value>
+and
+Cats	<x_axis_label_5th_highest_value>
+.
+Fearless	<x_axis_label_least_value>
+Team	<x_axis>
+were
+the
+winners
+with
+only	<y_axis_least_value>
+one	<y_axis_least_value_val>
+mistake	<y_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+compares
+the
+numbers of mistakes	<y_axis>
+made
+by
+different
+teams	<x_axis>
+during
+a
+quiz competition	<t=1_a=b>
+.
+Lovely	<x_axis_label_highest_value>
+made
+the
+most	<y_axis_highest_value>
+mistakes	<y_axis>
+whilst	<y_x_comparison>
+fearless	<x_axis_label_least_value>
+only	<y_axis_least_value>
+made
+3	<y_axis_inferred_least_value_approx>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Here
+we
+have
+a
+graph
+showing
+the
+least successful teams in the quiz	<topic>
+.
+Team	<x_axis>
+lovely	<x_axis_label_highest_value>
+made
+the
+most	<y_axis_highest_value>
+amount of mistakes	<y_axis>
+with
+9	<y_axis_highest_value_val>
+mistakes	<y_axis>
+.
+fearless	<x_axis_label_least_value>
+however	<y_x_comparison>
+only	<y_axis_least_value>
+made
+1	<y_axis_least_value_val>
+mistake	<y_axis>
+making
+them
+the
+most	<y_axis_highest_value>
+successful	<t=1_a=b>
+.
+<end_of_description>
+
+
+

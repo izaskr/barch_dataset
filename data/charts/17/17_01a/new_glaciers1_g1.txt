@@ -1,0 +1,1096 @@
+<start_of_description>
+This
+chart
+shows
+the most explored glaciers by the number of expeditions   <topic>
+undertaken
+during
+a
+particular
+time
+frame
+.
+Volta	<x_axis_label_5th_highest_value>
+received
+4	<y_axis_5th_highest_val>
+visits  <y_axis_inferred_label>
+,
+Tasman	<x_axis_label_least_value>
+received
+2	<y_axis_least_value_val>
+visits  <y_axis_inferred_label>
+,
+Akkem	<x_axis_label_Scnd_highest_value>
+received
+9	<y_axis_Scnd_highest_val>
+visits  <y_axis_inferred_label>
+,
+Zvezda	<x_axis_label_3rd_highest_value>
+received
+6	<y_axis_3rd_highest_val>
+,
+Mefonna	<x_axis_label_highest_value>
+received
+13	<y_axis_highest_value_val>
+(
+and
+as
+such
+was
+the
+most popular	<y_axis_highest_value>
+)
+and	 
+Olav	<x_axis_label_4th_highest_value>
+received
+5	<y_axis_4th_highest_val>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the most explored glaciers according to the number of expeditions	  <topic>
+.
+\n	<separator>
+Mefonna	<x_axis_label_highest_value>
+has
+the
+most	<y_axis_highest_value>
+with
+13	<y_axis_highest_value_val>
+expeditions	<y_axis_inferred_label>
+,
+this
+is
+much	<y_axis_trend>
+more	<y_axis_trend_up>
+than	<y_x_comparison>
+other
+glaciers	<x_axis>
+.
+\n	<separator>
+Tasman	<x_axis_label_least_value>
+has
+the
+fewest	<y_axis_least_value>
+expeditions	<y_axis>
+with
+just	<y_axis_least_value>
+2	<y_axis_least_value_val>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+number	of expeditions	<y_axis>
+that
+have
+explored	<t=1_a=b>
+a
+variety
+glaciers	<t=1_a=b>
+.
+We
+can
+see
+that
+the
+most explored	<y_axis_highest_value>
+is
+Mefonna	<x_axis_label_highest_value>
+with
+13	<y_axis_highest_value_val>
+expeditions	<y_axis_inferred_label>
+,
+and
+the
+least explored	 <y_axis_least_value>
+is
+Tasman	<x_axis_label_least_value>
+.
+\n	<separator>
+The data does n't tell us much about the thoroughness , length of time spent per expedition , or the size of the expedition party	<interpretation>
+.
+As such I do n't think this chart is very useful in isolation	<interpretation>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+expresses
+the most explored glaciers by the number of expeditions	<topic>
+.
+The
+glacier	<x_axis>
+which
+has
+been
+explored the most	<y_axis_highest_value>
+is
+Mefonna	<x_axis_label_highest_value>
+with
+13	<y_axis_highest_value_val>
+expeditions	<y_axis_inferred_label>
+,
+Akkem	<x_axis_label_Scnd_highest_value>
+is
+next	<order_Scnd>
+most	 
+explored	<t=1_a=b>
+with
+9	<y_axis_Scnd_highest_val>
+.
+Zvezda	<x_axis_label_3rd_highest_value>
+,
+Olav	<x_axis_label_4th_highest_value>
+,
+and	 
+Volta	<x_axis_label_5th_highest_value>
+have
+each
+been
+explored	<t=1_a=b>
+6	<y_axis_3rd_highest_val>
+,
+5	<y_axis_4th_highest_val>
+and	 
+4 times	<y_axis_5th_highest_val>
+respectively
+with
+Tasman	<x_axis_label_least_value>
+being
+explored	<t=1_a=b>
+the
+least	<y_axis_least_value>
+amount
+of
+times
+with
+2	<y_axis_least_value_val>
+expeditions	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+the most explored glaciers by number of expeditions	<topic>
+.
+From	<y_x_comparison>
+the
+chart
+we
+can
+see
+that
+Mefonna	<x_axis_label_highest_value>
+is
+clearly
+the
+most explored	<y_axis_highest_value>
+glacier	<x_axis>
+,
+whilst	<y_x_comparison>
+Tasman	<x_axis_label_least_value>
+is
+the
+least explored	<y_axis_least_value>
+.
+Volta	<x_axis_label_5th_highest_value>
+,
+Olav	<x_axis_label_4th_highest_value>
+and	 
+Zvezda	<x_axis_label_3rd_highest_value>
+are
+also
+nowhere  near  <y_axis_trend>
+as
+explored	<t=1_a=b>
+as
+Mefonna	<x_axis_label_highest_value>
+,
+and	 
+Akkem	<x_axis_label_Scnd_highest_value>
+trails   <y_axis_trend_down>
+at
+second	<order_Scnd>
+most	 
+explored	 
+glacier	<x_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+shows
+the most explored glaciers by number of expeditions	 <topic>
+.
+Six	<x_axis_labels_count>
+glaciers	<x_axis>
+are
+listed
+.
+\n\\n	<separator>
+The
+most explored	<y_axis_highest_value>
+glacier	<x_axis>
+,
+at
+13	<y_axis_highest_value_val>
+expeditions	<y_axis_inferred_label>
+,
+is
+Mefonna	<x_axis_label_highest_value>
+.
+The
+least	<y_axis_least_value>
+,
+at
+2	<y_axis_least_value_val>
+expeditions	<y_axis_inferred_label>
+,
+is
+Tasman	<x_axis_label_least_value>
+.
+The
+median
+point
+is
+between
+5	<y_axis_4th_highest_val>
+and
+6	<y_axis_3rd_highest_val>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the most explored glaciers by number of expeditions	<topic>
+.
+\n	<separator>
+From
+the
+chart
+we
+see
+that
+the
+Akkem	<x_axis_label_Scnd_highest_value>
+and	 
+Mefonna	<x_axis_label_highest_value>
+glaciers	<t=1_>
+(
+with
+9	<y_axis_Scnd_highest_val>
+and	 
+13	<y_axis_highest_value_val>
+visits
+respectively
+,
+for
+a
+total
+of
+22    <group_Scnd_highest>
+)
+were
+visited   <t=0_a=b>
+more	<y_axis_trend_up>
+often
+than	<y_x_comparison>
+the
+remaining
+4	 
+glaciers	<x_axis>
+put
+together
+(
+with
+a
+combined
+total
+of
+17	    <group_3rd_4th_5th_least>
+)
+.
+<end_of_description>
+ 
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+number	<y_axis>
+of
+expeditions	<y_axis>
+made
+glaciers	<t=1_a=b>
+.
+\n\\n	<separator>
+From
+this
+chart
+we
+see
+that
+the
+glacier	<x_axis>
+that
+has
+had
+the
+most	<y_axis_highest_value>
+expeditions	<y_axis>
+made
+to
+it
+is
+the
+Mefonna	<x_axis_label_highest_value>
+glacier	<x_axis>
+with
+13	<y_axis_highest_value_val>
+expeditions	<y_axis_inferred_label>
+.
+The
+next	<order_Scnd>
+glacier	<x_axis>
+with
+the
+most	<y_axis_highest_value>
+expeditions	<y_axis>
+is
+Akkem	<x_axis_label_Scnd_highest_value>
+with
+9	<y_axis_Scnd_highest_val>
+followed by	<order_Scnd>
+Zvezda	<x_axis_label_3rd_highest_value>
+with
+6	<y_axis_3rd_highest_val>
+.
+The
+Olav	<x_axis_label_4th_highest_value>
+glacier	<x_axis>
+follows	<order_3rd>
+this
+with
+5	<y_axis_4th_highest_val>
+expeditions	<y_axis_inferred_label>
+made
+to
+it
+and	 
+the
+Volta	<x_axis_label_5th_highest_value>
+has
+4	<y_axis_5th_highest_val>
+expeditions	<y_axis_inferred_label>
+.
+Tasman	<x_axis_label_least_value>
+has
+the
+least	<y_axis_least_value>
+number	of expeditions	<y_axis>
+made
+to
+it
+at
+2	<y_axis_least_value_val>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+describes
+the most explored glaciers , measured by number of expeditions taken    <topic>
+.
+\n	<separator>
+The
+most explored	<y_axis_highest_value>
+glacier	<x_axis>
+is
+Mefonna	<x_axis_label_highest_value>
+(
+13	<y_axis_highest_value_val>
+expeditions	<y_axis_inferred_label>
+)
+,
+followed by	<order_Scnd>
+Akkem	<x_axis_label_Scnd_highest_value>
+(
+9	<y_axis_Scnd_highest_val>
+expeditions	<y_axis_inferred_label>
+)
+.
+The
+least explored	<y_axis_least_value>
+glacier	<x_axis>
+is
+Tasman	<x_axis_label_least_value>
+(
+2	<y_axis_least_value_val>
+expeditions	<y_axis_inferred_label>
+)
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the most explored glaciers by number of expeditions	<topic>
+.
+Mefonna	<x_axis_label_highest_value>
+was
+the
+most explored	<y_axis_highest_value>
+glacier	<x_axis>
+with
+13	<y_axis_highest_value_val>
+expeditions	<y_axis_inferred_label>
+.
+Akhem
+followed	<order_Scnd>
+with
+9	<y_axis_Scnd_highest_val>
+expeditions	<y_axis_inferred_label>
+.
+Zvezda	<x_axis_label_3rd_highest_value>
+,
+Olav	<x_axis_label_4th_highest_value>
+,
+Volta	<x_axis_label_5th_highest_value>
+and	 
+Tasman	<x_axis_label_least_value>
+glaciers	<x_axis>
+were
+all
+much	<y_axis_trend>
+lower	<y_axis_trend_down>
+with
+between 
+2	<y_axis_least_value_val>
+and
+6	<y_axis_3rd_highest_val>
+expeditions	<y_axis_inferred_label>
+each
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the
+number of expeditions	<y_axis>
+which
+have
+taken
+place
+across
+various
+glaciers  <x_axis>
+.
+The
+numbers	<y_axis>
+are
+varied	<y_axis_trend>
+between
+13	<y_axis_highest_value_val>
+expeditions	<y_axis_inferred_label>
+and
+2	<y_axis_least_value_val>
+expeditions	<y_axis_inferred_label>
+with no clear similarities between any of the glaciers	<interpretation>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+compares
+glaciers	<x_axis>
+by
+how
+frequently
+they
+have
+been
+explored	<t=1_a=b>
+.
+\n\\n	<separator>
+Mefonna	<x_axis_label_highest_value>
+has
+the
+highest	<y_axis_highest_value>
+number of explorations  	<y_axis>
+by
+some	<y_axis_approx>
+way
+with
+13	<y_axis_highest_value_val>
+overall
+.
+Akkem	<x_axis_label_Scnd_highest_value>
+is
+next	<order_Scnd>
+with
+9	<y_axis_Scnd_highest_val>
+.
+Zvezda	<x_axis_label_3rd_highest_value>
+is
+next	<order_Scnd>
+with
+6	<y_axis_3rd_highest_val>
+,
+closely	<y_axis_trend>
+followed by  <order_Scnd>
+Olav	<x_axis_label_4th_highest_value>
+with
+5	<y_axis_4th_highest_val>
+and 
+Volta	<x_axis_label_5th_highest_value>
+with
+4	<y_axis_5th_highest_val>
+.
+Tasman	<x_axis_label_least_value>
+has
+had
+the
+fewest	<y_axis_least_value>
+with
+only	<y_axis_least_value>
+2	<y_axis_least_value_val>
+expeditions	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+shows
+the most explored glaciers by the number of expeditions	<topic>
+.
+The
+least explored	<y_axis_least_value>
+glacier	<x_axis>
+was
+Tasman	<x_axis_label_least_value>
+with
+only	<y_axis_least_value>
+2	<y_axis_least_value_val>
+expeditions	<y_axis_inferred_label>
+.
+Volta	<x_axis_label_5th_highest_value>
+had
+4	<y_axis_5th_highest_val>
+expeditions	<y_axis_inferred_label>
+Olay
+5	<y_axis_4th_highest_val>
+and 
+Zvezda	<x_axis_label_3rd_highest_value>
+6	<y_axis_3rd_highest_val>
+.
+Akkem	<x_axis_label_Scnd_highest_value>
+had
+9	<y_axis_Scnd_highest_val>
+expeditions	<y_axis_inferred_label>
+but	<y_x_comparison>
+the
+most explored	<y_axis_highest_value>
+was
+Mefonna	<x_axis_label_highest_value>
+.
+Mefonna	<x_axis_label_highest_value>
+had
+a
+total
+of
+13	<y_axis_highest_value_val>
+expeditions	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+the most explored glaciers based on the number of expeditions to each glacier	<topic>
+\n\\n	<separator>
+Chart
+shows
+most popular	<y_axis_highest_value>
+is
+the
+Mefonna	<x_axis_label_highest_value>
+glacier	<x_axis>
+with
+the
+least popular	<y_axis_least_value>
+being
+the
+Tasman	<x_axis_label_least_value>
+.
+Akkem	<x_axis_label_Scnd_highest_value>
+,
+Zvezda	<x_axis_label_3rd_highest_value>
+and	 
+Olav	<x_axis_label_4th_highest_value>
+are
+in
+the
+middle
+range
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+displays
+the most explored glaciers	<topic>
+and	 
+uses
+the
+number	of expeditions	<y_axis>
+to
+qualify
+this
+data
+.
+The
+most explored	<y_axis_highest_value>
+by
+far	<y_axis_trend>
+is
+Mefonna	<x_axis_label_highest_value>
+,
+with
+13	<y_axis_highest_value_val>
+expeditions	<y_axis_inferred_label>
+.
+This
+number	<y_axis>
+is
+slightly	<y_axis_trend>
+lower	<y_axis_trend_down>
+for
+Akkem	<x_axis_label_Scnd_highest_value>
+(
+9	<y_axis_Scnd_highest_val>
+expeditions	<y_axis_inferred_label>
+)
+and	 
+lower	<y_axis_trend_down>
+still
+for
+Zvezda	<x_axis_label_3rd_highest_value>
+(
+6	<y_axis_3rd_highest_val>
+)
+.
+The
+three
+glaciers	<t=1_a=b>
+that
+have
+not
+had
+as
+many
+expeditions	<y_axis>
+are
+Olav	<x_axis_label_4th_highest_value>
+(
+5	<y_axis_4th_highest_val>
+)
+,
+Volta	<x_axis_label_5th_highest_value>
+(
+4	<y_axis_5th_highest_val>
+)
+and	 
+finally	<order_last>
+Tasman	<x_axis_label_least_value>
+,
+with
+only	<y_axis_least_value>
+2	<y_axis_least_value_val>
+expeditions	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+table
+shows
+the
+number of expeditions	<y_axis>
+journeying
+to
+six	<x_axis_labels_count>
+different
+glaciers	<t=1_a=b>
+.
+The
+most visited	<y_axis_highest_value>
+glacier	<x_axis>
+(
+Mefonna	<x_axis_label_highest_value>
+)
+had
+13	<y_axis_highest_value_val>
+visits   <y_axis_inferred_label>
+;
+the
+least visited	<y_axis_least_value>
+glacier	<x_axis>
+(
+Tasman	<x_axis_label_least_value>
+)
+had
+2	<y_axis_least_value_val>
+visits   <y_axis_inferred_label>
+.
+The table does not necessarily represent the depth or breadth of exploration - it does not show the duration of the expedition	<y_axis> , nor the size of the geographical area explored	<interpretation>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+the
+most	<y_axis_highest_value>
+explored glaciers	<t=1_a=b>
+in
+terms
+of
+the
+number of expeditions	<y_axis>
+with
+Mefonna	<x_axis_label_highest_value>
+having
+the
+most	<y_axis_highest_value>
+–
+13	<y_axis_highest_value_val>
+expeditions	<y_axis_inferred_label>
+down
+to
+Tasman	<x_axis_label_least_value>
+the
+least expored	<y_axis_least_value>
+of
+the
+group
+at
+2	<y_axis_least_value_val>
+expeditions	<y_axis_inferred_label>
+.
+In
+between
+,
+we
+have
+Volata
+4	<y_axis_5th_highest_val>
+,
+Olav	<x_axis_label_4th_highest_value>
+5	<y_axis_4th_highest_val>
+,
+Zvevzda
+6	<y_axis_3rd_highest_val>
+and
+Akkem	<x_axis_label_Scnd_highest_value>
+9	<y_axis_Scnd_highest_val>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+how
+well	<y_axis_trend_up>
+-
+explored	<t=1_a=b>
+several
+glers	<t=1_a=b>
+are
+,
+based
+on
+how
+many
+expeditions	<y_axis>
+have
+been
+made
+to
+them
+.
+The
+least explored	<y_axis_least_value>
+glacier	<x_axis>
+is
+Tasman	<x_axis_label_least_value>
+,
+with
+only	<y_axis_least_value>
+2	<y_axis_least_value_val>
+expeditions	<y_axis_inferred_label>
+ever
+being
+made
+there
+,
+whilst	<y_x_comparison>
+Mefonna	<x_axis_label_highest_value>
+is
+by
+far	<y_axis_trend>
+the
+most explored	<y_axis_highest_value>
+,
+having
+undergone
+13	<y_axis_highest_value_val>
+expeditions	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+the most explored glaciers by the number of expeditions	<topic>
+.
+We
+can
+see
+that
+the
+most explored	<y_axis_highest_value>
+is
+Mefonna	<x_axis_label_highest_value>
+with
+approximately	<y_axis_approx>
+13	<y_axis_highest_value_val>
+number	<y_axis>
+of
+expeditions	<y_axis>
+.
+This
+then	<order_3rd>
+decreases
+to
+9	<y_axis_Scnd_highest_val>
+with
+Akkem	<x_axis_label_Scnd_highest_value>
+and
+Zvezda	<x_axis_label_3rd_highest_value>
+is
+next	<order_Scnd>
+with
+6	<y_axis_3rd_highest_val>
+.
+The
+least explored	<y_axis_least_value>
+are
+Tasman	<x_axis_label_least_value>
+with
+2	<y_axis_least_value_val>
+,
+Volta	<x_axis_label_5th_highest_value>
+with
+4	<y_axis_5th_highest_val>
+and	 
+Olav	<x_axis_label_4th_highest_value>
+at
+approximately	<y_axis_approx>
+5	<y_axis_4th_highest_val>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the
+number of expeditions	<y_axis>
+take
+up	 
+each
+Glacier	<x_axis>
+.
+Mefonna	<x_axis_label_highest_value>
+being
+the
+most	<y_axis_highest_value>
+climbed
+at
+13	<y_axis_highest_value_val>
+and	 
+Tasman	<x_axis_label_least_value>
+being
+the
+least popular	<y_axis_least_value>
+at
+just	<y_axis_least_value>
+2	<y_axis_least_value_val>
+climbs	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+that
+Mefonna	<x_axis_label_highest_value>
+was
+the
+most explored	<y_axis_highest_value>
+glacier	<x_axis>
+with
+13	<y_axis_highest_value_val>
+expeditions	<y_axis_inferred_label>
+,
+followed by  <order_Scnd>
+Akkem	<x_axis_label_Scnd_highest_value>
+,
+Zvezda	<x_axis_label_3rd_highest_value>
+,
+Olav	<x_axis_label_4th_highest_value>
+,
+Volta	<x_axis_label_5th_highest_value>
+and	 
+last	<y_axis_least_value>
+,
+Tasman	<x_axis_label_least_value>
+with
+2	<y_axis_least_value_val>
+expeditions	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+us
+the
+number of expeditions	<y_axis>
+to
+different
+glaciers	<x_axis>
+.
+Mefonna	<x_axis_label_highest_value>
+is
+by
+far	<y_axis_trend>
+the
+most visited	<y_axis_highest_value>
+,
+with
+Akkem	<x_axis_label_Scnd_highest_value>
+coming in second	<order_Scnd>
+at
+9	<y_axis_Scnd_highest_val>
+expeditions	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Mefonna	<x_axis_label_highest_value>
+is
+the
+most explored	<y_axis_highest_value>
+glacier	<x_axis>
+by
+number of expeditions	<y_axis>
+.
+Mefonna	<x_axis_label_highest_value>
+had
+13	<y_axis_highest_value_val>
+expeditions	<y_axis_inferred_label>
+whereas	<y_x_comparison>
+Tasman	<x_axis_label_least_value>
+only	<y_axis_least_value>
+had
+2	<y_axis_least_value_val>
+.
+Volta	<x_axis_label_5th_highest_value>
+had
+4	<y_axis_5th_highest_val>
+,
+Olav	<x_axis_label_4th_highest_value>
+5	<y_axis_4th_highest_val>
+,
+Zvezda	<x_axis_label_3rd_highest_value>
+6	<y_axis_3rd_highest_val>
+and
+Akkem	<x_axis_label_Scnd_highest_value>
+9	<y_axis_Scnd_highest_val>
+.
+<end_of_description>
+
+
+

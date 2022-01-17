@@ -1,0 +1,1633 @@
+<start_of_description>
+This
+chart
+shows
+the
+distribution
+of
+social media usage	<t=1_a=y>
+among
+different
+age groups	<x_axis>
+.
+By
+far
+the
+highest	<y_axis_highest_value>
+usage	<t=1_a=y>
+is
+among
+the
+45-54	<x_axis_label_highest_value>
+age group	<x_axis>
+at
+150	<y_axis_highest_value_val>
+minutes	<y_axis_inferred_label>
+.
+The
+15-24	<x_axis_label_Scnd_highest_value>
+age group	<x_axis>
+is
+some
+way
+behind	<y_axis_trend_down>
+,
+followed	<order_Scnd>
+by
+the
+55-64	<x_axis_label_3rd_highest_value>
+age group	<x_axis>
+.
+The
+25-34 and 35-44	<group_4th_least>
+age groups	<x_axis>
+are
+roughly	<y_axis_approx>
+equal
+but	<y_x_comparison>
+considerably
+lower	<y_axis_trend_down>
+than
+the
+55-64	<x_axis_label_3rd_highest_value>
+age group	<x_axis>
+,
+at
+78	<group_y_4th_least>
+minutes	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+on
+average
+how many minutes	<y_axis>
+different
+age groups	<x_axis>
+use
+social media	<t=1_a=y>
+.
+It
+shows
+that
+45-54 year olds	<x_axis_label_highest_value>
+use
+it
+the
+most	<y_axis_highest_value>
+with
+150	<y_axis_highest_value_val>
+minutes	<y_axis_inferred_label>
+followed	<order_Scnd>
+by
+15-24 year olds	<x_axis_label_Scnd_highest_value>
+with
+123	<y_axis_inferred_Scnd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+,
+then	<order_3rd>
+55-64	<x_axis_label_3rd_highest_value>
+with
+110	<y_axis_3rd_highest_val>
+minutes	<y_axis_inferred_label>
+and
+the
+using
+it
+the
+least	<y_axis_least_value>
+amount of time	<y_axis>
+were
+25-34 and 35-44 year olds	<group_4th_least>
+with
+77	<group_y_4th_least>
+minutes	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+shows
+that
+people aged	<x_axis>
+between
+45-54	<x_axis_label_highest_value>
+spend
+approximately	<y_axis_approx>
+152	<y_axis_inferred_highest_value_approx>
+minutes	<y_axis_inferred_label>
+on
+social media	<t=1_a=y>
+per
+day	<t=1_a=y>
+.
+The
+next	<order_Scnd>
+highest	<y_axis_highest_value>
+figure
+is
+people aged	<x_axis>
+15-24	<x_axis_label_Scnd_highest_value>
+who
+spend
+around	<y_axis_approx>
+124	<y_axis_inferred_Scnd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+each
+day	<t=1_a=y>
+.
+Those
+aged	<x_axis>
+25-34	<x_axis_label_4th_highest_value>
+and	
+35-44	<x_axis_label_least_value>
+spend
+a
+similar	<y_axis_trend>
+amount of time	<y_axis>
+on
+social media	<t=1_a=y>
+per
+day	<t=1_a=y>
+,
+76	<y_axis_inferred_4th_highest_value_approx>
+minutes	<y_axis_inferred_label>
+and
+72	<y_axis_inferred_least_value_approx>
+minutes	<y_axis_inferred_label>
+respectively
+.
+The
+55-64	<x_axis_label_3rd_highest_value>
+age group	<x_axis>
+spends
+around	<y_axis_approx>
+112	<y_axis_inferred_3rd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+per
+day	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+how many minutes	<y_axis>
+different
+age groups	<x_axis>
+use
+social media	<t=1_a=y>
+each
+day	<t=1_a=y>
+.
+\\n	<separator>
+It
+shows
+the
+youngest
+group	<x_axis>
+of
+15-24 year olds	<x_axis_label_Scnd_highest_value>
+use
+social media	<t=1_a=y>
+for
+124	<y_axis_inferred_Scnd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+a
+day	<t=1_a=y>
+,
+which
+decreases	<y_axis_trend_down>
+sharply	<y_axis_trend>
+for
+the
+next	<order_Scnd>
+age group	<x_axis>
+of
+25-34 year olds	<x_axis_label_4th_highest_value>
+who
+only	<y_axis_least_value>
+use
+it
+for
+77	<y_axis_inferred_4th_highest_value_approx>
+minutes	<y_axis_inferred_label>
+a
+day	<t=1_a=y>
+.
+This
+is
+almost
+the
+same
+as
+those
+in
+the
+35-44 year olds	<x_axis_label_least_value>
+who
+use
+is
+for
+one	<y_axis_inferred_value_add_v1=least_v2=4th>
+minute	<y_axis_inferred_label>
+less
+at
+76	<y_axis_inferred_4th_highest_value_approx>
+minutes	<y_axis_inferred_label>
+a
+day	<t=1_a=y>
+.
+The
+next	<order_Scnd>
+group	<x_axis>
+of
+45-54 year olds	<x_axis_label_highest_value>
+are
+the
+most	<y_axis_highest_value>
+frequent users	<t=1_a=b>
+at
+150	<y_axis_highest_value_val>
+minutes	<y_axis_inferred_label>
+a
+day	<t=1_a=y>
+,
+while	<y_x_comparison>
+the
+oldest group	<x_axis_label_3rd_highest_value>
+use
+social media	<t=1_a=y>
+for
+110	<y_axis_3rd_highest_val>
+minutes	<y_axis_inferred_label>
+a
+day	<t=1_a=b>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+the
+number
+of
+minutes	<y_axis>
+people
+in
+equlised
+age ranges	<x_axis>
+use
+social media	<t=1_a=y>
+.
+45-54	year olds <x_axis_label_highest_value>
+use
+social media	<t=1_a=y>
+the
+most	<y_axis_highest_value>
+at
+150	<y_axis_highest_value_val>
+minutes	<y_axis_inferred_label>
+followed	<order_Scnd>
+by
+15-24 year old	<x_axis_label_Scnd_highest_value>
+at
+about	<y_axis_approx>
+123	<y_axis_inferred_Scnd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+then	<order_3rd>
+the
+oldest
+group	<x_axis>
+55-64 year olds	<x_axis_label_3rd_highest_value>
+115	<y_axis_inferred_3rd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+followed	<order_Scnd>
+by
+the
+25-34 and 35-44	<group_4th_least>
+group	<x_axis>
+equally
+at
+about	<y_axis_approx>
+70	<group_y_4th_least>
+minutes	<y_axis_inferred_label>
+.
+\\n	<separator>
+The
+lower	<y_axis_trend_down>
+end
+is
+expected
+but	<y_x_comparison>
+the
+upper
+end	<t=1_a=b>
+of
+the
+age range	<x_axis>
+seems
+odd
+at
+first
+glance
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+what
+age groups	<x_axis>
+are
+most
+likely
+to
+use
+social media	<t=1_a=y>
+on
+a
+daily	<t=1_a=y>
+basis
+.
+The
+most	<y_axis_highest_value>
+frequent	<t=1_a=y>
+daily	<t=1_a=y>
+users	<t=1_a=x>
+of
+social media	<t=1_a=y>
+were
+those
+in
+the
+45-54	<x_axis_label_highest_value>
+age group	<x_axis>
+at
+a
+rate
+of
+over	<y_axis_approx>
+140	<y_axis_inferred_highest_value_approx>
+minutes	<y_axis_inferred_label>
+a
+day	<t=1_a=y>
+.
+The
+second	<order_Scnd>
+biggest	<y_axis_highest_value>
+daily	<t=1_a=y>
+users	<t=1_a=x>
+were
+those
+in
+the
+15-24	<x_axis_label_Scnd_highest_value>
+age category	<x_axis>
+at
+a little over	<y_axis_approx>
+120	<y_axis_inferred_Scnd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+per
+day	<t=1_a=y>
+,
+followed	<order_Scnd>
+by
+the
+oldest
+group	<x_axis>
+of
+55-64	<x_axis_label_3rd_highest_value>
+who
+used
+social media	<t=1_a=y>
+for
+over	<y_axis_approx>
+100	<y_axis_inferred_3rd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+a
+day	<t=1_a=y>
+.
+The
+lowest	<y_axis_least_value>
+users	<t=1_a=x>
+were
+the
+age groups	<x_axis>
+of
+25-34 and 35-44	<group_4th_least>
+with
+almost	<y_axis_approx>
+80	<group_y_4th_least>
+minutes	<y_axis_inferred_label>
+a
+day	<t=1_a=y>
+each
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+age group	<x_axis>
+45-54	<x_axis_label_highest_value>
+are
+the
+most	<y_axis_highest_value>
+frequent	<t=1_a=y>
+daily	<t=1_a=y>
+users	<t=1_a=x>
+of
+social media	<t=1_a=y>
+with
+an
+average	<y_axis_approx>
+time	<y_axis>
+of
+around	<y_axis_approx>
+150	<y_axis_highest_value_val>
+minutes	<y_axis_inferred_label>
+.
+Age group	<x_axis>
+15-24	<x_axis_label_Scnd_highest_value>
+is
+the
+next	<order_Scnd>
+most	<y_axis_highest_value>
+frequent	<t=1_a=y>
+user	<t=1_a=x>
+while	<y_x_comparison>
+age groups	<x_axis>
+25-34	<x_axis_label_4th_highest_value>
+&
+35-44	<x_axis_label_least_value>
+are
+the
+least	<y_axis_least_value>
+frequent	<t=1_a=y>
+user	<t=1_a=x>
+<end_of_description>
+
+
+
+<start_of_description>
+This
+bar
+graph
+shows
+the
+most frequent daily users of social media by various age groups	<topic>
+by
+time	<y_axis>
+in
+minutes	<y_axis_inferred_label>
+.
+The
+highest	<y_axis_highest_value>
+was
+the
+age bracket	<x_axis>
+45-54	<x_axis_label_highest_value>
+at
+150	<y_axis_highest_value_val>
+minutes	<y_axis_inferred_label>
+.
+Followed	<order_Scnd>
+by
+the
+15-24	<x_axis_label_Scnd_highest_value>
+age bracket	<x_axis>
+which
+has
+a
+total
+of
+124	<y_axis_inferred_Scnd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+.
+\\n	<separator>
+Third	<order_3rd>
+highest	<y_axis_highest_value>
+was
+the
+55 to 64	<x_axis_label_3rd_highest_value>
+age bracket	<x_axis>
+at
+130	<y_axis_inferred_3rd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+.
+The
+remainder
+showed
+the
+lowest	<y_axis_least_value>
+minutes	<y_axis>
+,
+the
+25 to 34	<x_axis_label_4th_highest_value>
+age bracket	<x_axis>
+at
+73	<y_axis_inferred_4th_highest_value_approx>
+minutes	<y_axis_inferred_label>
+followed	<order_Scnd>
+by
+the
+age bracket	<x_axis>
+35 to 44	<x_axis_label_least_value>
+at
+71	<y_axis_inferred_least_value_approx>
+minutes	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+shows
+the
+most frequent daily users of social media by age group	<topic>
+.
+The
+most	<y_axis_highest_value>
+frequent	<t=1_a=y>
+users	<t=1_a=x>
+of
+social media	<t=1_a=y>
+are
+45-54	year olds <x_axis_label_highest_value>
+with
+150	<y_axis_highest_value_val>
+minutes	<y_axis_inferred_label>
+of
+daily use	<t=1_a=y>
+,
+closely	<y_axis_trend>
+followed	<order_Scnd>
+by
+15-24 year olds	<x_axis_label_Scnd_highest_value>
+with
+125	<y_axis_Scnd_highest_val>
+minutes	<y_axis_inferred_label>
+of
+daily use	<t=1_a=y>
+.
+In
+third	<order_3rd>
+place
+is
+55-64 year olds	<x_axis_label_3rd_highest_value>
+with
+110	<y_axis_3rd_highest_val>
+minutes	<y_axis_inferred_label>
+of
+daily use	<t=1_a=y>
+,
+and
+finally	<order_last>
+both
+25-34 and 35-44	<group_4th_least>
+age groups	<x_axis>
+spend
+roughly	<y_axis_approx>
+75	<group_y_4th_least>
+minutes	<y_axis_inferred_label>
+a
+day	<t=1_a=y>
+on
+social media	<t=1_a=y>
+<end_of_description>
+
+
+
+<start_of_description>
+Surprisingly
+research
+shows
+that
+the
+age group	<x_axis>
+45-54	<x_axis_label_highest_value>
+were
+the
+most	<y_axis_highest_value>
+frequently
+daily	<t=1_a=y>
+users	<t=1_a=x>
+of
+social media	<t=1_a=y>
+clocking
+up
+an
+average	<y_axis_approx>
+of
+150	<y_axis_highest_value_val>
+minutes	<y_axis_inferred_label>
+per
+day	<t=1_a=y>
+followed	<order_Scnd>
+closely	<y_axis_trend>
+by
+the
+15-24 year olds	<x_axis_label_Scnd_highest_value>
+at
+just over	<y_axis_approx>
+120	<y_axis_inferred_Scnd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+a
+day	<t=1_a=y>
+\\n	<separator>
+Next
+were
+the
+55-64 year olds	<x_axis_label_3rd_highest_value>
+with
+an
+average	<y_axis_approx>
+of
+110	<y_axis_3rd_highest_val>
+with
+the
+lowest	<y_axis_least_value>
+users	<t=1_a=x>
+overall
+tying
+at
+70	<group_y_4th_least>
+minutes	<y_axis_inferred_label>
+were
+25-34 and 34-44 year olds	<group_4th_least>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+People aged	<x_axis>
+45-54	<x_axis_label_highest_value>
+and
+15-24	<x_axis_label_Scnd_highest_value>
+are
+the
+most	<y_axis_highest_value>
+frequent	<t=1_a=y>
+daily	<t=1_a=y>
+users	<t=1_a=x>
+of
+social media	<t=1_a=y>
+where
+they
+spend
+148	<y_axis_inferred_highest_value_approx>
+and
+124	<y_axis_inferred_Scnd_highest_value_approx>
+daily	<t=1_a=y>
+minutes	<y_axis_inferred_label>
+surfing
+.
+People aged	<x_axis>
+25-34 and 35-44	<group_4th_least>
+are
+the
+least	<y_axis_least_value>
+frequent	<t=1_a=y>
+users	<t=1_a=x>
+with
+72	<group_y_4th_least>
+daily	<t=1_a=b>
+minutes	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+age group	<x_axis>
+who
+spent
+the
+most	<y_axis_highest_value>
+time
+online
+and
+represents
+the
+most	<y_axis_highest_value>
+frequent	<t=1_a=y>
+users	<t=1_a=x>
+are
+the
+cohort aged	<x_axis>
+45-54	<x_axis_label_highest_value>
+.
+The
+least	<y_axis_least_value>
+frequent	<t=1_a=y>
+were
+the
+ages	<x_axis>
+25-34 and 35-44	<group_4th_least>
+,
+both
+spending
+less than	<y_axis_approx>
+80	<group_y_4th_least>
+minutes	<y_axis_inferred_label>
+daily	<t=1_a=y>
+on
+social media	<t=1_a=y>
+.
+The
+youngest
+group	<x_axis>
+,
+aged	<x_axis>
+between 15 and 24	<x_axis_label_Scnd_highest_value>
+spent
+more than	<y_axis_approx>
+120	<y_axis_inferred_Scnd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+online
+whilst	<y_x_comparison>
+the
+oldest	<x_axis_label_3rd_highest_value>
+spent
+around	<y_axis_approx>
+110	<y_axis_3rd_highest_val>
+minutes	<y_axis_inferred_label>
+using
+social media	<t=1_a=y>
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+is
+showing
+the
+most frequent social media users by age bracket	<topic>
+.
+On
+average
+it
+shows
+that
+people
+in
+both
+25-34 and 35-44	<group_4th_least>
+age groups	<x_axis>
+use
+social media	<t=1_a=y>
+the
+same
+amount
+at
+less than	<y_axis_approx>
+80	<group_y_4th_least>
+minutes	<y_axis_inferred_label>
+;
+A
+large	<y_axis_trend>
+jump	<y_axis_trend_up>
+to
+55-64 year olds	<x_axis_label_3rd_highest_value>
+who
+average around	<y_axis_approx>
+110	<y_axis_3rd_highest_val>
+minutes	<y_axis_inferred_label>
+,
+15-24 year olds	<x_axis_label_Scnd_highest_value>
+average
+just about	<y_axis_approx>
+120	<y_axis_inferred_Scnd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+and
+the
+highest	<y_axis_highest_value>
+and
+most
+surprising
+number
+,
+at
+150	<y_axis_highest_value_val>
+minute	<y_axis>
+is
+45-54 year olds	<x_axis_label_highest_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+age group	<x_axis>
+45-54	<x_axis_label_highest_value>
+was
+found
+to
+be
+the
+most	<y_axis_highest_value>
+frequent	<t=1_a=y>
+daily	<t=1_a=y>
+users	<t=1_a=x>
+of
+social media	<t=1_a=y>
+,
+spending
+approximately	<y_axis_approx>
+150	<y_axis_highest_value_val>
+minutes	<y_axis_inferred_label>
+per
+day	<t=1_a=y>
+on
+social media	<t=1_a=y>
+platforms
+.
+The
+least	<y_axis_least_value>
+frequent	<t=1_a=y>
+users	<t=1_a=x>
+were
+the
+age groups	<x_axis>
+25-34	<x_axis_label_4th_highest_value>
+and
+35-44	<x_axis_label_least_value>
+,
+with
+35-44	<x_axis_label_least_value>
+spending
+approximately	<y_axis_approx>
+70	<y_axis_inferred_least_value_approx>
+minutes	<y_axis_inferred_label>
+on
+social media	<t=1_a=y>
+per
+day	<t=1_a=y>
+and
+the
+age group	<x_axis>
+25-34	<x_axis_label_4th_highest_value>
+spending
+slightly	<y_axis_trend>
+longer	<y_axis_trend_up>
+,
+at
+75	<y_axis_4th_highest_val>
+minutes	<y_axis_inferred_label>
+per
+day	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Users aged	<x_axis>
+45-54	<x_axis_label_highest_value>
+are
+the
+most	<y_axis_highest_value>
+frequrnt	<t=1_a=y>
+daily	<t=1_a=y>
+users	<t=1_a=x>
+of
+social media	<t=1_a=y>
+at
+150	<y_axis_highest_value_val>
+minutes	<y_axis_inferred_label>
+,
+followed	<order_Scnd>
+by
+15-24 year olds	<x_axis_label_Scnd_highest_value>
+at
+124	<y_axis_inferred_Scnd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+.
+55-64 year olds	<x_axis_label_3rd_highest_value>
+come
+next	<order_Scnd>
+with
+110	<y_axis_3rd_highest_val>
+minutes	<y_axis_inferred_label>
+,
+while	<y_x_comparison>
+25-34 year olds	<x_axis_label_4th_highest_value>
+and
+35-44 year olds	<x_axis_label_least_value>
+the
+lowest	<y_axis_least_value>
+users	<t=1_a=x>
+at
+75	<y_axis_inferred_least_value_approx>
+-
+80	<y_axis_inferred_4th_highest_value_approx>
+minutes	<y_axis_inferred_label>
+each
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+which
+age groups are the most frequent users of social media	<topic>
+.
+The
+highest	<y_axis_highest_value>
+using
+group	<x_axis>
+is
+the
+age range	<x_axis>
+45-54	<x_axis_label_highest_value>
+who
+use
+social media	<t=1_a=y>
+for
+148	<y_axis_inferred_highest_value_approx>
+minutes	<y_axis_inferred_label>
+a
+day	<t=1_a=y>
+.
+The
+second	<order_Scnd>
+highest	<y_axis_highest_value>
+group	<x_axis>
+is
+15-24 year olds	<x_axis_label_Scnd_highest_value>
+who
+register
+124	<y_axis_inferred_Scnd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+a
+day	<t=1_a=y>
+.
+They
+are
+closely	<y_axis_trend>
+followed	<order_Scnd>
+by
+the
+55-64	<x_axis_label_3rd_highest_value>
+age group	<x_axis>
+who
+use
+108	<y_axis_inferred_3rd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+.
+There
+is
+then
+a
+drop	<y_axis_trend_down>
+to
+the
+25-34 year olds	<x_axis_label_4th_highest_value>
+with
+72	<y_axis_inferred_4th_highest_value_approx>
+minutes	<y_axis_inferred_label>
+.
+They
+are
+closely	<y_axis_trend>
+followed	<order_Scnd>
+by
+the
+35-44	<x_axis_label_least_value>
+age group	<x_axis>
+who
+use
+social media	<t=1_a=y>
+for
+70	<y_axis_inferred_least_value_approx>
+minutes	<y_axis_inferred_label>
+daily	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+details
+the
+most frequent daily users of social media	<topic>
+,
+by
+looking
+at
+how
+long
+various
+age ranges	<x_axis>
+spend
+using
+it
+.
+We
+do
+not
+how
+whether
+the
+time
+given
+is
+per
+day	<t=1_a=y>
+or
+per
+week
+.
+The
+graph
+tells
+us
+that
+45-54 year olds	<x_axis_label_highest_value>
+use
+Social Media	<t=1_a=y>
+the
+most	<y_axis_highest_value>
+,
+with
+around	<y_axis_approx>
+2½	<y_axis_inferred_highest_value_approx>
+hours	<y_axis_inferred_label>
+usage
+.
+15-24 year olds	<x_axis_label_Scnd_highest_value>
+are
+next	<order_Scnd>
+,
+with
+just over	<y_axis_approx>
+2	<y_axis_inferred_Scnd_highest_value_approx>
+hours	<y_axis_inferred_label>
+usage
+.
+Close	<y_axis_trend>
+behind	<y_axis_trend_down>
+them
+are
+the
+55-64	<x_axis_label_3rd_highest_value>
+age bracket	<x_axis>
+with
+1h50	<y_axis_inferred_3rd_highest_value_approx>
+m	<y_axis_inferred_label>
+usage
+.
+Finally	<order_last>
+,
+joint
+lowest	<y_axis_least_value>
+in
+terms
+of
+usage
+at
+the
+25-34 and 35-44 year olds	<group_4th_least>
+,
+with
+just over	<y_axis_approx>
+an	<group_y_4th_least>
+hour <y_axis_inferred_label>
+each
+.
+<end_of_description>
+
+
+
+<start_of_description> #TODO
+This
+chart
+shows
+the
+number of minutes	<y_axis>
+spent
+using
+social media	<t=1_a=y>
+by
+age group	<x_axis>
+per
+day	<t=1_a=y>
+.
+\\n	<separator>
+The
+age group	<x_axis>
+45-54	<x_axis_label_highest_value>
+spend
+the
+most	<y_axis_highest_value>
+amount 
+of
+time	<y_axis>
+on
+social media	<t=1_a=y>
+spending
+150	<y_axis_highest_value_val>
+minutes	<y_axis_inferred_label>
+,
+they
+are
+followed	<order_Scnd>
+by
+the
+age group	<x_axis>
+15-24	<x_axis_label_Scnd_highest_value>
+who
+spend
+122	<y_axis_inferred_Scnd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+,
+they
+are
+then	<order_3rd>
+closely	<y_axis_trend>
+followed	<order_Scnd>
+by
+the
+age group	<x_axis>
+55-64	<x_axis_label_3rd_highest_value>
+who
+spend
+110	<y_axis_3rd_highest_val>
+minutes	<y_axis_inferred_label>
+.
+Age groups	<x_axis>
+25-34 and 35-44	<group_4th_least>
+spend
+approximately	<y_axis_approx>
+the
+same
+amount
+of
+time	<y_axis>
+on
+social media	<t=1_a=y>
+at
+75	<group_y_4th_least>
+minutes	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+most	<y_axis_highest_value>
+frequent	<t=1_a=y>
+daily	<t=1_a=y>
+users	<t=1_a=x>
+according
+to
+this
+chart
+are
+the
+age group	<x_axis>
+45-54	<x_axis_label_highest_value>
+,
+with
+around	<y_axis_approx>
+150	<y_axis_highest_value_val>
+minutes	<y_axis_inferred_label>
+usage
+per
+day	<t=1_a=y>
+.
+The
+second
+age group	<x_axis>
+is
+the
+15-24 's	<x_axis_label_Scnd_highest_value>
+,
+who
+frequent
+social media	<t=1_a=b>
+sites
+just over	<y_axis_approx>
+120	<y_axis_inferred_Scnd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+a
+day	<t=1_a=y>
+.
+The
+least	<y_axis_least_value>
+frequent	<t=1_a=y>
+users	<t=1_a=x>
+we
+can
+see
+from
+this
+chart
+are
+the
+25s-34 ' s	<x_axis_label_4th_highest_value>
+,
+along
+with
+the
+35 ' s - 44 ' s	<x_axis_label_least_value>
+.
+There
+is
+a
+very marginal	<y_axis_trend>
+difference
+here
+,
+with
+the
+25-34	<x_axis_label_4th_highest_value>
+group	<x_axis>
+using
+only slightly	<y_axis_trend>
+more	<y_axis_trend_up>
+minutes	<y_axis>
+a
+day	<t=1_a=y>
+than
+the
+35-44	<x_axis_label_least_value>
+group	<x_axis>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+compares
+the
+daily	<t=1_a=y>
+minutes	<y_axis>
+spent
+on
+social media	<t=1_a=y>
+by
+users	<t=1_a=x>
+from
+5	<x_axis_labels_count>
+ages groups	<x_axis>
+.
+The
+overall
+age
+range
+is
+from
+15	<x_axis_label_Scnd_highest_value>
+to
+64	<x_axis_label_3rd_highest_value>
+years
+.
+Users aged	<x_axis>
+45-54	<x_axis_label_highest_value>
+are
+the
+most	<y_axis_highest_value>
+frequent	<t=1_a=y>
+daily	<t=1_a=y>
+users	<t=1_a=x>
+with
+an
+average
+of
+150	<y_axis_highest_value_val>
+minutes	<y_axis_inferred_label>
+spent
+on
+social media	<t=1_a=y>
+.
+This
+is
+followed	<order_Scnd>
+by
+users aged	<x_axis>
+15-24	<x_axis_label_Scnd_highest_value>
+who
+spend
+on
+average	<y_axis_approx>
+124	<y_axis_inferred_Scnd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+on
+social media	<t=1_a=y>
+.
+The
+lowest	<y_axis_least_value>
+daily	<t=1_a=y>
+usage	<y_axis>
+is
+the
+same
+for
+the
+25-34 and 35-44 year	<group_4th_least>
+age groups	<x_axis>
+at
+an
+average
+of
+76	<group_y_4th_least>
+minutes	<y_axis_inferred_label>
+per
+day	<t=1_a=y>
+.
+The
+oldest
+age group	<x_axis>
+,
+55-64	<x_axis_label_3rd_highest_value>
+are
+the
+median
+group	<x_axis>
+with
+an
+average
+of
+110	<y_axis_3rd_highest_val>
+minutes	<y_axis_inferred_label>
+per
+day	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+most	<y_axis_highest_value>
+frequent	<t=1_a=y>
+daily	<t=1_a=y>
+users	<t=1_a=x>
+of
+social media	<t=1_a=y>
+are
+between
+ages	<x_axis>
+45-54	<x_axis_label_highest_value>
+with
+a
+150	<y_axis_highest_value_val>
+minutes	<y_axis_inferred_label>
+average
+daily	<t=1_a=y>
+.
+The
+least	<y_axis_least_value>
+amount
+is
+ages	<x_axis>
+35-44	<x_axis_label_least_value>
+with
+an
+average
+of
+70	<y_axis_inferred_least_value_approx>
+minutes	<y_axis_inferred_label>
+daily	<t=1_a=y>
+.
+Ages	<x_axis>
+15-24	<x_axis_label_Scnd_highest_value>
+were
+second
+highest	<y_axis_highest_value>
+with
+just over	<y_axis_approx>
+120	<y_axis_inferred_Scnd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+daily	<t=1_a=y>
+and
+then	<order_3rd>
+ages	<x_axis>
+55-64	<x_axis_label_3rd_highest_value>
+with
+110	<y_axis_3rd_highest_val>
+minutes	<y_axis_inferred_label>
+.
+Ages	<x_axis>
+25-34	<x_axis_label_4th_highest_value>
+were
+75	<y_axis_4th_highest_val>
+minutes	<y_axis_inferred_label>
+daily	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+following
+graph
+shows
+the
+most frequent users of social media by age group	<topic>
+.
+45-54 year olds	<x_axis_label_highest_value>
+come
+in
+top	<y_axis_highest_value>
+at
+152	<y_axis_inferred_highest_value_approx>
+minutes	<y_axis_inferred_label>
+a
+day	<t=1_a=y>
+.
+25-34 and 35-44 year olds	<group_4th_least>
+use
+social media	<t=1_a=y>
+the
+least	<y_axis_least_value>
+at
+76	<group_y_4th_least>
+minutes	<y_axis_inferred_label>
+a
+day	<t=1_a=y>
+each
+.
+15-24 year olds	<x_axis_label_Scnd_highest_value>
+use
+social media	<t=1_a=y>
+the
+most	<y_axis_highest_value>
+after
+45-54 year olds	<x_axis_label_highest_value>
+at
+124	<y_axis_inferred_Scnd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+a
+day	<t=1_a=y>
+and
+55-64 year olds	<x_axis_label_3rd_highest_value>
+follow
+behind	<y_axis_trend_down>
+at
+108	<y_axis_inferred_3rd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+a
+day	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+compares
+the
+most	<y_axis_highest_value>
+frequent	<t=1_a=y>
+daily	<t=1_a=y>
+users	<t=1_a=x>
+of
+social media	<t=1_a=y>
+by
+minutes	<y_axis_inferred_label>
+(
+y
+axis
+)
+with
+age groups	<x_axis>
+(
+x
+axis
+)
+.
+45-54 year olds	<x_axis_label_highest_value>
+spend
+the
+most	<y_axis_highest_value>
+amount
+of
+time	<y_axis>
+on
+social media	<t=1_a=y>
+out
+of
+the
+5	<x_axis_labels_count>
+age groups	<x_axis>
+,
+with
+an
+average
+of
+150	<y_axis_highest_value_val>
+minutes	<y_axis_inferred_label>
+.
+15-24 year olds	<x_axis_label_Scnd_highest_value>
+spend
+the
+second
+most	<y_axis_highest_value>
+amount
+of
+time	<y_axis>
+on
+social media	<t=1_a=y>
+,
+with
+an
+average
+of
+124	<y_axis_inferred_Scnd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+.
+55-64 year olds	<x_axis_label_3rd_highest_value>
+spend
+the
+third
+most	<y_axis_highest_value>
+amount
+of
+time	<y_axis>
+on
+social media	<t=1_a=y>
+,
+with
+an
+average
+of
+130	<y_axis_inferred_3rd_highest_value_approx>
+minutes	<y_axis_inferred_label>
+.
+25-34 year olds	<x_axis_label_4th_highest_value>
+spend
+the
+fourth
+most	<y_axis_highest_value>
+amount
+of
+time	<y_axis>
+on
+social media	<t=1_a=y>
+,
+with
+an
+average
+of
+74	<y_axis_inferred_4th_highest_value_approx>
+minutes	<y_axis_inferred_label>
+.
+35-44 year olds	<x_axis_label_least_value>
+spend
+the
+least	<y_axis_least_value>
+amount
+of
+time	<y_axis>
+on
+social media	<t=1_a=y>
+,
+with
+an
+average
+of
+72	<y_axis_inferred_least_value_approx>
+minutes	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+

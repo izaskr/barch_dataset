@@ -1,0 +1,1181 @@
+<start_of_description>
+This
+chart
+shows
+the
+percentage	<y_axis>
+of
+female	<t=0_a=y>
+staff
+represented
+in
+difference
+sectors	<x_axis>
+.
+In
+law firms	<x_axis_label_least_value>
+,
+just	<y_axis_least_value>
+34	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+are
+women	<t=1_a=y>
+,
+compared	<y_x_comparison>
+to
+50	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+in
+financial groups	<x_axis_label_3rd_highest_value>
+,
+62	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+in
+tech	<x_axis_label_Scnd_highest_value>
+and
+64	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+in
+insurance	<x_axis_label_highest_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+percentage of women	<y_axis>
+who
+are
+employed
+by
+companies
+across
+different
+sectors	<x_axis>
+.
+The
+Insurance	<x_axis_label_highest_value>
+sector	<x_axis>
+is
+the
+highest	<y_axis_highest_value>
+employers
+of
+women	<t=1_a=y>
+with
+approximately	<y_axis_approx>
+65	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+of
+staff
+being
+female	<t=0_a=y>
+.
+This
+is
+followed	<order_Scnd>
+closely	<y_axis_trend>
+by
+the
+tech	<x_axis_label_Scnd_highest_value>
+sector	<x_axis>
+with
+just over	<y_axis_approx>
+60	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+female	<t=0_a=y>
+representation	<y_axis>
+.
+In
+financial groups	<x_axis_label_3rd_highest_value>
+the
+split
+between
+men	<t=0_a=y>
+and
+women	<t=1_a=y>
+is
+50	<y_axis_3rd_highest_val>
+-
+50	<y_axis_3rd_highest_val>
+.
+Law firms	<x_axis_label_least_value>
+have
+the
+worst	<y_axis_least_value>
+representation of women	<y_axis>
+across
+the
+sectors	<x_axis>
+studied
+,
+with
+just	<y_axis_least_value>
+35	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+of
+staff
+being
+female	<t=0_a=y>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+title
+tells
+us
+this
+chart
+shows
+women representation in Law Firms	<topic>
+.
+The
+graph
+actually
+shows
+female	<t=0_a=y>
+representation	<y_axis>
+in
+a
+variety
+of
+sectors	<x_axis>
+.
+\\n	<separator>
+The
+intention
+appears
+to
+be
+to
+show
+that
+there
+is
+lower	<y_axis_trend_down>
+representation	<y_axis>
+in
+Law firms	<x_axis_label_least_value>
+,
+at
+35	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+,
+compared	<y_x_comparison>
+to
+50	<y_mean>
+%	<y_axis_inferred_label>
++	<y_axis_approx>
+in
+other
+sectors	<x_axis>
+.
+However I would say this chart is incorrectly titled	<interpretation>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+is
+titled
+woman representation in law firms	<topic>
+and
+shows
+that
+law firms	<x_axis_label_least_value>
+had
+a
+percentage	<y_axis>
+of
+around	<y_axis_approx>
+35	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+.
+The
+chart
+also
+shows
+other
+sectors	<x_axis>
+of
+industy
+for
+a
+comparison	<y_x_comparison>
+with
+financial groups	<x_axis_label_3rd_highest_value>
+having
+a
+50	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+,
+tech	<x_axis_label_Scnd_highest_value>
+with
+62	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+and
+Insurance	<x_axis_label_highest_value>
+64	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+claims
+to
+show
+women representation in law firms	<topic>
+(
+though
+again
+,
+the
+chart
+looks
+at
+several
+sectors	<x_axis>
+not
+just
+law firms	<x_axis_label_least_value>
+)
+.
+Insurance	<x_axis_label_highest_value>
+has
+the
+highest	<y_axis_highest_value>
+percentage of women	<y_axis>
+at
+65	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+whilst	<y_x_comparison>
+law firms	<x_axis_label_least_value>
+have
+the
+lowers	<y_axis_least_value>
+(
+at
+35	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+)
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+shows
+percentage of female representation in firms	<topic>
+.
+The
+graph
+is
+titled
+as
+being
+in
+law firms	<x_axis_label_least_value>
+but
+also
+includes
+data
+for
+three
+other
+types
+of
+firm	<x_axis>
+(
+finance	<x_axis_label_3rd_highest_value>
+,
+tech	<x_axis_label_Scnd_highest_value>
+and
+insurance	<x_axis_label_highest_value>
+)
+for
+comparison	<y_x_comparison>
+.
+\\n	<separator>
+\\n	<separator>
+The
+graph
+shows
+that
+law firms	<x_axis_label_least_value>
+have
+the
+lowest	<y_axis_least_value>
+female	<t=0_a=y>
+representation	<y_axis>
+at
+35	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+,
+behind	<y_axis_trend_down>
+insurance	<x_axis_label_highest_value>
+(
+65	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+)
+,
+tech	<x_axis_label_Scnd_highest_value>
+(
+62	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+)
+and
+finance	<x_axis_label_3rd_highest_value>
+(
+50	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+)
+in
+that
+order
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+rerpresentation given to women in law firms	<topic>
+.
+\\n	<separator>
+From
+the
+chart
+we
+see
+that
+the
+the
+majority	<y_axis_highest_value>
+of
+law firms	<x_axis_label_least_value>
+provide
+at
+least	<y_axis_least_value>
+50	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+representation	<y_axis>
+(
+with
+Finance	<x_axis_label_3rd_highest_value>
+exactly	<y_axis_approx>
+at
+parity
+with
+50	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+,
+and
+both
+Tech	<x_axis_label_Scnd_highest_value>
+and
+Insurance	<x_axis_label_highest_value>
+exceeding
+this
+,
+at
+62	<y_axis_Scnd_highest_val>
+and
+65	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+respectively
+.
+Law firms	<x_axis_label_least_value>
+have
+some
+catching
+up
+to
+do
+,
+with
+a
+figure
+of
+only	<y_axis_least_value>
+35	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+the
+percentage of women in law firms	<topic>
+and
+in
+a
+variety
+of
+sectors	<x_axis>
+.
+\\n	<separator>
+From
+the
+chart
+we
+see
+that
+the
+Insurance	<x_axis_label_highest_value>
+sector	<x_axis>
+has
+the
+highest	<y_axis_highest_value>
+representation of women	<y_axis>
+with
+65	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+closely	<y_axis_trend>
+followed	<order_Scnd>
+by
+the
+Tech	<x_axis_label_Scnd_highest_value>
+sector	<x_axis>
+with
+62	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+.
+The
+Financial Groups	<x_axis_label_3rd_highest_value>
+sector	<x_axis>
+then	<order_3rd>
+follows	<order_Scnd>
+with
+50	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+of
+women	<t=1_a=y>
+represented
+and
+the
+Law Firms	<x_axis_label_least_value>
+sector	<x_axis>
+had
+the
+lowest	<y_axis_least_value>
+representation of women	<y_axis>
+with
+just	<y_axis_least_value>
+35	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+title
+indicates
+percentage of women representation in law firms	<topic>
+.
+However
+,
+dataset
+indicates
+representation	<y_axis>
+across
+Financial Services	<x_axis_label_3rd_highest_value>
+,
+Tech	<x_axis_label_Scnd_highest_value>
+,
+Insurance	<x_axis_label_highest_value>
+,
+and
+Law Firms	<x_axis_label_least_value>
+.
+\\n	<separator>
+\\n	<separator>
+Insurance	<x_axis_label_highest_value>
+has
+the
+highest	<y_axis_highest_value>
+percentage of female representation	<y_axis>
+(
+65	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+)
+,
+closely	<y_axis_trend>
+followed	<order_Scnd>
+by
+Tech	<x_axis_label_Scnd_highest_value>
+(
+62	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+)
+.
+Law Firms	<x_axis_label_least_value>
+have
+the
+lowest	<y_axis_least_value>
+female	<t=0_a=y>
+representation	<y_axis>
+(
+35	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+)
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+shows
+the
+percentage of women representation in different law firm	<topic>
+sectors	<x_axis>
+.
+Insurance	<x_axis_label_highest_value>
+sees
+the
+highest	<y_axis_highest_value>
+representation	<y_axis>
+,
+followed	<order_Scnd>
+by
+Tech	<x_axis_label_Scnd_highest_value>
+.
+Financial groups	<x_axis_label_3rd_highest_value>
+then	<order_3rd>
+reported
+50	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+.
+Law firms	<x_axis_label_least_value>
+was
+the
+lowest	<y_axis_least_value>
+percentage	<y_axis>
+representage
+at
+35	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the
+percentage of women	<y_axis>
+in
+the
+sectors	<x_axis>
+of
+various
+law firms	<x_axis_label_least_value>
+.
+The
+graph
+shows
+a
+similar	<y_axis_trend>
+percentage	<y_axis>
+in
+all
+areas
+with
+only	<y_axis_least_value>
+Law Firms	<x_axis_label_least_value>
+falling lower	<y_axis_trend_down>
+at
+35	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+,
+the
+other
+3
+sectors	<x_axis>
+range
+between
+50	<y_axis_3rd_highest_val>
+and
+65	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+female representation in Law Firms	<topic>
+as
+a
+percentage	<y_axis_inferred_label>
+compared	<y_x_comparison>
+with
+the
+other
+industries
+,
+Insurance	<x_axis_label_highest_value>
+,
+Tech	<x_axis_label_Scnd_highest_value>
+and
+Financial Groups	<x_axis_label_3rd_highest_value>
+.
+\\n	<separator>
+\\n	<separator>
+The
+chart
+shows
+that
+while	<y_x_comparison>
+the
+other
+3
+had
+over	<y_axis_approx>
+50	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+representation of women	<y_axis>
+in
+their
+sectors	<x_axis>
+,
+Law Firms	<x_axis_label_least_value>
+had
+around	<y_axis_approx>
+35	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+.
+All of these are traditionally male dominated areas , so it leads us to ask what it is that has made the difference between the 4 sectors
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+shows
+women representation in law firms	<topic>
+compared	<y_x_comparison>
+to
+other
+sectors	<x_axis>
+.
+\\n	<separator>
+The
+representation	<y_axis>
+in
+law firms	<x_axis_label_least_value>
+is
+35	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+compared
+to
+65	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+in
+insurance	<x_axis_label_highest_value>
+,
+61	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+in
+Tech	<x_axis_label_Scnd_highest_value>
+and
+50	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+in
+financial groups	<x_axis_label_3rd_highest_value>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+charts
+shows
+the
+percentage of women represented in law firms	<topic>
+by
+sector	<x_axis>
+.
+\\n	<separator>
+\\n	<separator>
+The
+chart
+shows
+the
+representation	<y_axis>
+in
+Law firms	<x_axis_label_least_value>
+is
+much	<y_axis_trend>
+less	<y_axis_trend_down>
+than
+those
+in
+other
+sectors	<x_axis>
+,
+with
+the
+Insurance	<x_axis_label_highest_value>
+sector	<x_axis>
+leading	<y_axis_highest_value>
+the
+way
+but	<y_x_comparison>
+Tech	<x_axis_label_Scnd_highest_value>
+very closely	<y_axis_trend>
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+displays
+the
+percentage of women in various law firms	<topic>
+.
+The
+sector	<x_axis>
+of
+insurance	<x_axis_label_highest_value>
+has
+the
+most	<y_axis_highest_value>
+with
+around	<y_axis_approx>
+65	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+,
+followed	<order_Scnd>
+by
+Tech	<x_axis_label_Scnd_highest_value>
+which
+has
+60	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+The
+Financial groups	<x_axis_label_3rd_highest_value>
+is
+not
+far	<y_axis_trend>
+behind	<y_axis_trend_down>
+with
+around	<y_axis_approx>
+50	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+,
+however	<y_x_comparison>
+there
+is
+a
+decline	<y_axis_trend_down>
+when
+it
+comes
+to
+Law Firms	<x_axis_label_least_value>
+as
+there
+is
+only	<y_axis_least_value>
+around	<y_axis_approx>
+35	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+percentage of women	<y_axis>
+working
+in
+law firms	<x_axis_label_least_value>
+is
+significantly	<y_axis_trend>
+smaller	<y_axis_trend_down>
+than
+the
+percentage of women	<y_axis>
+working
+in
+financial groups	<x_axis_label_3rd_highest_value>
+,
+tech	<x_axis_label_Scnd_highest_value>
+and
+insurance	<x_axis_label_highest_value>
+.
+At
+just	<y_axis_least_value>
+36	<y_axis_inferred_least_value_approx>
+%	<y_axis_inferred_label>
+,
+it
+is
+30	<y_axis_inferred_value_add_v1=least_v2=highest>
+%	<y_axis_inferred_label>
+lower	<y_axis_trend_down>
+than
+the
+proportion of women	<y_axis>
+working
+in
+insurance	<x_axis_label_highest_value>
+(
+which
+has
+the
+highest	<y_axis_highest_value>
+proportion	<y_axis
+at
+66	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+Chart
+shows
+the
+percentage of women	<y_axis>
+represented
+by
+industry sector	<x_axis>
+to
+compare
+with
+Law	<x_axis_label_least_value>
+.
+\\n	<separator>
+Insurance	<x_axis_label_highest_value>
+has
+the
+highest	<y_axis_highest_value>
+proportion	<y_axis>
+at
+65	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+,
+closely	<y_axis_trend>
+followed	<order_Scnd>
+by
+Tech	<x_axis_label_Scnd_highest_value>
+at
+62	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+,
+Finance	<x_axis_label_3rd_highest_value>
+at
+50	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+with
+Law	<x_axis_label_least_value>
+trailing	<y_axis_least_value>
+at
+35	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the
+percentage	<y_axis>
+of
+the
+staff
+in
+different
+industries
+that
+are
+women	<t=1_a=y>
+,
+compared	<y_x_comparison>
+to
+female	<t=0_a=y>
+representation	<y_axis>
+in
+law firms	<x_axis_label_least_value>
+.
+Law firms	<x_axis_label_least_value>
+are
+shown
+to
+have
+the
+fewest	<y_axis_least_value>
+women	<t=1_a=y>
+of
+these
+sectors	<x_axis>
+,
+about	<y_axis_approx>
+35	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+,
+while	<y_x_comparison>
+the
+insurance	<x_axis_label_highest_value>
+sector	<x_axis>
+employs
+the
+largest	<y_axis_highest_value>
+proportion of women	<y_axis>
+at
+65	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+As
+we
+can
+see
+from
+the
+chart
+,
+the
+highest	<y_axis_highest_value>
+sector	<x_axis>
+of
+women	<t=1_a=y>
+is
+in
+insurance	<x_axis_label_highest_value>
+which
+has
+approximately	<y_axis_approx>
+64	<y_axis_inferred_highest_value_approx>
+%	<y_axis_inferred_label>
+.
+This
+is
+then	<order_3rd>
+followed	<order_Scnd>
+by
+Tech	<x_axis_label_Scnd_highest_value>
+with
+62	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+,
+financial groups	<x_axis_label_3rd_highest_value>
+at
+50	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+and
+the
+sector	<x_axis>
+with
+the
+least	<y_axis_least_value>
+amount of women	<y_axis>
+involved
+appears
+to
+be
+law firms	<x_axis_label_least_value>
+at
+approximately	<y_axis_approx>
+65	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+graph
+shows
+the
+female	<t=0_a=y>
+representation	<y_axis>
+in
+4	<x_axis_labels_count>
+different
+employment
+sectors	<x_axis>
+.
+Law	<x_axis_label_least_value>
+being
+the
+lowest	<y_axis_least_value>
+with
+only	<y_axis_least_value>
+35	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+of
+employees
+being
+women	<t=1_a=y>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+This
+chart
+shows
+that
+women	<t=1_a=y>
+are
+more	<y_axis_trend_up>
+represented
+in
+insurance	<x_axis_label_highest_value>
+,
+technology	<x_axis_label_Scnd_highest_value>
+and
+financial groups	<x_axis_label_3rd_highest_value>
+than
+in
+law firms	<x_axis_label_least_value>
+.
+The
+percentage of women	<y_axis>
+in
+law firms	<x_axis_label_least_value>
+is
+35	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+compared	<y_x_comparison>
+with
+50	<y_axis_3rd_highest_val>
+%	<y_axis_inferred_label>
+in
+financial	<x_axis_label_3rd_highest_value>
+,
+62	<y_axis_Scnd_highest_val>
+%	<y_axis_inferred_label>
+in
+technology	<x_axis_label_Scnd_highest_value>
+and
+65	<y_axis_highest_value_val>
+%	<y_axis_inferred_label>
+in
+insurance	<x_axis_label_highest_value>
+.
+\\n	<separator>
+Again , the y axis is not clearly labelled - I assume it is percentage	of women	<interpretation>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+chart
+compares
+the
+percentage of female representation	<y_axis>
+across
+different
+sectors	<x_axis>
+.
+Whilst	<y_x_comparison>
+insurance	<x_axis_label_highest_value>
+and
+tech	<x_axis_label_Scnd_highest_value>
+sectors	<x_axis>
+are
+leading	<y_axis_highest_value>
+the
+charge
+at
+over	<y_axis_approx>
+60	<y_axis_inferred_Scnd_highest_value_approx>
+%	<y_axis_inferred_label>
+,
+law firms	<x_axis_label_least_value>
+are
+farther
+behind	<y_axis_trend_down>
+around	<y_axis_approx>
+35	<y_axis_least_value_val>
+%	<y_axis_inferred_label>
+.
+<end_of_description>
+
+
+
+<start_of_description>
+The
+graph
+shows
+the
+representation of woman	<y_axis>
+in
+different
+sectors	<x_axis>
+.
+This
+shows
+that
+women	<t=1_a=y>
+are
+less	<y_axis_trend_down>
+likely
+to
+be
+employed
+by
+law firms	<x_axis_label_least_value>
+than
+financial groups	<x_axis_label_3rd_highest_value>
+,
+tech	<x_axis_label_Scnd_highest_value>
+and
+insurance	<x_axis_label_highest_value>
+.
+<end_of_description>
+
+
+
