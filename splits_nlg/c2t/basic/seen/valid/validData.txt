@@ -1,0 +1,213 @@
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|5|y|bar_chart Country|Spain|x|bar_chart Percentage|10|y|bar_chart Country|UK|x|bar_chart Percentage|15|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Country|Germany|x|bar_chart Percentage|21.0|y|bar_chart Country|Spain|x|bar_chart Percentage|15.1|y|bar_chart Country|UK|x|bar_chart Percentage|20.5|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_1000|40|y|bar_chart Year|2005|x|bar_chart Salary_1000|45|y|bar_chart Year|2010|x|bar_chart Salary_1000|50|y|bar_chart Year|2015|x|bar_chart Salary_1000|55|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+Year|2000|x|bar_chart Salary_Thousand_Pounds|22.7|y|bar_chart Year|2005|x|bar_chart Salary_Thousand_Pounds|25.65|y|bar_chart Year|2010|x|bar_chart Salary_Thousand_Pounds|19.7|y|bar_chart Year|2015|x|bar_chart Salary_Thousand_Pounds|16.0|y|bar_chart 
+type|Watching_TV|x|bar_chart Percentage_of_People|40|y|bar_chart type|Spend_Time_With_Family|x|bar_chart Percentage_of_People|20|y|bar_chart type|Reading_a_Book|x|bar_chart Percentage_of_People|10|y|bar_chart type|Going_Out|x|bar_chart Percentage_of_People|30|y|bar_chart 
+type|Watching_TV|x|bar_chart Percentage_of_People|40|y|bar_chart type|Spend_Time_With_Family|x|bar_chart Percentage_of_People|20|y|bar_chart type|Reading_a_Book|x|bar_chart Percentage_of_People|10|y|bar_chart type|Going_Out|x|bar_chart Percentage_of_People|30|y|bar_chart 
+type|Watching_TV|x|bar_chart Percentage_of_People|40|y|bar_chart type|Spend_Time_With_Family|x|bar_chart Percentage_of_People|20|y|bar_chart type|Reading_a_Book|x|bar_chart Percentage_of_People|10|y|bar_chart type|Going_Out|x|bar_chart Percentage_of_People|30|y|bar_chart 
+type|Watching_TV|x|bar_chart Percentage_of_People|40|y|bar_chart type|Spend_Time_With_Family|x|bar_chart Percentage_of_People|20|y|bar_chart type|Reading_a_Book|x|bar_chart Percentage_of_People|10|y|bar_chart type|Going_Out|x|bar_chart Percentage_of_People|30|y|bar_chart 
+type|Watching_TV|x|bar_chart Percentage_of_People|40|y|bar_chart type|Spend_Time_With_Family|x|bar_chart Percentage_of_People|20|y|bar_chart type|Reading_a_Book|x|bar_chart Percentage_of_People|10|y|bar_chart type|Going_Out|x|bar_chart Percentage_of_People|30|y|bar_chart 
+type|Watching_TV|x|bar_chart Percentage_of_People|40|y|bar_chart type|Spend_Time_With_Family|x|bar_chart Percentage_of_People|20|y|bar_chart type|Reading_a_Book|x|bar_chart Percentage_of_People|10|y|bar_chart type|Going_Out|x|bar_chart Percentage_of_People|30|y|bar_chart 
+type|Watching_TV|x|bar_chart Percentage_of_People|40|y|bar_chart type|Spend_Time_With_Family|x|bar_chart Percentage_of_People|20|y|bar_chart type|Reading_a_Book|x|bar_chart Percentage_of_People|10|y|bar_chart type|Going_Out|x|bar_chart Percentage_of_People|30|y|bar_chart 
+type|Watching_TV|x|bar_chart Percentage_of_People|40|y|bar_chart type|Spend_Time_With_Family|x|bar_chart Percentage_of_People|20|y|bar_chart type|Reading_a_Book|x|bar_chart Percentage_of_People|10|y|bar_chart type|Going_Out|x|bar_chart Percentage_of_People|30|y|bar_chart 
+type|Watching_TV|x|bar_chart Percentage_of_People|40|y|bar_chart type|Spend_Time_With_Family|x|bar_chart Percentage_of_People|20|y|bar_chart type|Reading_a_Book|x|bar_chart Percentage_of_People|10|y|bar_chart type|Going_Out|x|bar_chart Percentage_of_People|30|y|bar_chart 
+type|Watching_TV|x|bar_chart Percentage_of_People|40|y|bar_chart type|Spend_Time_With_Family|x|bar_chart Percentage_of_People|20|y|bar_chart type|Reading_a_Book|x|bar_chart Percentage_of_People|10|y|bar_chart type|Going_Out|x|bar_chart Percentage_of_People|30|y|bar_chart 
+type|Watching_TV|x|bar_chart Percentage_of_People|40|y|bar_chart type|Spend_Time_With_Family|x|bar_chart Percentage_of_People|20|y|bar_chart type|Reading_a_Book|x|bar_chart Percentage_of_People|10|y|bar_chart type|Going_Out|x|bar_chart Percentage_of_People|30|y|bar_chart 
+type|Watching_TV|x|bar_chart Percentage_of_People|40|y|bar_chart type|Spend_Time_With_Family|x|bar_chart Percentage_of_People|20|y|bar_chart type|Reading_a_Book|x|bar_chart Percentage_of_People|10|y|bar_chart type|Going_Out|x|bar_chart Percentage_of_People|30|y|bar_chart 
+type|Watching_TV|x|bar_chart Percentage_of_People|40|y|bar_chart type|Spend_Time_With_Family|x|bar_chart Percentage_of_People|20|y|bar_chart type|Reading_a_Book|x|bar_chart Percentage_of_People|10|y|bar_chart type|Going_Out|x|bar_chart Percentage_of_People|30|y|bar_chart 
+type|Watching_TV|x|bar_chart Percentage_of_People|40|y|bar_chart type|Spend_Time_With_Family|x|bar_chart Percentage_of_People|20|y|bar_chart type|Reading_a_Book|x|bar_chart Percentage_of_People|10|y|bar_chart type|Going_Out|x|bar_chart Percentage_of_People|30|y|bar_chart 
+type|Watching_TV|x|bar_chart Percentage_of_People|40|y|bar_chart type|Spend_Time_With_Family|x|bar_chart Percentage_of_People|20|y|bar_chart type|Reading_a_Book|x|bar_chart Percentage_of_People|10|y|bar_chart type|Going_Out|x|bar_chart Percentage_of_People|30|y|bar_chart 
+type|Watching_TV|x|bar_chart Percentage_of_People|40|y|bar_chart type|Spend_Time_With_Family|x|bar_chart Percentage_of_People|20|y|bar_chart type|Reading_a_Book|x|bar_chart Percentage_of_People|10|y|bar_chart type|Going_Out|x|bar_chart Percentage_of_People|30|y|bar_chart 
+type|Watching_TV|x|bar_chart Percentage_of_People|40|y|bar_chart type|Spend_Time_With_Family|x|bar_chart Percentage_of_People|20|y|bar_chart type|Reading_a_Book|x|bar_chart Percentage_of_People|10|y|bar_chart type|Going_Out|x|bar_chart Percentage_of_People|30|y|bar_chart 
+type|Watching_TV|x|bar_chart Percentage_of_People|40|y|bar_chart type|Spend_Time_With_Family|x|bar_chart Percentage_of_People|20|y|bar_chart type|Reading_a_Book|x|bar_chart Percentage_of_People|10|y|bar_chart type|Going_Out|x|bar_chart Percentage_of_People|30|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Activity|Watching_TV|x|bar_chart Percentage_of_People|12|y|bar_chart Activity|Spend_Time_With_Family|x|bar_chart Percentage_of_People|32|y|bar_chart Activity|Reading_a_Book|x|bar_chart Percentage_of_People|38|y|bar_chart Activity|Going_Out|x|bar_chart Percentage_of_People|18|y|bar_chart 
+Degree|Bachelor|x|bar_chart Salary1000|45|y|bar_chart Degree|Master|x|bar_chart Salary1000|55|y|bar_chart Degree|PhD|x|bar_chart Salary1000|65|y|bar_chart Degree|No_Degree|x|bar_chart Salary1000|35|y|bar_chart 
+Degree|Bachelor|x|bar_chart Salary1000|45|y|bar_chart Degree|Master|x|bar_chart Salary1000|55|y|bar_chart Degree|PhD|x|bar_chart Salary1000|65|y|bar_chart Degree|No_Degree|x|bar_chart Salary1000|35|y|bar_chart 
+Degree|Bachelor|x|bar_chart Salary1000|45|y|bar_chart Degree|Master|x|bar_chart Salary1000|55|y|bar_chart Degree|PhD|x|bar_chart Salary1000|65|y|bar_chart Degree|No_Degree|x|bar_chart Salary1000|35|y|bar_chart 
+Degree|Bachelor|x|bar_chart Salary1000|45|y|bar_chart Degree|Master|x|bar_chart Salary1000|55|y|bar_chart Degree|PhD|x|bar_chart Salary1000|65|y|bar_chart Degree|No_Degree|x|bar_chart Salary1000|35|y|bar_chart 
+Degree|Bachelor|x|bar_chart Salary1000|45|y|bar_chart Degree|Master|x|bar_chart Salary1000|55|y|bar_chart Degree|PhD|x|bar_chart Salary1000|65|y|bar_chart Degree|No_Degree|x|bar_chart Salary1000|35|y|bar_chart 
+Degree|Bachelor|x|bar_chart Salary1000|45|y|bar_chart Degree|Master|x|bar_chart Salary1000|55|y|bar_chart Degree|PhD|x|bar_chart Salary1000|65|y|bar_chart Degree|No_Degree|x|bar_chart Salary1000|35|y|bar_chart 
+Degree|Bachelor|x|bar_chart Salary1000|45|y|bar_chart Degree|Master|x|bar_chart Salary1000|55|y|bar_chart Degree|PhD|x|bar_chart Salary1000|65|y|bar_chart Degree|No_Degree|x|bar_chart Salary1000|35|y|bar_chart 
+Degree|Bachelor|x|bar_chart Salary1000|45|y|bar_chart Degree|Master|x|bar_chart Salary1000|55|y|bar_chart Degree|PhD|x|bar_chart Salary1000|65|y|bar_chart Degree|No_Degree|x|bar_chart Salary1000|35|y|bar_chart 
+Degree|Bachelor|x|bar_chart Salary1000|45|y|bar_chart Degree|Master|x|bar_chart Salary1000|55|y|bar_chart Degree|PhD|x|bar_chart Salary1000|65|y|bar_chart Degree|No_Degree|x|bar_chart Salary1000|35|y|bar_chart 
+Degree|Bachelor|x|bar_chart Salary1000|45|y|bar_chart Degree|Master|x|bar_chart Salary1000|55|y|bar_chart Degree|PhD|x|bar_chart Salary1000|65|y|bar_chart Degree|No_Degree|x|bar_chart Salary1000|35|y|bar_chart 
+Degree|Bachelor|x|bar_chart Salary1000|45|y|bar_chart Degree|Master|x|bar_chart Salary1000|55|y|bar_chart Degree|PhD|x|bar_chart Salary1000|65|y|bar_chart Degree|No_Degree|x|bar_chart Salary1000|35|y|bar_chart 
+Degree|Bachelor|x|bar_chart Salary1000|45|y|bar_chart Degree|Master|x|bar_chart Salary1000|55|y|bar_chart Degree|PhD|x|bar_chart Salary1000|65|y|bar_chart Degree|No_Degree|x|bar_chart Salary1000|35|y|bar_chart 
+Degree|Bachelor|x|bar_chart Salary1000|45|y|bar_chart Degree|Master|x|bar_chart Salary1000|55|y|bar_chart Degree|PhD|x|bar_chart Salary1000|65|y|bar_chart Degree|No_Degree|x|bar_chart Salary1000|35|y|bar_chart 
+Degree|Bachelor|x|bar_chart Salary1000|45|y|bar_chart Degree|Master|x|bar_chart Salary1000|55|y|bar_chart Degree|PhD|x|bar_chart Salary1000|65|y|bar_chart Degree|No_Degree|x|bar_chart Salary1000|35|y|bar_chart 
+Degree|Bachelor|x|bar_chart Salary1000|45|y|bar_chart Degree|Master|x|bar_chart Salary1000|55|y|bar_chart Degree|PhD|x|bar_chart Salary1000|65|y|bar_chart Degree|No_Degree|x|bar_chart Salary1000|35|y|bar_chart 
+Degree|Bachelor|x|bar_chart Salary1000|45|y|bar_chart Degree|Master|x|bar_chart Salary1000|55|y|bar_chart Degree|PhD|x|bar_chart Salary1000|65|y|bar_chart Degree|No_Degree|x|bar_chart Salary1000|35|y|bar_chart 
+Degree|Bachelor|x|bar_chart Salary1000|45|y|bar_chart Degree|Master|x|bar_chart Salary1000|55|y|bar_chart Degree|PhD|x|bar_chart Salary1000|65|y|bar_chart Degree|No_Degree|x|bar_chart Salary1000|35|y|bar_chart 
+Degree|Bachelor|x|bar_chart Salary1000|45|y|bar_chart Degree|Master|x|bar_chart Salary1000|55|y|bar_chart Degree|PhD|x|bar_chart Salary1000|65|y|bar_chart Degree|No_Degree|x|bar_chart Salary1000|35|y|bar_chart 
+Degree|Bachelor|x|bar_chart Salary1000|45|y|bar_chart Degree|Master|x|bar_chart Salary1000|55|y|bar_chart Degree|PhD|x|bar_chart Salary1000|65|y|bar_chart Degree|No_Degree|x|bar_chart Salary1000|35|y|bar_chart 
