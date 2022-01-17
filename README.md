@@ -8,7 +8,7 @@ We designed bar charts for a selection of 18 different topics. Each chart is ass
 The repository also provides the annotation guidelines for aligning summary and chart data.
 
 ### NLG
-We used the data to train several natural language generation models, namely a baseline LSTM encoder-decoder with attention, Chart2Text (Obeid and Hoque 2020) and KGT (Zhu et al. 2021).
+We used the data to train several natural language generation models, namely a baseline LSTM encoder-decoder with attention, Chart2Text ([Obeid and Hoque 2020](https://aclanthology.org/2020.inlg-1.20/)) and KGT ([Zhu et al. 2021](https://aclanthology.org/2020.emnlp-main.697/)).
 
 
 ### Project structure
